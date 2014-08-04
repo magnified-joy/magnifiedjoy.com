@@ -3,6 +3,10 @@ body,html{
     background:white;
     padding:0;
     font-family:georgia,serif;
+    color:#565759;
+    font-size:13px;
+    letter-spacing:0.04em;
+    line-height:1.6em;
 }
 .hidden{
     display:none;
