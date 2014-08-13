@@ -47,7 +47,7 @@ margin:10px 10px 0px 10px;
 #navigation a{
     margin:0 15px;
 }
-#navigation a:hover, #footer a:hover, .navigation a{
+#navigation a:hover, #footer a:hover, .navigation a:hover{
     color:#aaa;
     text-decoration:none;
 }
