@@ -18,10 +18,8 @@ body,html{
 .center{
     text-align:center;
 }
-#logo{
-    margin:20px auto 10px auto;
-}
-.logo{
+
+.navigation .logo{
     margin:10px 0;
 }
 .navigation a{
