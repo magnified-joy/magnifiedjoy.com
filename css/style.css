@@ -142,7 +142,7 @@ text-transform: uppercase;
     .navigation > div:last-child{
        text-align:right;
     }
-    .navigation > div:first-child{
+    .navigation > div:last-child{
        text-align:left;
     }
 }
