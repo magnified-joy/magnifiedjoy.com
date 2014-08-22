@@ -8,7 +8,6 @@ body,html{
     letter-spacing:0.04em;
     line-height:1.6em;
 }
-
 .hidden{
     display:none;
     visibility:hidden;
@@ -25,13 +24,7 @@ body,html{
 .logo{
     margin:10px 0;
 }
-#navigation{
-    padding:4px 0;
-    position:fixed;
-    top:0;
-    left:0;
-}
-#navigation a, .navigation a{
+.navigation a{
     font-family:"Muli",sans-serif;
     font-size:10px;
     text-transform:uppercase;
@@ -40,6 +33,7 @@ body,html{
 }
 .navigation{
     padding:10px 0 0 0;
+    height:170px;
 }
 .navigation a{
 display:inline-block;
@@ -48,11 +42,7 @@ margin:10px 10px 0px 10px;
 .navigation > div{
    text-align:center;
 }
-
-#navigation a{
-    margin:0 15px;
-}
-#navigation a:hover, #footer a:hover, .navigation a:hover{
+ #footer a:hover, .navigation a:hover{
     color:#aaa;
     text-decoration:none;
 }
@@ -87,6 +77,26 @@ strong{
     font-weight:normal;
     text-transform:uppercase;
 }
+
+.btn{
+text-shadow: none;
+border-radius: 0;
+font-family: "Muli",sans-serif;
+text-transform: uppercase;
+background: none;
+border: 4px solid #fff;
+font-size:0.5em;
+padding:1em 6em;
+}
+.btn strong{
+    font-size:1.5em;
+}
+.btn:hover{
+    background:#fff;
+    color:#565759;
+    border-color:#fff;
+}
+
 #footer{
     padding:20px 0;
 }
@@ -120,6 +130,10 @@ text-transform: uppercase;
 .home .featured a .caption strong{
     font-size: 1.4em;
 }
+/*.home .featured a .caption:hover{
+    background:#fff;
+    color:#565759;
+}*/
 .home .featured a:hover{
     background:#565759;
 }
