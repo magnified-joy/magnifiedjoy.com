@@ -27,6 +27,9 @@ body,html{
 }
 #navigation{
     padding:4px 0;
+    position:fixed;
+    top:0;
+    left:0;
 }
 #navigation a, .navigation a{
     font-family:"Muli",sans-serif;
@@ -45,6 +48,7 @@ margin:10px 10px 0px 10px;
 .navigation > div{
    text-align:center;
 }
+
 #navigation a{
     margin:0 15px;
 }
@@ -136,13 +140,25 @@ text-transform: uppercase;
 }
 
 @media (min-width: 992px) {
+    body{
+        padding:100px 0 0 0;
+    }
+    .navigation{
+        height:100px;
+    position: fixed;
+height: 100px;
+z-index: 10;
+background: #fff;
+width: 100%;
+top:0;
+    }
     .navigation a{
     margin:55px 10px 0px 10px;
     }
     .navigation > div:last-child{
-       text-align:right;
-    }
-    .navigation > div:last-child{
        text-align:left;
+    }
+    .navigation > div:first-child{
+       text-align:right;
     }
 }
