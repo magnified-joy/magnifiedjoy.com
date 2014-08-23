@@ -173,10 +173,21 @@ color:#fff;
     filter: gray; filter: grayscale(100%);
     filter: url(img/desaturate.svg#greyscale);
 }
+.col-md-12 .map{
+    height:250px;
+}
 
 .home .featured img{
     width:100%;
     height:auto;
+}
+
+.map{
+    opacity:0.75;
+    -webkit-filter: grayscale(1); -webkit-filter: grayscale(100%); -moz-filter: grayscale(100%);
+    filter: gray; filter: grayscale(100%);
+    filter: url(img/desaturate.svg#greyscale);
+    border:1px solid #c3c4c6;
 }
 
 @media (min-width: 992px) {
