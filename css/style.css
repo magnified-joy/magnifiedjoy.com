@@ -18,7 +18,9 @@ body,html{
 .center{
     text-align:center;
 }
-
+a,a:hover{
+    color:#ff705c;
+}
 .navigation .logo{
     margin:10px 0;
 }
