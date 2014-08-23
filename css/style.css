@@ -29,17 +29,31 @@ body,html{
     color:#565759;
     margin:0px 10px;
 }
-.navigation{
-    padding:10px 0 0 0;
-    height:170px;
+.container.navigation{
+    padding:10px  0;
+        z-index:100;
 }
 .navigation a{
 display:inline-block;
 margin:10px 10px 0px 10px;
 }
+.navigation a.active{
+    color:#919294;
+    border-bottom:1px solid #c3c4c6;
+}
 .navigation > div{
    text-align:center;
 }
+.container img{
+    width:100%;
+    height:auto;
+}
+.thumbnail{
+    border:none;
+    padding:0;
+    border-radius:0;
+}
+
  #footer a:hover, .navigation a:hover{
     color:#aaa;
     text-decoration:none;
@@ -76,7 +90,7 @@ strong{
     text-transform:uppercase;
 }
 
-.btn{
+.carousel-caption .btn{
 text-shadow: none;
 border-radius: 0;
 font-family: "Muli",sans-serif;
@@ -86,13 +100,20 @@ border: 4px solid #fff;
 font-size:0.5em;
 padding:1em 6em;
 }
-.btn strong{
+.btn{
+    border-radius:0;
+}
+.carousel-caption .btn strong{
     font-size:1.5em;
 }
-.btn:hover{
+.carousel-caption .btn:hover{
     background:#fff;
     color:#565759;
     border-color:#fff;
+}
+
+.btn-group>.btn:last-child:not(:first-child), .btn-group>.dropdown-toggle:not(:first-child), .btn-group>.btn:first-child:not(:last-child):not(.dropdown-toggle){
+    border-radius:0;
 }
 
 #footer{
@@ -112,7 +133,13 @@ padding:1em 6em;
     color:#fff;
     font-family:"Muli",sans-serif;
 }
-.home .featured a .caption{
+.container .thumbnail{
+    text-align:center;
+    text-decoration:none;
+    color:#fff;
+    font-family:"Muli",sans-serif;
+}
+.home .featured a .caption, .thumbnail .caption{
     display:none;
     visibility:hidden;
 background: transparent;
@@ -124,22 +151,23 @@ border: 4px solid #fff;
 padding: 0.5em 0;
 font-size: 0.8em;
 text-transform: uppercase;
+color:#fff;
 }
-.home .featured a .caption strong{
+.thumbnail .caption{
+    top:30%;
+}
+.home .featured a .caption strong, .thumbnail .caption strong{
     font-size: 1.4em;
 }
-/*.home .featured a .caption:hover{
-    background:#fff;
-    color:#565759;
-}*/
-.home .featured a:hover{
+
+.home .featured a, .thumbnail{
     background:#565759;
 }
-.home .featured a:hover .caption{
+.home .featured a:hover .caption, .thumbnail:hover .caption{
     display: block;
     visibility:visible;
 }
-.home .featured a:hover img{
+.home .featured a:hover img, .thumbnail:hover img{
     opacity:0.33;
     -webkit-filter: grayscale(1); -webkit-filter: grayscale(100%); -moz-filter: grayscale(100%);
     filter: gray; filter: grayscale(100%);
