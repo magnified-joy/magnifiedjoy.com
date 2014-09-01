@@ -1,0 +1,11 @@
+# Site settings
+title: M.Joy
+email: matt@lookitscook.com
+description: 
+baseurl: "" 
+url: "http://code.lookitscook.com/m.joy" # the base hostname & protocol for your site
+twitter_username: lookitscook
+github_username:  lookitscook
+
+# Build settings
+markdown: kramdown
