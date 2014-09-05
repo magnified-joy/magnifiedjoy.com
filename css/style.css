@@ -29,15 +29,25 @@ a,a:hover{
     font-size:10px;
     text-transform:uppercase;
     color:#565759;
-    margin:0px 10px;
 }
 .container.navigation{
     padding:10px  0;
         z-index:100;
 }
-.navigation a{
+.dropdown-menu{
+    border-radius:0;
+}
+ul.dropdown-menu > li > a{
+    padding:5px 20px;
+}
+.navigation .dropdown{
+    display:inline;
+}
+.navigation .link{
+    margin:5px 10px 0px 10px;
+}
+.navigation .link, .navigation .logo{
 display:inline-block;
-margin:10px 10px 0px 10px;
 }
 .navigation a.active{
     color:#919294;
@@ -47,7 +57,8 @@ margin:10px 10px 0px 10px;
    text-align:center;
 }
 .container.content{
-    padding:2em 0 0 0;
+    padding-top:2em;
+    padding-bottom:2em;
 }
 .container img{
     width:100%;
@@ -60,6 +71,7 @@ margin:10px 10px 0px 10px;
 }
 .form-control{
     font-size:0.9em;
+   /* border-radius:0px; */
 }
  #footer a:hover, .navigation a:hover{
     color:#aaa;
@@ -157,7 +169,8 @@ color:#fff;
 .home .featured a .caption strong, .thumbnail .caption strong{
     font-size: 1.4em;
 }
-.gallery .row > div{
+.home .gallery .row > div,
+.gallery .row > div > div{
     padding-left:5px;
     padding-right:5px;
 }
@@ -221,7 +234,7 @@ color:#fff;
     .home .featured{
         top:125px;
     }
-    .navigation a{
+    .navigation .link{
     margin:55px 10px 0px 10px;
     }
     .navigation > div:last-child{
