@@ -21,5 +21,17 @@ $('#carousel').carouFredSel({
             button: '.carousel-container .next'
         }
     });
+  
+$('#thumbnails').carouFredSel({
+        items: 5,
+        width: "102%",
+        responsive: true,
+        prev: {
+            button: '.carousel-container .prev'
+        },
+        next: {
+            button: '.carousel-container .next'
+        }
+    });
 
 });
