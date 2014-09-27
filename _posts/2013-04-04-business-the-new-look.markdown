@@ -30,5 +30,5 @@ comments: []
 <p>The texture of the paper on our new business cards is really nice too. Think quality linen feel.</p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/04/Moo-Business-Cards-Wooden-Flash-Drives-New-Branding-06.jpg" alt="Moo Business Cards Wooden Flash Drives New Branding 06" width="1500" height="1066" class="alignnone size-full wp-image-2482" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/04/Moo-Business-Cards-Wooden-Flash-Drives-New-Branding-07.jpg" alt="Moo Business Cards Wooden Flash Drives New Branding 07" width="1500" height="1066" class="alignnone size-full wp-image-2483" /></p>
-<p>You need to see these in person. So <a href="/contact/">contact us</a> and schedule a time for us to meet to chat about your big day! We would love to hand these out to you. :)</p>
+<p>You need to see these in person. So <a href="{{ site.baseurl }}/contact/">contact us</a> and schedule a time for us to meet to chat about your big day! We would love to hand these out to you. :)</p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/04/Moo-Business-Cards-Wooden-Flash-Drives-New-Branding-08.jpg" alt="Moo Business Cards Wooden Flash Drives New Branding 08" width="1500" height="1066" class="alignnone size-full wp-image-2484" /></p>
