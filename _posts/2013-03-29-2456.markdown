@@ -1,0 +1,20 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author:
+  display_name: entao
+  login: entao
+  email: entao@magnifiedjoy.com
+  url: ''
+author_login: entao
+author_email: entao@magnifiedjoy.com
+wordpress_id: 2456
+wordpress_url: http://weddings.magnifiedjoy.com/?p=2456
+date: '2013-03-29 14:18:39 -0500'
+date_gmt: '2013-03-29 14:18:39 -0500'
+categories: []
+tags: []
+comments: []
+---
+
