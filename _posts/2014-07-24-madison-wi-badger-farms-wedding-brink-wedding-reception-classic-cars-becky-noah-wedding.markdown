@@ -19,6 +19,7 @@ categories:
 - Wedding
 tags: []
 comments: []
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/07/Badger-Farms-Brink-Wedding-Becky-Noah-Feature-480x375.jpg
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/07/Badger-Farms-Brink-Wedding-Becky-Noah-001.jpg" alt="Badger Farms Brink Wedding Becky Noah 001" width="1500" height="1068" class="alignnone size-full wp-image-6123" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/07/Badger-Farms-Brink-Wedding-Becky-Noah-002.jpg" alt="Badger Farms Brink Wedding Becky Noah 002" width="1500" height="596" class="alignnone size-full wp-image-6124" /></p>

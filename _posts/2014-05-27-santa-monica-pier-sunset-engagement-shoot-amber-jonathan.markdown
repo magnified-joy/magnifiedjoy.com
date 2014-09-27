@@ -19,6 +19,7 @@ categories:
 - Engagements
 tags: []
 comments: []
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/05/Amber-Jonathan-Feature1-480x375.jpg
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/05/Santa_Monica_Pier_Engagement_Amber_Jonathan_0001.jpg" alt="Santa_Monica_Pier_Engagement_Amber_Jonathan_0001" width="1500" height="1184" class="alignnone size-full wp-image-5377" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/05/Santa_Monica_Pier_Engagement_Amber_Jonathan_0002.jpg" alt="Santa_Monica_Pier_Engagement_Amber_Jonathan_0002" width="1500" height="1068" class="alignnone size-full wp-image-5378" /></p>

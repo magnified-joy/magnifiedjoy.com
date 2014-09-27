@@ -19,6 +19,7 @@ categories:
 - Wedding
 tags: []
 comments: []
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/07/Julie-Matt-Feature-480x375.jpg
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/07/Crested-Butte-Colorado-Mountain-Wedding-Photographer-Secret-Stash-Julie-Matt-001.jpg" alt="Crested Butte Colorado Mountain Wedding Photographer Secret Stash Julie Matt 001" width="1500" height="1068" class="alignnone size-full wp-image-5819" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/07/Crested-Butte-Colorado-Mountain-Wedding-Photographer-Secret-Stash-Julie-Matt-002.jpg" alt="Crested Butte Colorado Mountain Wedding Photographer Secret Stash Julie Matt 002" width="1500" height="1068" class="alignnone size-full wp-image-5820" /></p>

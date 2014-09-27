@@ -12,8 +12,8 @@ author_login: entao
 author_email: entao@magnifiedjoy.com
 wordpress_id: 6706
 wordpress_url: http://weddings.magnifiedjoy.com/?post_type=life&#038;p=6706
-date: '2014-09-11 22:22:56 -0500'
-date_gmt: '2014-09-11 22:22:56 -0500'
+date: '2010-09-11 22:22:56 -0500'
+date_gmt: '2010-09-11 22:22:56 -0500'
 categories: []
 tags: []
 comments: []

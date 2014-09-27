@@ -12,8 +12,8 @@ author_login: entao
 author_email: entao@magnifiedjoy.com
 wordpress_id: 6648
 wordpress_url: http://weddings.magnifiedjoy.com/?post_type=life&#038;p=6648
-date: '2014-09-11 21:31:52 -0500'
-date_gmt: '2014-09-11 21:31:52 -0500'
+date: '2010-09-11 21:31:52 -0500'
+date_gmt: '2010-09-11 21:31:52 -0500'
 categories: []
 tags:
 - food

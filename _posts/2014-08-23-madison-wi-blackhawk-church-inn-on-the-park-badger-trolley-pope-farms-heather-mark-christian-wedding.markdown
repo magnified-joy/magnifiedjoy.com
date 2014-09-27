@@ -19,6 +19,7 @@ categories:
 - Wedding
 tags: []
 comments: []
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/08/Heather-Mark-Blog-Feature-480x375.jpg
 ---
 <p>Heather + Mark's sunny-filled atrium wedding was not only a first at Blackhawk Church, but it was also so representative of their story, their commitment to their church body, and their involvement in high school ministry. In the context of serving and pouring their lives into high schoolers over the past couple of years Heather + Mark met, and their dating relationship blossomed and was nurtured through the tightly-connected community. One of the most beautiful things about their wedding was that the two hundred+ people in attendance could each share stories of how Mark + Heather influenced their lives through a love for Jesus and others. Beyond all of the beautifully coordinated wedding details, filled with pops of yellow, adventures on the Badger Trolly, amazing views of Madison at their reception venue, and lively dancing, was a strong undertone of connected relationships, community, and love. Heather + Mark, may your love for Jesus continue to hold you together for a lifetime of marriage and keep you closely connected to your community that surrounded you on your wedding day!</p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/08/001-Blackhawk-Church-Inn-on-the-Park-Heather-Mark-Christian-Wedding-.jpg" alt="001 Blackhawk Church Inn on the Park Heather Mark Christian Wedding" width="1500" height="1068" class="alignnone size-full wp-image-6337" /></p>

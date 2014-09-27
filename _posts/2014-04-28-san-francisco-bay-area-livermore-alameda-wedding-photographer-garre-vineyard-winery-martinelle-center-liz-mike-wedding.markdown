@@ -19,6 +19,7 @@ categories:
 - Wedding
 tags: []
 comments: []
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/04/4-26-14-Liz-Mike-Wedding-128-480x375.jpg
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/04/Garre-Winery-Martinelle-Wedding-001.jpg" alt="Garre Winery Martinelle Wedding 001" width="1500" height="1068" class="alignnone size-full wp-image-5281" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/04/Garre-Winery-Martinelle-Wedding-002.jpg" alt="Garre Winery Martinelle Wedding 002" width="1500" height="1068" class="alignnone size-full wp-image-5282" /></p>

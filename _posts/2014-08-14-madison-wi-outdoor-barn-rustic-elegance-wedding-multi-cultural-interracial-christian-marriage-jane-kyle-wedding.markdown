@@ -19,6 +19,7 @@ categories:
 - Wedding
 tags: []
 comments: []
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/08/Jane-Kyle-Wedding-Feature-Image-480x375.jpg
 ---
 <p>Jane + Kyle married!</p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/08/001-Madison-WI-Outdoor-Barn-Rustic-Elegant-Jane-Kyle-Wedding.jpg" alt="001 Madison WI Outdoor Barn Rustic Elegant Jane Kyle Wedding" width="1500" height="1050" class="alignnone size-full wp-image-6233" /></p>

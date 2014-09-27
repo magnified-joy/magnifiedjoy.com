@@ -19,6 +19,7 @@ categories:
 - Engagements
 tags: []
 comments: []
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Artur-Melissa-Feature1-480x375.jpg
 ---
 <p>We love living in such an internationally diverse community here in San Francisco and also an age of international connectedness! Although Melissa + Artur now live in San Francisco, Melissa is originally from Wisconsin, Artur is from Brazil. They met at University of Wisconsin-Madison and got engaged in Australia underwater at the Great Barrier Reef. What an international story indeed!<br />
 The Palace of Fine Arts is one of Melissa + Artur's favorite places in San Francisco. Pictures cannot begin to describe how gigantic this place is. Step foot into the <a href="http://www.palaceoffinearts.org/Welcome.html">Palace of Fine Arts</a> and it feels like you've stepped into a time machine and traveled to ancient Greece. After a few shots at the Palace of Fine Arts, we ventured over to Crissy Field for the a view of the Golden Gate Bridge at sunset. But notoriously, by the time we got to Crissy Field, <a href="https://twitter.com/KarlTheFog">Karl the Fog</a> had rolled in, transforming the environment into what I would describe as "Ireland-like". Nonetheless, we had a great time photographing Melissa + Artur, as well as reminiscing over Bucky the Badger, our University of Wisconsin mascot, who shows up at the end of their engagement shoot!<br />

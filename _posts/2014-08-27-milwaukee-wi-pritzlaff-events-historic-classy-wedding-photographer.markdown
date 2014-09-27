@@ -19,6 +19,7 @@ categories:
 - Wedding
 tags: []
 comments: []
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/08/KA-Wedding-Feature-480x375.jpg
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/08/001-Pritzlaff-Events-Historic-Milwaukee-WI-Wedding-Classy-Ballroom.jpg" alt="001 Pritzlaff Events Historic Milwaukee, WI Wedding Classy Ballroom" width="1500" height="1050" class="alignnone size-full wp-image-6459" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/08/002-Pritzlaff-Events-Historic-Milwaukee-WI-Wedding-Classy-Ballroom.jpg" alt="002 Pritzlaff Events Historic Milwaukee, WI Wedding Classy Ballroom" width="1500" height="1050" class="alignnone size-full wp-image-6460" /></p>

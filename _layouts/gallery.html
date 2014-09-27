@@ -1,11 +1,32 @@
 ---
 layout: default
----    
+---
+{% if page.gallery %}
+    {% assign posts = site.categories.[page.gallery] %}
+{% else %}
+    {% assign posts = site.posts %}
+{% endif %}
+
 <div class="container gallery content">
     <div class="row">
         <div class="col-md-2"></div>
         <div class="col-md-8">
+            
             {{ content }}
+            
+            {% for post in posts %}
+
+                <div class="col-xs-6 col-md-4">
+                <a href="{{ site.baseurl }}{{ post.url }}" class="thumbnail">
+                    <img src="{{ post.thumbnail }}" alt="{{ post.title }}">
+                    <div class="caption">
+                        View more of <br><strong>Alli + Davis</strong>
+                    </div>
+                </a>
+                </div>
+
+            {% endfor %}
+        
       </div>
       <div class="col-md-2"></div>
     </div>

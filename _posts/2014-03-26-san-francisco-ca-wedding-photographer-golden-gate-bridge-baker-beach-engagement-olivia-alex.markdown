@@ -19,6 +19,7 @@ categories:
 - Engagements
 tags: []
 comments: []
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Olivia-Alex-Feature1-480x375.jpg
 ---
 <p>We had a lot of fun photographing Olivia + Alex at possibly the most beautiful, certainly the most photographed, bridge in the world -- the Golden Gate Bridge. We then ventured to Baker Beach to finish off the engagement shoot just in time for sunset. Congratulations Olivia + Alex! Your love and care for each other is very evident! </p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Oliva-Alex001.jpg" alt="Oliva Alex001" width="1500" height="1068" class="alignnone size-full wp-image-4950" /></p>

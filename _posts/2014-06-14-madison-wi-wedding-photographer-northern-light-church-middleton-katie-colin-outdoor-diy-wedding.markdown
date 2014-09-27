@@ -19,6 +19,7 @@ categories:
 - Wedding
 tags: []
 comments: []
+http://weddings.magnifiedjoy.com/wp-content/uploads/2014/06/Katie-Colin-Wedding-Feature-Image-1-480x375.jpg
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/06/Madison-Wedding-Photographer-Katie-Colin-001.jpg" alt="Madison Wedding Photographer Katie Colin 001" width="1500" height="1068" class="alignnone size-full wp-image-5604" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/06/Madison-Wedding-Photographer-Katie-Colin-002.jpg" alt="Madison Wedding Photographer Katie Colin 002" width="1500" height="1184" class="alignnone size-full wp-image-5605" /></p>

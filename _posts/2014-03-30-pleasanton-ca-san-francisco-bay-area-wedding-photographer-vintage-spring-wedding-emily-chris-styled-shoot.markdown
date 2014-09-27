@@ -27,6 +27,7 @@ comments:
   date: '2014-07-12 17:59:01 -0500'
   date_gmt: '2014-07-12 17:59:01 -0500'
   content: '[&#8230;] Magnified Joy Photography #2  [&#8230;]'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Emily-Chris-Feature-480x375.jpg
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Emily-Chris-Bay-Area001.jpg" alt="Emily Chris Bay Area001" width="1500" height="1068" class="alignnone size-full wp-image-5038" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Emily-Chris-Bay-Area002.jpg" alt="Emily Chris Bay Area002" width="1500" height="1184" class="alignnone size-full wp-image-5039" /></p>

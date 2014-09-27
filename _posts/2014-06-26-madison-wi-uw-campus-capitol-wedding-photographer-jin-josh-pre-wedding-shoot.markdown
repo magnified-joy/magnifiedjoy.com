@@ -20,6 +20,7 @@ categories:
 - Engagements
 tags: []
 comments: []
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/06/Jin-Josh-Feature-480x375.jpg
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/06/Madison-WI-UW-Campus-Outdoor-Nature-Capitol-Jin-Josh-Pre-Wedding-003.jpg" alt="Madison, WI UW Campus Outdoor Nature Capitol Jin Josh Pre Wedding 003" width="1500" height="1068" class="alignnone size-full wp-image-5800" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/06/Madison-WI-UW-Campus-Outdoor-Nature-Capitol-Jin-Josh-Pre-Wedding-001.jpg" alt="Madison, WI UW Campus Outdoor Nature Capitol Jin Josh Pre Wedding 001" width="1500" height="2301" class="alignnone size-full wp-image-5798" /></p>

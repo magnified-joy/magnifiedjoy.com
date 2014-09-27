@@ -27,6 +27,7 @@ comments:
   date: '2014-07-12 17:55:42 -0500'
   date_gmt: '2014-07-12 17:55:42 -0500'
   content: '[&#8230;] Magnified Joy Photography [&#8230;]'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Alex-Feature-480x375.jpg
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Alex-Bay-Area-Styled002.jpg" alt="Alex Bay Area Styled002" width="1500" height="2301" class="alignnone size-full wp-image-5069" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Alex-Bay-Area-Styled001.jpg" alt="Alex Bay Area Styled001" width="1500" height="1068" class="alignnone size-full wp-image-5068" /></p>
