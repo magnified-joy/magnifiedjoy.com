@@ -1,10 +1,8 @@
 ---
-layout: life
+layout: post
 title: Business - The New Look
 date: '2013-04-04 16:03:47 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/04/ZN7A3900-480x375.jpg
-categories: []
-tags: []
 ---
 <p>Year 2013 is huge for us! We are in the process of re-starting our business through creating a whole new branding--a unified and memorable experience for all of our clients. We are excited to share with you all some of our big changes--our new website (you’re looking at it right now), our new logo, our new business cards, and new photo delivery method!</p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/04/Moo-Business-Cards-Wooden-Flash-Drives-New-Branding-01.jpg" alt="Moo Business Cards Wooden Flash Drives New Branding 01" width="1500" height="570" class="alignnone size-full wp-image-2477" /></p>
