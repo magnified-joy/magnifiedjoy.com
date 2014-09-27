@@ -1,25 +1,12 @@
 ---
 layout: post
-status: publish
-published: true
 title: San Francisco Bay Area Livermore Alameda Wedding Photographer | Garre Vineyard
   Winery Martinelle Center | Liz + Mike Wedding
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 5201
-wordpress_url: http://weddings.magnifiedjoy.com/?p=5201
 date: '2014-04-28 21:48:23 -0500'
-date_gmt: '2014-04-28 21:48:23 -0500'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/04/4-26-14-Liz-Mike-Wedding-128-480x375.jpg
 categories:
 - Wedding
 tags: []
-comments: []
-thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/04/4-26-14-Liz-Mike-Wedding-128-480x375.jpg
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/04/Garre-Winery-Martinelle-Wedding-001.jpg" alt="Garre Winery Martinelle Wedding 001" width="1500" height="1068" class="alignnone size-full wp-image-5281" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/04/Garre-Winery-Martinelle-Wedding-002.jpg" alt="Garre Winery Martinelle Wedding 002" width="1500" height="1068" class="alignnone size-full wp-image-5282" /></p>

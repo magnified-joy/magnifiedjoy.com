@@ -1,22 +1,10 @@
 ---
 layout: life
-status: publish
-published: true
 title: Bread + Wine Dance Performance Blackhawk Church
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 4430
-wordpress_url: http://weddings.magnifiedjoy.com/?post_type=life&#038;p=4430
 date: '2014-01-13 05:17:07 -0600'
-date_gmt: '2014-01-13 05:17:07 -0600'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/bread-and-wine-feature1-480x375.jpg
 categories: []
 tags: []
-comments: []
 ---
 <p>Many people say to me, "I didn't know you are a dancer!" Yes, I am. Sometimes time passes, but once a dancer, always a dancer. (Now forgive my poor dance genre titles as I explain my dance background.) I grew up with gymanastics-dance in elementary school, park & rec-dance in middle school, competitive-dance in high school, interpretative-dance in college, and even social (ballroom/latin)-dance in college and beyond. But it wasn't until I found "spiritual-dance" that I really found my body + spirit connected in a whole new way. Not that I wasn't "connected" before, but something changed starting in high school when I began to realize that physical movement could (and should!) have a spiritual element, a sweet way of connecting with our inner beings and connecting with God, our Creator of all art and movement. I also started realizing that movement could be used in the context of a shared space with other dancers, as well as with the audience at large. When I started to intentionally bring my dance movement before my Creator, I felt so much more alive! Movement was no longer merely about performance for an unknown audience, having a perfectly polished piece (like that competitive-dance in high school), or even comparing myself to the dancers around me. Movement was a sweet expression of the soul. Creative movement stirred my own emotions but also evoked the emotions of others. </p>
 <p>Even though dance defined me growing up, I left it at some point after college... Perhaps I got discouraged, frustrated, or started comparing myself to others again. Perhaps I got caught up in the mundane tasks of adulthood, trying to find a job in my field or worrying about when I would finally be free from college loans. Perhaps I lost an intentional studio or dance space and even my living room didn't seem like a suitable place for some creative movement. Nonetheless, my art, my creative passion, my yearning to dance was still inside of me. I knew that "spiritual-dance" was still in me, just waiting for a time, a space, and a little bit of encouragement to be released again. </p>

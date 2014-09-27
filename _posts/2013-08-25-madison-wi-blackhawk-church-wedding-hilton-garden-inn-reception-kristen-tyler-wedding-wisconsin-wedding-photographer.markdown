@@ -1,31 +1,12 @@
 ---
 layout: post
-status: publish
-published: true
 title: Madison, WI | Blackhawk Church Wedding | Hilton Garden Inn Reception | Kristen
   + Tyler Wedding | Wisconsin Wedding Photographer
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 3123
-wordpress_url: http://weddings.magnifiedjoy.com/?p=3123
 date: '2013-08-25 00:51:51 -0500'
-date_gmt: '2013-08-25 00:51:51 -0500'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/08/8-10-13-Kristen-Tyler-Wedding-Color-WEB-162-480x375.jpg
 categories:
 - Wedding
 tags: []
-comments:
-- id: 64
-  author: Jon and Brenda Flickinger
-  author_email: flickjr@sbcglobal.net
-  author_url: http://weddings.magnifiedjoy.com/wedding/madison-wi-blackhawk-church-wedding-hilton-garden-inn-reception-kristen-tyler-wedding-wisconsin-wedding-photographer/#comments
-  date: '2013-08-25 18:41:58 -0500'
-  date_gmt: '2013-08-25 18:41:58 -0500'
-  content: You guys did a great job on Kristen and Tyler's wedding photos!!  Thanks!
 ---
 <p>Congratulations Kristen + Tyler. We are really excited to walk along side you two during your engagement season of life and seeing everything leading up to the wedding day! We wish you the best in your marriage!</p>
 <p><a href="http://weddings.magnifiedjoy.com/engagements/madison-wi-engagement-photographer-kristen-tyler/">Click here</a> to see their engagement photos.<br />

@@ -1,35 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Amanda + Adam Wedding | Madison, WI | New Freedom, PA Wedding Photographer
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 623
-wordpress_url: http://www.magnifiedjoyphotography.com/?p=623
 date: '2012-07-04 18:46:56 -0500'
-date_gmt: '2012-07-04 18:46:56 -0500'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/01/2013-01-23_0026-480x375.jpg
 categories:
 - Wedding
 tags: []
-comments:
-- id: 32
-  author: New Freedom, PA Wedding Photographer | Amanda + Adam | Wedding Album | Magnified
-    Joy Photography
-  author_email: ''
-  author_url: http://weddings.magnifiedjoy.com/wedding/new-freedom-pa-wedding-photographer-amanda-adam-wedding-album/
-  date: '2013-06-03 02:47:22 -0500'
-  date_gmt: '2013-06-03 02:47:22 -0500'
-  content: '[...] So blessed to have met up with Amanda and Adam on their visit to
-    Madison this past weekend. How priceless it was to see their reaction viewing
-    their wedding album for the first time. Congratulations to them on their recent
-    one-year anniversary! You can see their wedding photos from their wedding one
-    year ago here. [...]'
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/03/New-Freedom-Pennsylvania-Wedding-Photographer-Rustic-Classic-Elegance-Amanda-Adam-01.jpg" alt="New Freedom Pennsylvania Wedding Photographer Rustic Classic Elegance Amanda Adam 01" width="1500" height="758" class="alignnone size-full wp-image-1838" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/03/New-Freedom-Pennsylvania-Wedding-Photographer-Rustic-Classic-Elegance-Amanda-Adam-02.jpg" alt="New Freedom Pennsylvania Wedding Photographer Rustic Classic Elegance Amanda Adam 02" width="1500" height="758" class="alignnone size-full wp-image-1839" /></p>

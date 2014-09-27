@@ -1,31 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Andrea + Peter’s Engagement Session | Madison, WI Wedding Photographer
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 2506
-wordpress_url: http://weddings.magnifiedjoy.com/?p=2506
 date: '2013-05-14 21:03:12 -0500'
-date_gmt: '2013-05-14 21:03:12 -0500'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/05/5-4-13-Andrea-and-Peter-Engagement-Color-92-480x375.jpg
 categories:
 - Engagements
 tags: []
-comments:
-- id: 42
-  author: Camrose Hill Flower Farm Wedding | Stillwater, MN | Andrea + Peter Wedding
-    | Magnified Joy Photography
-  author_email: ''
-  author_url: http://weddings.magnifiedjoy.com/wedding/camrose-hill-flower-farm-wedding-stillwater-mn-andrea-peter-wedding/
-  date: '2013-07-30 12:37:38 -0500'
-  date_gmt: '2013-07-30 12:37:38 -0500'
-  content: '[...] here to see photos from their engagement session in Madison, [...]'
 ---
 <p>Words cannot describe now happy I am for Andrea and Peter on their engagement. I’ve known Peter for a few years when we used to live in the same house together. Peter is a dear friend of mine and a multi-talented man. He is a very talented musician, barista, and chef. Andrea is a beautiful woman, both inside and out. She is always full of joy and laughter when I see her. Congratulations to you both, and we can’t wait for you two to begin the lifelong journey of happiness (and hardship… but mostly happiness) together!</p>
 <p><img class="alignnone size-full wp-image-2507" alt="2013-05-14_0001" src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/05/2013-05-14_0001.jpg" width="1500" height="1066" /></p>

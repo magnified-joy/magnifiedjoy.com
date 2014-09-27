@@ -1,23 +1,11 @@
 ---
 layout: life
-status: publish
-published: true
 title: Faye's Frames | Local Madison, WI Artisan Custom Frame Shop | Wisconsin Wedding
   Photographer
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 4345
-wordpress_url: http://weddings.magnifiedjoy.com/?post_type=life&#038;p=4345
 date: '2014-01-09 01:03:51 -0600'
-date_gmt: '2014-01-09 01:03:51 -0600'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/feature-480x375.jpg
 categories: []
 tags: []
-comments: []
 ---
 <p>We receive so many packages at our home that it didn't phase me when I got home today to see a package sitting at the bottom of our stairs. Without free hands to grab it right away, I told En Tao, "I think your package arrived."<br />
 He went down the stairs to claim it, and said, "Well, I didn't order it, but it's ours."<br />

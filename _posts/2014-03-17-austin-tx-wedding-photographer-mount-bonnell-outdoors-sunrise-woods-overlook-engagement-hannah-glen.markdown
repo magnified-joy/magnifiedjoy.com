@@ -1,24 +1,12 @@
 ---
 layout: post
-status: publish
-published: true
 title: Austin, TX Wedding Photographer | Mount Bonnell Outdoors Sunrise Woods Overlook
   Engagement | Hannah + Glen
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 4777
-wordpress_url: http://weddings.magnifiedjoy.com/?p=4777
 date: '2014-03-17 22:08:08 -0500'
-date_gmt: '2014-03-17 22:08:08 -0500'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/hannah-glen-feature1-480x375.jpg
 categories:
 - Engagements
 tags: []
-comments: []
 ---
 <p>We love shooting during sunrise! There is just something extra magical about it! For those who are into hiking in Austin, TX, you need to check out Mount Bonnell during sunrise, watching the city scape light up from it's sleep is quite a magical experience. Congrats to Hannah and Glen on your engagement! </p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/2014-03-17_0002.jpg" alt="2014-03-17_0002" width="1500" height="1068" class="alignnone size-full wp-image-4784" /></p>

@@ -1,33 +1,12 @@
 ---
 layout: post
-status: publish
-published: true
 title: ' Pleasanton, CA San Francisco Bay Area Wedding Photographer | Vintage Spring
   Wedding | Emily + Chris Styled Shoot'
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 5037
-wordpress_url: http://weddings.magnifiedjoy.com/?p=5037
 date: '2014-03-30 00:45:34 -0500'
-date_gmt: '2014-03-30 00:45:34 -0500'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Emily-Chris-Feature-480x375.jpg
 categories:
 - Wedding
 tags: []
-comments:
-- id: 389
-  author: Summer Shoot Out // For Photographers // Livermore Wedding Photographer
-    &raquo; Hazy Lane Studios
-  author_email: ''
-  author_url: http://hazylanestudios.com/summer-shoot-out-for-photographers-livermore-wedding-photographer/
-  date: '2014-07-12 17:59:01 -0500'
-  date_gmt: '2014-07-12 17:59:01 -0500'
-  content: '[&#8230;] Magnified Joy Photography #2  [&#8230;]'
-thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Emily-Chris-Feature-480x375.jpg
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Emily-Chris-Bay-Area001.jpg" alt="Emily Chris Bay Area001" width="1500" height="1068" class="alignnone size-full wp-image-5038" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Emily-Chris-Bay-Area002.jpg" alt="Emily Chris Bay Area002" width="1500" height="1184" class="alignnone size-full wp-image-5039" /></p>

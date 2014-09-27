@@ -1,34 +1,12 @@
 ---
 layout: post
-status: publish
-published: true
 title: Madison, WI Wedding Photographers | Classy Vintage Outdoors Stylized Wedding
   Shoot
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 2680
-wordpress_url: http://weddings.magnifiedjoy.com/?p=2680
 date: '2013-06-27 03:06:16 -0500'
-date_gmt: '2013-06-27 03:06:16 -0500'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/06/2013-06-26_0017-480x375.jpg
 categories:
 - Wedding
 tags: []
-comments:
-- id: 34
-  author: Fake wedding, real good time. | Becoming Ruth
-  author_email: ''
-  author_url: http://becoming-ruth.com/2013/07/02/fake-wedding-real-good-time/
-  date: '2013-07-02 14:16:57 -0500'
-  date_gmt: '2013-07-02 14:16:57 -0500'
-  content: '[...] I&#8217;ve included the few that I managed to capture between mouthfuls
-    of aged chevre and sourdough bread. But if you want to experience some real eye-candy
-    wait for Maria and En Tao to post their pictures of our beautiful night on their
-    website. And in the meantime you can browse the last one they did. [...]'
 ---
 <p>We are happy to show off our first-ever stylized wedding photo shoot, themed "Classy Vintage Outdoor" wedding. It was a joy to collaborate with all of our vendors--Brandi's Bridal for the gown and veil, The Flower Shop for the floral arrangements, Be Inspired Salon for hair and makeup, and Hyart Gallery for the rings. Thank you to our fabulous models, Junice and Nathan, who were so much fun to work with! Please like us on <a href="http://www.facebook.com/magnifiedjoy">Facebook</a> to continue to follow our collaborative stylized wedding shoots this summer!</p>
 <p>Photography: <a href="http://www.magnifiedjoy.com">Magnified Joy Photography</a><br />

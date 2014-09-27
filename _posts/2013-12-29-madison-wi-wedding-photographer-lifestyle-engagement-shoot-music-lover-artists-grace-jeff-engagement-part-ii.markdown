@@ -1,24 +1,12 @@
 ---
 layout: post
-status: publish
-published: true
 title: Madison, WI Wedding Photographer | Lifestyle Engagement Shoot | Music Lover
   | Artists | Grace + Jeff Engagement Part II
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 4236
-wordpress_url: http://weddings.magnifiedjoy.com/?p=4236
 date: '2013-12-29 22:06:57 -0600'
-date_gmt: '2013-12-29 22:06:57 -0600'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/12/12-15-13-Grace-Jeff-Engagement-087_WEB-480x375.jpg
 categories:
 - Engagements
 tags: []
-comments: []
 ---
 <p>Grace + Jeff wanted to do a more "lifestyle" session for their engagement shoot. <a href="http://bit.ly/1eODVi8">After a mini-snowball fight and romp in the snow around their neighborhood</a>, they came back to their home to warm up over some hot drinks and good music.</p>
 <p>As Jeff turned on the stovetop for hot water, Grace found her hand-made painted ceramic mugs for them to share.<br />

@@ -1,22 +1,10 @@
 ---
 layout: life
-status: publish
-published: true
 title: Shanghai China Adventures | China Trip Part 3 of 4 | SF Bay Area Wedding Photographers
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 5324
-wordpress_url: http://weddings.magnifiedjoy.com/?post_type=life&#038;p=5324
 date: '2014-04-30 23:27:08 -0500'
-date_gmt: '2014-04-30 23:27:08 -0500'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/04/Shanghai-Feature-480x375.jpg
 categories: []
 tags: []
-comments: []
 ---
 <p>We've arrive in Shanghai via another sleeper train from Xian. Shanghai is a very modern city, it is the economic center of China. Transportation from the train station to our hotel was easy. </p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/04/MJP-Shanghai-Adventure-Wedding-Photographer-001.jpg" alt="MJP Shanghai Adventure Wedding Photographer 001" width="1500" height="1068" class="alignnone size-full wp-image-5325" /></p>

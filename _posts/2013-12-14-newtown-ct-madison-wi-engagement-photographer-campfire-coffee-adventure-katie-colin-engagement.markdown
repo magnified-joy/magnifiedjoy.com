@@ -1,33 +1,12 @@
 ---
 layout: post
-status: publish
-published: true
 title: Newtown, CT | Madison, WI Engagement Photographer | Campfire Coffee Adventure
   | Katie + Colin Engagement
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 4113
-wordpress_url: http://weddings.magnifiedjoy.com/?p=4113
 date: '2013-12-14 16:35:57 -0600'
-date_gmt: '2013-12-14 16:35:57 -0600'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/12/Katie-Colin-Feature-480x375.jpg
 categories:
 - Engagements
 tags: []
-comments:
-- id: 200
-  author: Engagement Photos | Colin and Katie
-  author_email: ''
-  author_url: http://colinandkatiewedding.com/2013/12/29/58/
-  date: '2014-01-28 02:59:21 -0600'
-  date_gmt: '2014-01-28 02:59:21 -0600'
-  content: '[&#8230;] want to thank Maria and En Tao for our amazing engagement photos.
-     They own Magnified Joy Photography and do an amazing job capturing the important
-    moments in life.  We are so happy to call you both [&#8230;]'
 ---
 <p>Katie and Colin got engaged at the beautiful <a href="http://en.wikipedia.org/wiki/Saugatuck_Reservoir">Saugatuck Reservoir</a> in Connecticut, the state of which they both call home base right now, but we were so happy that the timing of their engagement quickly brought them back to Madison, WI where Katie's family and friends are still planted, right before Thanksgiving. Their engagement and visit back home brought praise and thanksgiving indeed! They decided to have their engagement shoot exactly two weeks after Colin proposed to Katie, which also happened to be Katie's birthday! What a fun whirlwind of celebrations.</p>
 <p>Katie and Colin share a love for coffee and the outdoors, which is totally evident in their engagement shoot. They shared numerous dates at coffee shops while dating long-distance, both over Skype, and also in their home towns while visiting for weekends. Katie and Colin started out with some artful and tasty lattes at <a href="http://crescendomadison.com/">Crescendo Espresso Bar & Music Cafe</a>, warming up inside, before we ventured out to Picnic Point. We were blessed with mild November weather after Thanksgiving, so they were able to enjoy a fire and coffee out by the lake as well. It was truly a fun, romantic, and adventurous experience!</p>

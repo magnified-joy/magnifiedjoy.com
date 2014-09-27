@@ -1,20 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Madison, WI Wedding Photographer | MMoCA | Fresco | Madison Museum of Contemporary
   Art Fall Wedding | Alli + Davis
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 3656
-wordpress_url: http://weddings.magnifiedjoy.com/?p=3656
 date: '2013-10-14 13:35:12 -0500'
-date_gmt: '2013-10-14 13:35:12 -0500'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/10/alli-feature-480x375.jpg
 categories:
 - Wedding
 tags:
@@ -31,7 +20,6 @@ tags:
 - classy
 - food
 - garden
-comments: []
 ---
 <p>When we first met Alli, her her vibrant smile, her connecting body language, and her natural curls left an impression on us. She was so down to earth and wanted a simply, classy, and memorable wedding. In line with that, she chose to get married at the <a href="http://www.mmoca.org/about-us/mmoca-weddings">Madison Museum of Contemporary Art</a> on the rooftop gardens with a small, intimate wedding with just close family and friends. We could see the artful side of her as she handcraft their metal wedding bands, choose a colored dress for her wedding gown, had her sister-in-law hand make her elegant bouquet. </p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/10/MMoCa-Fresco-Alli-Davis-Madison-Wedding-001.jpg" alt="MMoCa Fresco Alli Davis Madison Wedding 001" width="1500" height="1183" class="alignnone size-full wp-image-3697" /></p>

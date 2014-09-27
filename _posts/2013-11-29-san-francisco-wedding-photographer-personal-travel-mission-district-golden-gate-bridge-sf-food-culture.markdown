@@ -1,23 +1,11 @@
 ---
 layout: life
-status: publish
-published: true
 title: San Francisco Wedding Photographer | Personal Travel | Mission District | Golden
   Gate Bridge | SF Food Culture
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 3835
-wordpress_url: http://weddings.magnifiedjoy.com/?post_type=life&#038;p=3835
 date: '2013-11-29 03:22:30 -0600'
-date_gmt: '2013-11-29 03:22:30 -0600'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/11/SF-Cover-480x375.jpg
 categories: []
 tags: []
-comments: []
 ---
 <p>Leaving the isthmus. Madison is beautiful, even at night.<br />
 <img class="alignnone size-full wp-image-3836" alt="San Francisco Adventure 001" src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/10/San-Francisco-Adventure-001.jpg" width="1500" height="1066" /></p>

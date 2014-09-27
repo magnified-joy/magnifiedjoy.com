@@ -1,81 +1,12 @@
 ---
 layout: life
-status: publish
-published: true
 title: Travel - Los Ranchos de Albuquerque, NM - Los Poblanos Ranch - Historic Inn
   & Cultural Center
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 2269
-wordpress_url: http://weddings.magnifiedjoy.com/?post_type=life&#038;p=2269
 date: '2013-03-19 19:39:01 -0500'
-date_gmt: '2013-03-19 19:39:01 -0500'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/03/IMG_2763-480x375.jpg
 categories:
 - Uncategorized
 tags: []
-comments:
-- id: 25
-  author: Brad Melton
-  author_email: brad@bradmeltonphotography.com
-  author_url: http://www.BradMeltonPhotography.com
-  date: '2013-03-29 15:46:00 -0500'
-  date_gmt: '2013-03-29 15:46:00 -0500'
-  content: You can see why I moved to Albuquerque from Iowa 13 years ago.  :)  Came
-    across your post on ReSTARt.  Love your work.
-- id: 26
-  author: Katherine Meyers
-  author_email: sassyngray@yahoo.com
-  author_url: http://Facebook
-  date: '2013-03-29 22:44:57 -0500'
-  date_gmt: '2013-03-29 22:44:57 -0500'
-  content: Thank you for this post and the photos!  I, too, am ready for an escape
-    from this long Wisconsin winter - am meeting my sister and a friend there at the
-    end of April and look forward, even more now, to our stay at Los Poblanos!
-- id: 27
-  author: entao
-  author_email: entao@magnifiedjoy.com
-  author_url: ''
-  date: '2013-03-30 00:05:29 -0500'
-  date_gmt: '2013-03-30 00:05:29 -0500'
-  content: Katherine, you are going to love it there! Especially now that things are
-    starting to bloom!
-- id: 28
-  author: Jamie Casolari
-  author_email: jamiecasolari@yahoo.com
-  author_url: http://Jamiecasolari@yahoo.com
-  date: '2013-03-30 12:26:45 -0500'
-  date_gmt: '2013-03-30 12:26:45 -0500'
-  content: 'Great blog post.  Los Poblanos is on my bucket list and your post proves
-    to me that it is everything I imagined and more. Like you, I  visit their site
-    frequently to "escape" from the dreariness of the Central IL winter. We are hoping
-    to either visit for one of our upcoming 50th birthdays or next year''s 30th anniversary.
-    I am so happy that Los Poblanos posted a link to your blog. I will now be ''escaping"
-    with both of you often. My son lives in WI, so I look forward to discovering more  things
-    to do in your great state.  Beautiful descriptions: both the pictures and narrative.  Happy
-    Spring!'
-- id: 29
-  author: Erin
-  author_email: Oakleyee@gmail.com
-  author_url: http://Www.erinoakleymusic.com
-  date: '2013-03-30 16:32:46 -0500'
-  date_gmt: '2013-03-30 16:32:46 -0500'
-  content: Wow!! Makes me want to visit. You two are such talented photographers!!
-- id: 30
-  author: Mayor Larry Abraham
-  author_email: Mayorabraham@losranchosnm.gov
-  author_url: http://Www.Losranchosnm.gov
-  date: '2013-03-30 21:55:04 -0500'
-  date_gmt: '2013-03-30 21:55:04 -0500'
-  content: |-
-    As the mayor of Los Ranchos de Albuquerque and a fellow photographer I commend you for capturing the true essence of our village and especially Los Poblanos Historic Cultural Center.
-    Great job! Would love to meet you when you return.
-    Sincerely,
-    Mayor Abraham
 ---
 <p><img class="alignnone size-full wp-image-2322" alt="Los Poblanos Albuquerque New Mexico Wedding Photographer 01" src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/03/Los-Poblanos-Albuquerque-New-Mexico-Wedding-Photographer-01.jpg" width="1500" height="1183" /></p>
 <p>This all started because I wanted to plan a surprise birthday trip for En Tao's birthday. I had a few goals in mind: I wanted to escape the Wisconsin winter for a few days; I wanted to use our United flight voucher to fly somewhere in the U.S.; I wanted to go somewhere fun that we've never been before; and I wanted to find a location that allowed both adventure and relaxation. </p>

@@ -1,26 +1,13 @@
 ---
 layout: post
-status: publish
-published: true
 title: San Francisco, Bay Area Wedding Photographer | Custom Hand Lettered Wedding
   Invitation Suite | Sarah Barga Pollasch
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 5192
-wordpress_url: http://weddings.magnifiedjoy.com/?p=5192
 date: '2014-04-28 18:22:46 -0500'
-date_gmt: '2014-04-28 18:22:46 -0500'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/04/IMG_0379-480x375.jpg
 categories:
 - Wedding
 - Video
 tags: []
-comments: []
-thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/04/IMG_0379-480x375.jpg
 ---
 <p>We had the privilege to get to know Sarah back in Madison, WI, now her and her family are in California! We are super excited to partner with Sarah in creating this video. This is just a glimpse of the energy she puts in to create custom hand lettered wedding invitation suite. </p>
 <p>Check out more of her work here: <a href="http://www.sarahbargapollasch.com">Sarah Barga Pollasch</a><br />

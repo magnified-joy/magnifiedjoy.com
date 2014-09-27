@@ -1,19 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
 title: Stoughton, WI | Stoughton Country Club Wedding | Sara + Jake Outdoor Wedding
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 3425
-wordpress_url: http://weddings.magnifiedjoy.com/?p=3425
 date: '2013-09-30 15:47:07 -0500'
-date_gmt: '2013-09-30 15:47:07 -0500'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/10/Feature-480x375.jpg
 categories:
 - Wedding
 tags:
@@ -29,7 +18,6 @@ tags:
 - yellow
 - gray
 - grey
-comments: []
 ---
 <p>We had the coldest day of the year when we shot their <a href="http://weddings.magnifiedjoy.com/engagements/sara-jakes-engagement-session-madison-wi-wedding-photographer/">engagement shoot</a> (12 °F with 16 mph wind speed), and the hottest day for their wedding (90 °F with 87% humidity)! That's quite a record! We had A LOT of fun photographing Sara + Jake on their <a href="http://weddings.magnifiedjoy.com/engagements/sara-jakes-engagement-session-madison-wi-wedding-photographer/">engagement</a>  and their <a href="http://weddings.magnifiedjoy.com/wedding/stoughton-wi-stoughton-country-club-wedding-sara-jake-outdoor-wedding/">wedding</a> despite the temperamental Wisconsin weather.<br/><br />
 Special thanks to the wonderful staff of <a href="http://www.stoughtoncountryclub.com/weddings-and-banquets/wedding-and-receptions">Stoughton Country Club</a>, <a href="http://www.discjockeymagic.com">D.J. Magic</a>, and <a href="http://www.timelessmemoriesphotobooth.com/">Timeless Memories Photobooth</a> who helped make this wedding a magical experience.<br/><br />

@@ -1,33 +1,12 @@
 ---
 layout: post
-status: publish
-published: true
 title: Pleasanton, CA San Francisco Bay Area Wedding Photographer | Vintage Spring
   Wedding Styled Shoot | Miss Alex
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 5067
-wordpress_url: http://weddings.magnifiedjoy.com/?p=5067
 date: '2014-03-30 05:17:05 -0500'
-date_gmt: '2014-03-30 05:17:05 -0500'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Alex-Feature-480x375.jpg
 categories:
 - Wedding
 tags: []
-comments:
-- id: 388
-  author: Summer Shoot Out // For Photographers // Livermore Wedding Photographer
-    &raquo; Hazy Lane Studios
-  author_email: ''
-  author_url: http://hazylanestudios.com/summer-shoot-out-for-photographers-livermore-wedding-photographer/
-  date: '2014-07-12 17:55:42 -0500'
-  date_gmt: '2014-07-12 17:55:42 -0500'
-  content: '[&#8230;] Magnified Joy Photography [&#8230;]'
-thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Alex-Feature-480x375.jpg
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Alex-Bay-Area-Styled002.jpg" alt="Alex Bay Area Styled002" width="1500" height="2301" class="alignnone size-full wp-image-5069" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Alex-Bay-Area-Styled001.jpg" alt="Alex Bay Area Styled001" width="1500" height="1068" class="alignnone size-full wp-image-5068" /></p>

@@ -1,25 +1,12 @@
 ---
 layout: post
-status: publish
-published: true
 title: Madison, WI Wedding Photographer | Northern Light Church Middleton | Katie
   + Colin Outdoor DIY Wedding
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 5513
-wordpress_url: http://weddings.magnifiedjoy.com/?p=5513
 date: '2014-06-14 15:52:57 -0500'
-date_gmt: '2014-06-14 15:52:57 -0500'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/06/Katie-Colin-Wedding-Feature-Image-1-480x375.jpg
 categories:
 - Wedding
 tags: []
-comments: []
-http://weddings.magnifiedjoy.com/wp-content/uploads/2014/06/Katie-Colin-Wedding-Feature-Image-1-480x375.jpg
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/06/Madison-Wedding-Photographer-Katie-Colin-001.jpg" alt="Madison Wedding Photographer Katie Colin 001" width="1500" height="1068" class="alignnone size-full wp-image-5604" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/06/Madison-Wedding-Photographer-Katie-Colin-002.jpg" alt="Madison Wedding Photographer Katie Colin 002" width="1500" height="1184" class="alignnone size-full wp-image-5605" /></p>

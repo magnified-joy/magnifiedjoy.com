@@ -1,22 +1,10 @@
 ---
 layout: life
-status: publish
-published: true
 title: Business - The New Look
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 2476
-wordpress_url: http://weddings.magnifiedjoy.com/?post_type=life&#038;p=2476
 date: '2013-04-04 16:03:47 -0500'
-date_gmt: '2013-04-04 16:03:47 -0500'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/04/ZN7A3900-480x375.jpg
 categories: []
 tags: []
-comments: []
 ---
 <p>Year 2013 is huge for us! We are in the process of re-starting our business through creating a whole new branding--a unified and memorable experience for all of our clients. We are excited to share with you all some of our big changes--our new website (you’re looking at it right now), our new logo, our new business cards, and new photo delivery method!</p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/04/Moo-Business-Cards-Wooden-Flash-Drives-New-Branding-01.jpg" alt="Moo Business Cards Wooden Flash Drives New Branding 01" width="1500" height="570" class="alignnone size-full wp-image-2477" /></p>
@@ -30,5 +18,5 @@ comments: []
 <p>The texture of the paper on our new business cards is really nice too. Think quality linen feel.</p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/04/Moo-Business-Cards-Wooden-Flash-Drives-New-Branding-06.jpg" alt="Moo Business Cards Wooden Flash Drives New Branding 06" width="1500" height="1066" class="alignnone size-full wp-image-2482" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/04/Moo-Business-Cards-Wooden-Flash-Drives-New-Branding-07.jpg" alt="Moo Business Cards Wooden Flash Drives New Branding 07" width="1500" height="1066" class="alignnone size-full wp-image-2483" /></p>
-<p>You need to see these in person. So <a href="{{ site.baseurl }}/contact/">contact us</a> and schedule a time for us to meet to chat about your big day! We would love to hand these out to you. :)</p>
+<p>You need to see these in person. So <a href="/contact/">contact us</a> and schedule a time for us to meet to chat about your big day! We would love to hand these out to you. :)</p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/04/Moo-Business-Cards-Wooden-Flash-Drives-New-Branding-08.jpg" alt="Moo Business Cards Wooden Flash Drives New Branding 08" width="1500" height="1066" class="alignnone size-full wp-image-2484" /></p>

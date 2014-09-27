@@ -1,20 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Camrose Hill Flower Farm Wedding | Stillwater, MN | Andrea + Peter Wedding
   | Midwest Wedding Photographers
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 2906
-wordpress_url: http://weddings.magnifiedjoy.com/?p=2906
 date: '2013-07-30 00:02:56 -0500'
-date_gmt: '2013-07-30 00:02:56 -0500'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/07/7-5-13-Andrea-and-Peter-Wedding-Color-Web-177-480x375.jpg
 categories:
 - Wedding
 tags:
@@ -28,7 +17,6 @@ tags:
 - hill
 - flower
 - farm
-comments: []
 ---
 <p>Andrea's gift of event planning and attention to details is obvious not only in her day to day work, but was clearly evident in her own event planning. She made us both grin when she came to our original consultation meeting with a complete binder full of the big-picture vision of her wedding and details to fill it out--color swaths of coral, grey, and gold glitter, pictures of dresses and accessories, a map of the venue, and a detailed timeline of fun events to provide a memorable evening for their guests.</p>
 <p><a href="http://www.camrosehillflowers.com/farm.html">Camrose Hill Flower Farm</a> proved to be the perfect venue to showcase both of their personalities. The well-maintained green space and flower gardens, the rustic yet functionally beautiful barn, the flower-shack-turned brides' room, the yards to play lawn games, and the firepit to host s'mores were just a few of the many elements that captured their love of the outdoors, their fun adventurous personalities, and their classy touch. </p>

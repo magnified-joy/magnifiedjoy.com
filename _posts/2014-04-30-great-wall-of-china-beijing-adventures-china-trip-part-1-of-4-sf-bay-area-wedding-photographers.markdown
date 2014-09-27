@@ -1,23 +1,11 @@
 ---
 layout: life
-status: publish
-published: true
 title: Great Wall of China | Beijing Adventures | China Trip Part 1 of 4 | SF Bay
   Area Wedding Photographers
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 5246
-wordpress_url: http://weddings.magnifiedjoy.com/?post_type=life&#038;p=5246
 date: '2014-04-30 01:03:07 -0500'
-date_gmt: '2014-04-30 01:03:07 -0500'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/04/BJ-Feature-480x375.jpg
 categories: []
 tags: []
-comments: []
 ---
 <p>We had an opportunity to photograph our first international wedding in Hong Kong last year. After the wedding, we figured since we are on this side of the world, might as well do some personal travel. We've invited Maria's mom to travel with us, it's her first time to Asia. Both Maria and I have been to China in the past, we've both been to Beijing ourselves. Since both Maria and I have been to Beijing before, we decided to spend less time here and spend more time in other parts of the country. The Great Wall of China is just a short drive from the city center. Since this is mom's first time to China, this stop is a must!</p>
 <p>Traveling across China can be difficult logistically. However, since both Maria and I speak Chinese, we were able to speak to the locals and get around the city.   </p>

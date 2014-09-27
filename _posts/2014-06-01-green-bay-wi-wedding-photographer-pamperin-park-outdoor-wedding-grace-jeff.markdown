@@ -1,25 +1,12 @@
 ---
 layout: post
-status: publish
-published: true
 title: Green Bay, WI Wedding Photographer | Pamperin Park Outdoor Wedding | Grace
   + Jeff
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 5392
-wordpress_url: http://weddings.magnifiedjoy.com/?p=5392
 date: '2014-06-01 04:12:45 -0500'
-date_gmt: '2014-06-01 04:12:45 -0500'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/06/Grace-Jeff-Wedding-Feature-2-480x375.jpg
 categories:
 - Wedding
 tags: []
-comments: []
-thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/06/Grace-Jeff-Wedding-Feature-2-480x375.jpg
 ---
 <p>We could not be more filled with joy to have had the privilege of shooting Grace + Jeff's beautiful spring wedding in Green Bay, WI last weekend. Beyond the morning of mimosas, adorable robes, and lots of laughter at <a href="http://thespaloftdepere.com/create-hair-loft/" title="Create Hair Loft">Create Hair Loft</a>, Grace was just so relaxed and full of smiles the entire day, anticipating her union with Jeff.  </p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/06/Pamperin-Park-Green-Bay-Outdoor-Wedding-Grace-Jeff001.jpg" alt="Pamperin Park Green Bay Outdoor Wedding Grace Jeff001" width="1500" height="1068" class="alignnone size-full wp-image-5393" /></p>

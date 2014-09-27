@@ -1,23 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Amanda + Adam's Engagement Session | Madison, WI Wedding Photographer
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 566
-wordpress_url: http://www.magnifiedjoyphotography.com/?p=566
 date: '2012-04-30 16:50:25 -0500'
-date_gmt: '2012-04-30 16:50:25 -0500'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2012/04/2012-12-30_0001-480x375.jpg
 categories:
 - Engagements
 tags: []
-comments: []
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2012/04/Madison-WI-Engagement-UW-Arboretum-Amanda-Adam-01.jpg" alt="Madison WI Engagement UW Arboretum Amanda Adam 01" width="1500" height="1066" class="alignnone size-full wp-image-2107" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2012/04/Madison-WI-Engagement-UW-Arboretum-Amanda-Adam-02.jpg" alt="Madison WI Engagement UW Arboretum Amanda Adam 02" width="1500" height="758" class="alignnone size-full wp-image-2108" /></p>

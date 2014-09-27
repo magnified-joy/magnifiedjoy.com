@@ -1,25 +1,13 @@
 ---
 layout: life
-status: publish
-published: true
 title: Xian China Adventure | International Destination Wedding Photographer
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 6648
-wordpress_url: http://weddings.magnifiedjoy.com/?post_type=life&#038;p=6648
-date: '2010-09-11 21:31:52 -0500'
-date_gmt: '2010-09-11 21:31:52 -0500'
+date: '2014-09-11 21:31:52 -0500'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/09/Xian-Feature-480x375.jpg
 categories: []
 tags:
 - food
 - travel
 - adventure
-comments: []
 ---
 <p>After a sleeper train from Beijing, we woke up just in time for arrival to Xian, home of the Terracotta warriors.</p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/09/001-China-Adventure-Xian-International-Destination-Wedding-Photographer.jpg" alt="001 China Adventure Xian International Destination Wedding Photographer" width="1500" height="1068" class="alignnone size-full wp-image-6649" /></p>

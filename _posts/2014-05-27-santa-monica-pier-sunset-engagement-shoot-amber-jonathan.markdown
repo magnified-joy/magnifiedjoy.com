@@ -1,25 +1,12 @@
 ---
 layout: post
-status: publish
-published: true
 title: San Francisco Bay Area Wedding Photographer | Santa Monica Pier Sunset Engagement
   Shoot | Amber + Jonathan
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 5376
-wordpress_url: http://weddings.magnifiedjoy.com/?p=5376
 date: '2014-05-27 16:05:02 -0500'
-date_gmt: '2014-05-27 16:05:02 -0500'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/05/Amber-Jonathan-Feature1-480x375.jpg
 categories:
 - Engagements
 tags: []
-comments: []
-thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/05/Amber-Jonathan-Feature1-480x375.jpg
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/05/Santa_Monica_Pier_Engagement_Amber_Jonathan_0001.jpg" alt="Santa_Monica_Pier_Engagement_Amber_Jonathan_0001" width="1500" height="1184" class="alignnone size-full wp-image-5377" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/05/Santa_Monica_Pier_Engagement_Amber_Jonathan_0002.jpg" alt="Santa_Monica_Pier_Engagement_Amber_Jonathan_0002" width="1500" height="1068" class="alignnone size-full wp-image-5378" /></p>

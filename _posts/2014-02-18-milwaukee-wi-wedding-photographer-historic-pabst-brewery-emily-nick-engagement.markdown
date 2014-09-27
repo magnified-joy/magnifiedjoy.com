@@ -1,24 +1,12 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Milwaukee, WI Wedding Photographer | Historic Pabst Brewery | Emily + Nick
   Engagement '
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 4606
-wordpress_url: http://weddings.magnifiedjoy.com/?p=4606
 date: '2014-02-18 19:59:09 -0600'
-date_gmt: '2014-02-18 19:59:09 -0600'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/02/emily-nick-feature-480x375.jpg
 categories:
 - Engagements
 tags: []
-comments: []
 ---
 <p>Emily + Nick are a rare and super special love case--they have known each other their entire lives! Literally. Emily + Nick grew up going to school together, even being "locker buddies" as their last names start with the same letter. Emily described to me so well about how Nick meant different things to her at different points of their lives growing up together. Although friends for TWENTY years (!) before more seriously dating each other, these two are such sweet friends AND lovers! Nick is a courageous leader and a strong, but gentle man. Emily is so sweet and approachable, her sincerity is evident. Together, these two childhood friends make an inspiring and faithful couple, and we're so excited to see them grow even stronger together in marriage! </p>
 <p>Thank you Emily + Nick for braving the freezing Milwaukee weather and exploring some sweet historic downtown settings, including the <a href="http://pabstbrewingco.com/agegate/?backto=/" title="Pabst Brewing Company">Pabst Brewery</a> with us!</p>

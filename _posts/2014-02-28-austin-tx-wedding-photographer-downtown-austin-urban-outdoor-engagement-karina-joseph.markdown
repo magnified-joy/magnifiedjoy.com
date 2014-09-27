@@ -1,24 +1,12 @@
 ---
 layout: post
-status: publish
-published: true
 title: Austin, TX Wedding Photographer | Downtown Austin Urban Outdoor Engagement
   | Karina + Joseph
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 4731
-wordpress_url: http://weddings.magnifiedjoy.com/?p=4731
 date: '2014-02-28 00:22:03 -0600'
-date_gmt: '2014-02-28 00:22:03 -0600'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/02/2014-02-27_0028-480x375.jpg
 categories:
 - Engagements
 tags: []
-comments: []
 ---
 <p>These two creative and intelligent entrepreneurs migrated from our shared home-base of Madison, WI to another amazing, but <em>much</em> warmer city, Austin, TX. We will be shooting their wedding in Madison at <a href="http://www.mmoca.org/" title="MMoCA">MMoCA</a> this summer, but we were so thrilled that it worked out to meet up with Karina + Joseph in Austin during our three-week, <a href="http://bit.ly/1dtGM8S" title="MJP road trip">Magnified Joy Photography road trip</a> to San Francisco. Although they met and started dating in Madison, Karina + Joseph definitely affiliate with Austin as their new home, thus, where they preferred to have their engagement shoot as well. </p>
 <p>Karina + Joseph are two silly, playful, urban artist-lovers. Joseph is notorious for ridiculous facial expressions and jokes, making Karina throw her head back and laugh full-out.  It was so easy to capture their personalities as we walked around downtown Austin on their urban engagement shoot. Our shared love for the arts and local city life, both in Madison and Austin, was evident. We started at <a href="http://www.violetcrowncinema.com/" title="Violet Crown Cinema">Violet Crown Cinema</a> (which reminded us of Sundance Cinemas in Madison), which has several small plush-seated theaters, independent films, and a cafe with great drinks and food. We ended at <a href="http://www.austintexas.gov/" title="Austin City Hall">City Hall</a> for sunset. What a fun urban adventure! </p>

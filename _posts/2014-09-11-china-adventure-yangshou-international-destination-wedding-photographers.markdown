@@ -1,22 +1,10 @@
 ---
 layout: life
-status: publish
-published: true
 title: China Adventure Yangshuo | International Destination Wedding Photographers
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 6706
-wordpress_url: http://weddings.magnifiedjoy.com/?post_type=life&#038;p=6706
-date: '2010-09-11 22:22:56 -0500'
-date_gmt: '2010-09-11 22:22:56 -0500'
+date: '2014-09-11 22:22:56 -0500'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/09/YS-feature-480x375.jpg
 categories: []
 tags: []
-comments: []
 ---
 <p>After a flight from Shanghai, we have finally arrived in Yangshuo, but not after landing in Guilin and a 2 hour taxi ride. We arrived tired and hungry. So we hit up some night street food! </p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/09/001-China-Adventure-Yangshou-International-Destination-Wedding-Photographer.jpg" alt="001 China Adventure Yangshou International Destination Wedding Photographer" width="1500" height="1068" class="alignnone size-full wp-image-6707" /></p>

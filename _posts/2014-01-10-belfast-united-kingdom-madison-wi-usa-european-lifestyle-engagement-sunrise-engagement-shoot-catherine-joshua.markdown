@@ -1,24 +1,12 @@
 ---
 layout: post
-status: publish
-published: true
 title: Belfast, United Kingdom | Madison, WI USA | European Lifestyle Engagement |
   Sunrise Engagement Shoot | Catherine + Joshua
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 4367
-wordpress_url: http://weddings.magnifiedjoy.com/?p=4367
 date: '2014-01-10 01:57:38 -0600'
-date_gmt: '2014-01-10 01:57:38 -0600'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/cath-josh-feature-480x375.jpg
 categories:
 - Engagements
 tags: []
-comments: []
 ---
 <p>These two crazy lovebirds were reunited at last! My heart delighted for them as much as they were in delight with each other. You see, Cath, one of my best friends, and fellow UW-Madison Internationals Studies major, found her true love and life partner in Belfast, United Kingdom. Cath has something in her blood, like I do--a passion to travel around the world and dive into other cultures and languages. It is no surprise that she found her soon-to-be husband while living and studying peace + conflict resolution in Northern Ireland. </p>
 <p>Joshua is English and Cath is American. Both were in Belfast studying abroad and met at a small house church, a tight-knit loving community of Christ-followers, known as <a href="http://www.villagebelfast.com/">Village</a>. In Cath's words, "About 20-30 people from all backgrounds (read: Protestants, Catholics, atheists, agnostics, "typical" Christians, etc) came together for services at my pastor's home. We also met during the week for a family-style meal and discussion. We discussed real life issues, theology, the Gospel, and the aches and pains and hilarities of life in Belfast. It wasn't unusual to head down to the pub with these pals and continue the conversations, or to get a coffee during the week to follow up with someone who needed a little extra support."</p>

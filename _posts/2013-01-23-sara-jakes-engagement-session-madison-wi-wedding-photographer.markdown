@@ -1,33 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Sara + Jake's Engagement Session | Madison, WI Wedding Photographer
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 1176
-wordpress_url: http://www.magnifiedjoyphotography.com/?p=1176
 date: '2013-01-23 14:13:11 -0600'
-date_gmt: '2013-01-23 14:13:11 -0600'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/01/2013-01-23_0011-480x375.jpg
 categories:
 - Engagements
 tags: []
-comments:
-- id: 97
-  author: Stoughton, WI | Stoughton Country Club Wedding | Sara + Jake Outdoor Wedding
-    | Magnified Joy Photography
-  author_email: ''
-  author_url: http://weddings.magnifiedjoy.com/wedding/stoughton-wi-stoughton-country-club-wedding-sara-jake-outdoor-wedding/
-  date: '2013-09-30 16:01:37 -0500'
-  date_gmt: '2013-09-30 16:01:37 -0500'
-  content: '[...] had the coldest day of the year when we shot their engagement shoot
-    (12 °F with 16 mph wind speed), and the hottest day for their wedding (90 °F with
-    87% humidity)! [...]'
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/01/Madison-Wedding-Photographer-Monona-Terrace-Sara-Jake-0001.jpg" alt="Madison Wedding Photographer Monona Terrace Sara Jake 0001" width="1500" height="1066" class="alignnone size-full wp-image-2058" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/01/Madison-Wedding-Photographer-Monona-Terrace-Sara-Jake-0002.jpg" alt="Madison Wedding Photographer Monona Terrace Sara Jake 0002" width="1500" height="1066" class="alignnone size-full wp-image-2059" /></p>

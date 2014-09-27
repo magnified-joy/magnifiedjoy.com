@@ -1,33 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Hong Kong, China | International Wedding Photographer | Tiffany + Tom Wedding
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 4018
-wordpress_url: http://weddings.magnifiedjoy.com/?p=4018
 date: '2013-11-25 21:43:58 -0600'
-date_gmt: '2013-11-25 21:43:58 -0600'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/11/tiffany-tom-wedding-cover-2-480x375.jpg
 categories:
 - Wedding
 tags: []
-comments:
-- id: 171
-  author: Madison, WI Wedding Photographer | Snowy Engagement Shoot | Heather + Mark
-    Part II | Magnified Joy Photography
-  author_email: ''
-  author_url: http://weddings.magnifiedjoy.com/engagements/madison-wi-wedding-photographer-snowy-engagement-shoot-memorial-union-lake-shore-path-heather-mark-engagement-part-ii/
-  date: '2013-12-16 05:22:41 -0600'
-  date_gmt: '2013-12-16 05:22:41 -0600'
-  content: '[&#8230;] and Mark first contacted us right before we departed for our
-    Hong Kong wedding. They just got engaged and wanted to secure us as their wedding
-    photographers right away. Wanting [&#8230;]'
 ---
 <p>A wedding not in English you say? Yes! Just Chinese and French. This uniquely represents our first international wedding. Tom's Chinese relatives and Tiffany's French relatives exchanged very few words with each other during their wedding day, but exchanged abundant hospitality, blessings, and smiles--the international language indeed! (En Tao and I both speak Mandarin so we were able to help make things run smoothly.)<br />
 Tiffany and Tom looked stunning. Tiffany wore a traditional white gown for the ceremony and changed into the Chinese qipao for the reception. But more than just their stunning wedding attire and hair-do's, Tiffany and Tom radiated with joy, as they were so happy to be united together in the presence of their network of international family, friends, and mentors from all over Asia, America, and France. It was truly a joy to have celebrated with our dear friends, Tiffany and Tom, as well as have had the privilege to go to Hong Kong to document their special day.</p>

@@ -1,23 +1,11 @@
 ---
 layout: life
-status: publish
-published: true
 title: Santa Fe, Albuquerque, NM Wedding Photographer | Desert Harbor | Premiere Honeymoon
   Elopement Destination Wedding Venue
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 5124
-wordpress_url: http://weddings.magnifiedjoy.com/?post_type=life&#038;p=5124
 date: '2014-04-23 05:14:08 -0500'
-date_gmt: '2014-04-23 05:14:08 -0500'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/04/Desert-Harbor-Feb-2014-094-480x375.jpg
 categories: []
 tags: []
-comments: []
 ---
 <p>New Mexico is quickly becoming one of our favorite states to visit each year. Last year (also in February) we took a trip to Albuquerque and stayed at <a href="http://bit.ly/YSJbTx">Los Poblanos</a>. After our first exposure to New Mexico, we knew we wanted to come back and explore some more. New Mexico is just full of colors and unique landscapes that we have not seen anywhere else in the United States! While planning our first <a href="http://bit.ly/1dtGM8S">Road Trip to California</a> we made sure that we included Albuquerque in our route. As we were researching on a new venue to highlight, we stumbled upon <a href="http://desertharborretreat.com">Desert Harbor</a>. We were blown away by the uniqueness of this establishment! Their business practices really resonated with us and we were convinced that we wanted to feature this place! (We're talking off-the-grid, fully solar powered, well water, no GPS can get you here, cellphone barely has reception, silence, shower naked outdoors facing the beautiful New Mexico landscape) Although we didn't get to have the full experience of what Desert Harbor has to offer as the hosts, Raymond and Wesley, were taking a much deserved annual family vacation of their own. They were kind enough to open up the space for us to stay and explore, even though they were not there. We were a little bummed that we didn't have the opportunity to taste their local organic meals they always provide for their guests, judging by the menu (as foodies ourselves), it would have been ah-ma-zing! </p>
 <p>We were given creative freedom to photograph their property. During our stay there, we were rejuvenated in our creativity, spirituality, in our marriage, and in our physical bodies as well. We would recommend this gem to anyone looking for a place to retreat to for various reasons (honeymoon, anniversaries, getaways, babymoons, etc.). Really though, you don't need a reason; this place is just such a treat that does your body and mind well! Desert Harbor is also open for weddings/elopement.</p>

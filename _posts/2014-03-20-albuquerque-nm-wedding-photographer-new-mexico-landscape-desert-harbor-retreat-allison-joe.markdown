@@ -1,24 +1,12 @@
 ---
 layout: post
-status: publish
-published: true
 title: Albuquerque, NM Wedding Photographer | New Mexico Landscape Desert Harbor Retreat
   | Allison + Joe
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 4857
-wordpress_url: http://weddings.magnifiedjoy.com/?p=4857
 date: '2014-03-20 06:24:24 -0500'
-date_gmt: '2014-03-20 06:24:24 -0500'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Allison-Joe-Feature-480x375.jpg
 categories:
 - Portrait
 tags: []
-comments: []
 ---
 <p>New Mexico has such unique and out of this world landscape. We're thrilled that we had the opportunity to highlight New Mexico's landscape on our <a href="http://weddings.magnifiedjoy.com/life/magnified-joy-photography-united-states-road-trip-tour-2014-part-i/">road trip</a> at Desert Harbor with Allison + Joe. Desert Harbor is an off-the-grid (metaphorically and literally-solar powered) retreat that is quietly nested in the Sandia mountain. Enjoy some epic adventure with Allison + Joe.</p>
 <p>Check out our feature of <a href="http://bit.ly/1f40gZl">Desert Harbor's property here</a>.</p>

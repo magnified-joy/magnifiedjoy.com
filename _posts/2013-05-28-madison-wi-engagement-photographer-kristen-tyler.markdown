@@ -1,33 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Madison, WI Engagement Photographer | Kristen + Tyler
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 2585
-wordpress_url: http://weddings.magnifiedjoy.com/?p=2585
 date: '2013-05-28 14:42:28 -0500'
-date_gmt: '2013-05-28 14:42:28 -0500'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/05/2013-05-28_0018-480x375.jpg
 categories:
 - Engagements
 tags: []
-comments:
-- id: 60
-  author: Madison, WI | Blackhawk Church Wedding | Hilton Garden Inn Reception | Kristen
-    + Tyler Wedding | Wisconsin Wedding Photographer | Magnified Joy Photography
-  author_email: ''
-  author_url: http://weddings.magnifiedjoy.com/wedding/madison-wi-blackhawk-church-wedding-hilton-garden-inn-reception-kristen-tyler-wedding-wisconsin-wedding-photographer/
-  date: '2013-08-25 05:59:50 -0500'
-  date_gmt: '2013-08-25 05:59:50 -0500'
-  content: '[...] Click here to see their engagement photos. Click here to see more
-    photos or to order prints for Kristen + Tyler&#8217;s wedding. Password to their
-    gallery is Kristen&#8217;s maiden name. [...]'
 ---
 <p>Congratulations to Kristen and Tyler on their engagement and upcoming wedding! We are super excited for your wedding day! Thank God that the rain held off during the entire engagement session, it was super-storming just 30 minutes prior to the session!</p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/05/2013-05-28_0001.jpg" alt="2013-05-28_0001" width="1500" height="1183" class="alignnone size-full wp-image-2586" /></p>

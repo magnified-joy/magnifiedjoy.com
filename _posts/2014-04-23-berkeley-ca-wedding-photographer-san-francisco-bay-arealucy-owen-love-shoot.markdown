@@ -1,25 +1,12 @@
 ---
 layout: post
-status: publish
-published: true
 title: Berkeley, CA  Wedding Photographer San Francisco Bay Area|Lucy + Owen | Love
   Shoot
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 5110
-wordpress_url: http://weddings.magnifiedjoy.com/?p=5110
 date: '2014-04-23 01:43:44 -0500'
-date_gmt: '2014-04-23 01:43:44 -0500'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/04/4-10-14-Lucy-Owen-Portrait-036a-480x375.jpg
 categories:
 - Portrait
 tags: []
-comments: []
-thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/04/4-10-14-Lucy-Owen-Portrait-036a-480x375.jpg
 ---
 <p>It's been really fun to get to know Lucy + Owen over the past couple of months. They have very sweet hospitable personalities and just love on people (and their two beautiful pit bulls). With both of them having kinda a crazy life schedule, the only time we were able to schedule a shoot with them was sunrise. Living in the Bay Area, sunrise is a rare ecological phenomenon (or more of an urban legend really...) as the fog usually consumes the Bay for a good portion of the morning. We started just walking around our neighborhood in Berkeley with their two well behaved pit bulls, we then ended their shoot around the <a href=http://www.ci.berkeley.ca.us/Marina_Home/">Berkeley marina</a> area with just the two of them. </p>
 <p>Even though it was super early, these two still shine with full positive energy (before coffee or breakfast!). </p>

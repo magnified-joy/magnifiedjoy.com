@@ -1,25 +1,12 @@
 ---
 layout: post
-status: publish
-published: true
 title: Waukesha, WI Traditional Hmong Wedding | Cross Cultural | Hmong American Wedding
   | Pakou + Matt
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 5955
-wordpress_url: http://weddings.magnifiedjoy.com/?p=5955
 date: '2014-07-22 16:02:24 -0500'
-date_gmt: '2014-07-22 16:02:24 -0500'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/07/Traditional-Hmong-American-Wedding-Feature-480x375.jpg
 categories:
 - Wedding
 tags: []
-comments: []
-thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/07/Traditional-Hmong-American-Wedding-Feature-480x375.jpg
 ---
 <p>We were thrilled to take up the challenge of photographing Pakou + Matt's cross-cultural Hmong wedding affair. Taking place at Pakou's parents home, the day was filled with very traditional Hmong elements--beautiful Hmong clothes made by mom, traditional Hmong jewelry and headpieces, colorful ribbons to display their "stripped" clan, a blanket, patterned ribbon and umbrella, and a woven basket filled with specially prepared whole chickens, each with a special meaning and purpose in the Hmong wedding negotiation and celebration.<br />
 The couple also wanted to focus on their love for Jesus, which has been central in their relationship. After the traditional Hmong negotiations inside the living room, everyone moved to the backyard for a brief Christian ceremony. In a bilingual fashion, Matt's dad shared from the Bible in English and Pastor Eddie shared in Hmong, and both prayed over them in the respective languages, in the presence of all of their parents and family. Pakou placed Matt's ring on his finger--the ring in which he had designed and sculpted by hand with so much love.<br />

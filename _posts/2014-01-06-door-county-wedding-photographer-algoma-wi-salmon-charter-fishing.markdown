@@ -1,22 +1,10 @@
 ---
 layout: life
-status: publish
-published: true
 title: Door County Wedding Photographer | Algoma, WI | Salmon Charter Fishing
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 3786
-wordpress_url: http://weddings.magnifiedjoy.com/?post_type=life&#038;p=3786
 date: '2014-01-06 18:31:00 -0600'
-date_gmt: '2014-01-06 18:31:00 -0600'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/Charter-Fishing-Feature-480x375.jpg
 categories: []
 tags: []
-comments: []
 ---
 <p>A 4am wakeup call is never easy, but usually rewarding. (The last time I got up this early was when En Tao spontaneously woke me up to go and climb the tallest mountain in Colorado--on top of which he proposed to me! I can tell you our engagement story sometime.) So yes, early mornings are hard, but good. This morning wasn't nearly as breathtaking as a mountain-top proposal, but it was a beautiful and serene sunrise on the lake and a hard working-adventure of reeling in our prized Lake Michigan salmon.</p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/10/Charter-Fishing-001.jpg" alt="Charter Fishing 001" width="1500" height="1066" class="alignnone size-full wp-image-3787" /></p>

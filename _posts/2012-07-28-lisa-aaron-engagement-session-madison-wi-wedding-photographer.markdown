@@ -1,23 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Lisa + Aaron Engagement Session | Madison, WI Wedding Photographer
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 810
-wordpress_url: http://www.magnifiedjoyphotography.com/?p=810
 date: '2012-07-28 03:27:54 -0500'
-date_gmt: '2012-07-28 03:27:54 -0500'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2012/07/Madison-Engagement-Villas-Edgewood-Ferris-Wheel-Lisa-Aaron-191-480x375.jpg
 categories:
 - Engagements
 tags: []
-comments: []
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2012/07/Madison-Engagement-Villas-Edgewood-Ferris-Wheel-Lisa-Aaron-01.jpg" alt="Madison Engagement Villas Edgewood Ferris Wheel Lisa Aaron 01" width="1500" height="1560" class="alignnone size-full wp-image-1992" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2012/07/Madison-Engagement-Villas-Edgewood-Ferris-Wheel-Lisa-Aaron-02.jpg" alt="Madison Engagement Villas Edgewood Ferris Wheel Lisa Aaron 02" width="1500" height="1066" class="alignnone size-full wp-image-1993" /></p>

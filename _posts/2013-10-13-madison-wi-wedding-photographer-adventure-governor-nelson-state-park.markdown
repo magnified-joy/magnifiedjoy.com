@@ -1,22 +1,10 @@
 ---
 layout: life
-status: publish
-published: true
 title: Madison, WI Wedding Photographer | Adventure Governor Nelson State Park
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 3615
-wordpress_url: http://weddings.magnifiedjoy.com/?post_type=life&#038;p=3615
 date: '2013-10-13 12:38:48 -0500'
-date_gmt: '2013-10-13 12:38:48 -0500'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/10/nelson-feature-480x375.jpg
 categories: []
 tags: []
-comments: []
 ---
 <p><img class="alignnone size-full wp-image-3616" alt="Madison WI Governor Nelson State Park Adventure 001" src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/10/Madison-WI-Governor-Nelson-State-Park-Adventure-001.jpg" width="1500" height="1183" /></p>
 <p><em>Mr. Governor Nelson,</p>

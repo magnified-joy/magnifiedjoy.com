@@ -1,24 +1,12 @@
 ---
 layout: post
-status: publish
-published: true
 title: Snowy Indian Fusion Stylized Photo Shoot | Madison, WI Wedding Photographer
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 4467
-wordpress_url: http://weddings.magnifiedjoy.com/?p=4467
 date: '2014-01-21 01:16:23 -0600'
-date_gmt: '2014-01-21 01:16:23 -0600'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/Frankie-Daniel081-480x375.jpg
 categories:
 - Engagements
 - Portrait
 tags: []
-comments: []
 ---
 <p>I met Frankie through our shared passion of dance and movement as worship. Frankie's pure, confident, and beautiful movements inspired me to revisit my creativity to choreograph movement, regain my confidence in dancing, and share that gift with others too. (You can see us dancing together to <a href="http://bit.ly/1doICxU">Josh Garrel's "Bread and Wine" here</a>.) Although I got to dance with Frankie and three other amazing women, I felt like I still knew her "from a distance".</p>
 <p>But it was later, when I asked Frankie if she and her boyfriend, Daniel, would opt into a stylized photo shoot, that I had the chance to get to know her at a different level. We landed on the theme of "Indian Fusion", drawing from Daniel's south Indian Malaysian background, bringing in some traditional props, such as Daniel's mom's sari and bangles, as well as some non-traditional elements, such as the tight jeans, bright floral bouquet, and of course, snow! It was such a privilege to get to know Frankie a bit more behind the camera while photographing her natural beauty and her stunning glances. </p>

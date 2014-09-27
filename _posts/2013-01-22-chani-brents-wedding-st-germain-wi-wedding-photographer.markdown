@@ -1,23 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Chani + Brent's Wedding | St. Germain, WI Wedding Photographer
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 1141
-wordpress_url: http://www.magnifiedjoyphotography.com/?p=1141
 date: '2013-01-22 22:50:54 -0600'
-date_gmt: '2013-01-22 22:50:54 -0600'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/01/2013-01-22_0026-480x375.jpg
 categories:
 - Wedding
 tags: []
-comments: []
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/01/St-Germain-Wisconsin-Wedding-Photographer-Chani-Brent-01.jpg" alt="St Germain Wisconsin Wedding Photographer Chani Brent 01" width="1500" height="1183" class="alignnone size-full wp-image-2076" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/01/St-Germain-Wisconsin-Wedding-Photographer-Chani-Brent-02.jpg" alt="St Germain Wisconsin Wedding Photographer Chani Brent 02" width="1500" height="1066" class="alignnone size-full wp-image-2077" /></p>

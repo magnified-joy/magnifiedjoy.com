@@ -1,24 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Madison, WI | MMoCA Wedding | Karina + Joseph Casual Intimate Wedding
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 5696
-wordpress_url: http://weddings.magnifiedjoy.com/?p=5696
 date: '2014-06-17 20:47:01 -0500'
-date_gmt: '2014-06-17 20:47:01 -0500'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/06/Karina-Joseph-Cover-480x375.jpg
 categories:
 - Wedding
 tags: []
-comments: []
-thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/06/Karina-Joseph-Cover-480x375.jpg
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/06/MMoCA-Wedding-Madison-WI-Karina-Joseph-001.jpg" alt="MMoCA Wedding Madison WI Karina Joseph 001" width="1500" height="760" class="alignnone size-full wp-image-5697" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/06/MMoCA-Wedding-Madison-WI-Karina-Joseph-002.jpg" alt="MMoCA Wedding Madison WI Karina Joseph 002" width="1500" height="1184" class="alignnone size-full wp-image-5698" /></p>

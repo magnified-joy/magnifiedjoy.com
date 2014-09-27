@@ -1,23 +1,11 @@
 ---
 layout: life
-status: publish
-published: true
 title: Madison, WI Wedding Photographer | Booyah | A Taste of Green Bay Culture in
   Madison | Chicken Stew
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 3645
-wordpress_url: http://weddings.magnifiedjoy.com/?post_type=life&#038;p=3645
 date: '2013-10-13 15:27:51 -0500'
-date_gmt: '2013-10-13 15:27:51 -0500'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/10/Booyah-6-480x375.jpg
 categories: []
 tags: []
-comments: []
 ---
 <p>My brother was the one growing up who repeatedly ordered his burgers “just plain.”</p>
 <p>--“Ketchup, mustard, pickles, lettuce, onion, cheese?”</p>

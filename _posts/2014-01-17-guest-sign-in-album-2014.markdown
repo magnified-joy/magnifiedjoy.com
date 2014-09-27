@@ -1,25 +1,13 @@
 ---
 layout: post
-status: publish
-published: true
 title: Guest Sign In Album
-author:
-  display_name: entao
-  login: entao
-  email: entao@magnifiedjoy.com
-  url: ''
-author_login: entao
-author_email: entao@magnifiedjoy.com
-wordpress_id: 4451
-wordpress_url: http://weddings.magnifiedjoy.com/?p=4451
 date: '2014-01-17 16:09:31 -0600'
-date_gmt: '2014-01-17 16:09:31 -0600'
+thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/IMG_1068-480x375.jpg
 categories:
 - Engagements
 - Video
 - Albums
 tags: []
-comments: []
 ---
 <p><iframe src="//player.vimeo.com/video/84265596" width="100%" height="500px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> </p>
 <p>We love taking photos of our awesome clients. But what we love even more is seeing our digital files of our clients come to print in our high-quality albums. It brings us great joy as artists to see our work come to fruition! Our clients can relive and share their memories with family and friends in a tangible way. How timeless and how beautiful!</p>
