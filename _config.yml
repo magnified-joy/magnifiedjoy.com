@@ -2,7 +2,7 @@
 title: M.Joy
 email: matt@lookitscook.com
 description: 
-baseurl: "http://code.lookitscook.com/m.joy" 
+baseurl: "/m.joy" 
 permalink: /:categories/:title/
 url: "http://code.lookitscook.com/m.joy" # the base hostname & protocol for your site
 twitter_username: lookitscook
