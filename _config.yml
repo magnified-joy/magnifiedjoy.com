@@ -1,12 +1,9 @@
 # Site settings
 title: M.Joy
-email: matt@lookitscook.com
 description: 
 baseurl: "/m.joy" 
 permalink: /:categories/:title/
-url: "http://code.lookitscook.com/m.joy" # the base hostname & protocol for your site
-twitter_username: lookitscook
-github_username:  lookitscook
+url: "http://code.lookitscook.com/m.joy" 
 include: ['_css','_js']
 gems:
   - jekyll-redirect-from
