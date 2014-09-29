@@ -7,6 +7,7 @@ permalink: /:categories/:title/
 url: "http://code.lookitscook.com/m.joy" # the base hostname & protocol for your site
 twitter_username: lookitscook
 github_username:  lookitscook
+include: ['_css/','_js/']
 gems:
   - jekyll-redirect-from
 
