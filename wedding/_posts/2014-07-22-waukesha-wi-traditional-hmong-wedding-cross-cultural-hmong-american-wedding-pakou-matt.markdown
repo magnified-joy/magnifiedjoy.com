@@ -1,8 +1,6 @@
 ---
 title: Waukesha, WI Traditional Hmong Wedding | Cross Cultural | Hmong American Wedding | Pakou + Matt
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/07/Traditional-Hmong-American-Wedding-Feature-480x375.jpg
-images:
-  prefix: https://googledrive.com/host/0B-rUPb5gojEtSThoalhsZjA5dzQ/
 ---
 We were thrilled to take up the challenge of photographing Pakou + Matt's cross-cultural Hmong wedding affair. Taking place at Pakou's parents home, the day was filled with very traditional Hmong elements--beautiful Hmong clothes made by mom, traditional Hmong jewelry and headpieces, colorful ribbons to display their "stripped" clan, a blanket, patterned ribbon and umbrella, and a woven basket filled with specially prepared whole chickens, each with a special meaning and purpose in the Hmong wedding negotiation and celebration.
 
