@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Waukesha, WI Traditional Hmong Wedding | Cross Cultural | Hmong American Wedding | Pakou + Matt
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/07/Traditional-Hmong-American-Wedding-Feature-480x375.jpg
 images:

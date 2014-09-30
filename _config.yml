@@ -5,6 +5,19 @@ baseurl: "/m.joy"
 permalink: /:categories/:title/
 url: "http://code.lookitscook.com/m.joy" 
 include: ['_css','_js']
+defaults:
+  -
+    scope:
+      path: ""
+      type: "post"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "page"
+    values:
+      layout: "page"
 gems:
   - jekyll-redirect-from
 
