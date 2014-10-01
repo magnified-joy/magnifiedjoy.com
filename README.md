@@ -1,1 +1,1 @@
-preview: http://code.lookitscook.com/m.joy
+ttp://code.lookitscook.com/m.joy
