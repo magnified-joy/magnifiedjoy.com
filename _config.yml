@@ -1,9 +1,9 @@
 # Site settings
 title: M.Joy
 description: 
-baseurl: "/m.joy" 
+baseurl: "/magnifiedjoy.com" 
 permalink: /:categories/:title/
-url: "http://code.lookitscook.com/m.joy" 
+url: "http://magnified-joy.github.io/magnifiedjoy.com" 
 include: ['_css','_js']
 defaults:
   -
