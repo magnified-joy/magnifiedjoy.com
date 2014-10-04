@@ -64,10 +64,13 @@
     border-top:2px solid #fff;
     border-left:2px solid #fff;
     border-bottom:2px solid #fff;
+    z-index:9999999999;
 }
 #portfolioCarousel .item a:hover{
-    color:#fff;
-    background:transparent;
+    /*color:#fff;
+    background:transparent;*/
+    opacity:0.75;
+    color:#000;
 }
 
 /* RESPONSIVE CSS
