@@ -4,7 +4,7 @@ description:
 baseurl: "/magnifiedjoy.com" 
 permalink: /:categories/:title/
 url: "http://magnified-joy.github.io/magnifiedjoy.com" 
-include: ['_css','_js']
+include: ['_css','_js','_img']
 defaults:
   -
     scope:
