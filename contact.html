@@ -21,42 +21,42 @@ Magnified Joy Photography
         </div>
 
         <div class="col-md-8">
-        <form action="http://getsimpleform.com/messages?form_api_token=cf3b9534b134493cb0f553aa77486513" method="post" role="form">
+        <form action="http://getsimpleform.com/messages?form_api_token=0334b22d047a61f451029d4beaf69e6e" method="post" role="form">
                 <input type='hidden' name='redirect_to' value='{{ site.url }}/contact/thanks' class="hidden" />
                 <div class="col-md-12"><h4 style="margin-top:0">Information about you (all fields required):</h4></div>
                 <div class="form-group col-md-6">
-                    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Your First & Last Name">
+                    <input type="text" class="form-control" name="name" placeholder="Your First & Last Name">
                 </div>
                 <div class="form-group col-md-6">
-                    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Your Fiance's First & Last Name">
+                    <input type="text" class="form-control" name="fiance-name" placeholder="Your Fiance's First & Last Name">
                 </div>
                 <div class="form-group col-md-6">
-                    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Your Email Address">
+                    <input type="email" class="form-control" name="email" placeholder="Your Email Address">
                 </div>
                 <div class="form-group col-md-6">
-                    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Confirm Email Address">
+                    <input type="email" class="form-control" name="email-confirm" placeholder="Confirm Email Address">
                 </div>
                 <div class="form-group col-md-6">
-                    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Phone Number">
+                    <input type="phone" class="form-control" name="phone" placeholder="Phone Number">
                 </div>
                 <div class="form-group col-md-6">
-                    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Best Time to Call">
+                    <input type="text" class="form-control" name="time-to-call" placeholder="Best Time to Call">
                 </div>
                 <div class="form-group col-md-6">
-                    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Event Date (mm/dd/yy)">
+                    <input type="date" class="form-control"  name="date" placeholder="Event Date (mm/dd/yy)">
                 </div>
                 <div class="form-group col-md-6">
-                    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Ceremony/Reception Location">
+                    <input type="text" class="form-control" name="location" placeholder="Ceremony/Reception Location">
                 </div>
                 <div class="form-group col-md-6">
-                    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Photography Budget">
+                    <input type="text" class="form-control" name="budget" placeholder="Photography Budget">
                 </div>
                 <div class="form-group col-md-6">
-                    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="How did you find out about us?">
+                    <input type="text" name="find-out-via" class="form-control" placeholder="How did you find out about us?">
                 </div>
                 <div class="form-group col-md-12">
                     <span style="font-size:0.8em">On a scale of 1 to 10, how interested are you in having Magnified Joy Photography shoot your wedding?</span>
-                    <select class="form-control">
+                    <select class="form-control" name="interest-level">
                       <option>1 (a little)</option>
                       <option>2</option>
                       <option>3</option>
@@ -70,10 +70,10 @@ Magnified Joy Photography
                     </select>
                 </div>
                 <div class="form-group col-md-12">
-                    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Tell us what you're looking for">
+                    <input type="text" name="looking-for" class="form-control" id="exampleInputEmail1" placeholder="Tell us what you're looking for">
                 </div>
                 <div class="form-group col-md-12">
-                    <textarea id="message" class="form-control" rows="5" placeholder="Your Message to Us"></textarea>
+                    <textarea id="message" name="message" class="form-control" rows="5" placeholder="Your Message to Us"></textarea>
                     <p><br><input type="submit" class="btn btn-default" value="Send"/></p>
                 </div>
                 
