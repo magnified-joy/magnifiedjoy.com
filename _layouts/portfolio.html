@@ -1,9 +1,7 @@
 ---
-title: Portfolio
 layout: default
-permalink: portfolio/
 ---
-{% assign posts = site.categories.home %}
+{% assign posts = site.categories[page.portfolio_category] %}
 <div id="portfolioCarousel" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
   
@@ -11,7 +9,7 @@ permalink: portfolio/
 
     <div class="item{% if forloop.first %} active{% endif %}">
         <img src="{{ site.baseurl }}/_img/transparent.png" style="background-image:url({{ post.image }})" alt="{{ post.title }}">
-        <a href="#">Lorem ipsum et dolor</a>
+        <a href="{{ post.link }}">{{ post.title }}</a>
     </div>
 
     {% endfor %}

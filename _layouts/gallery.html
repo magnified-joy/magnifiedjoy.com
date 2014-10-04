@@ -18,8 +18,7 @@ layout: default
             {{ content }}
             
             {% for post in posts %}
-                {% if post.category == "home" %}
-                {% else %}
+                {% if post.categories contains "wedding" or post.categories contains "engagement" or post.categories contains "personal" %}
                     <div class="col-xs-6 col-md-4">
                     <a href="{{ site.baseurl }}{{ post.url }}" class="thumbnail">
                         <img src="{{ post.thumbnail }}" alt="{{ post.title }}">
