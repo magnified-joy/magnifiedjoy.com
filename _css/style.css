@@ -8,9 +8,6 @@ body,html{
     letter-spacing:0.04em;
     line-height:1.6em;
 }
-body{
-    padding:2em 0 2em 0;
-}
 .hidden{
     display:none;
     visibility:hidden;
@@ -157,7 +154,7 @@ strong{
 .btn:hover{
     border:2px solid #fff;
     background:#fff;
-        color:#565759;
+    color:#565759;
 }
 .btn-group>.btn:last-child:not(:first-child), .btn-group>.dropdown-toggle:not(:first-child), .btn-group>.btn:first-child:not(:last-child):not(.dropdown-toggle){
     border-radius:0;

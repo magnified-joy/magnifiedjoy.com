@@ -3,15 +3,21 @@ title: Portfolio
 layout: default
 permalink: portfolio/
 ---
-<div class="container-full content">
-<div class="carousel-container">
-    <div id="carousel">
-        <img src="https://googledrive.com/host/0B-rUPb5gojEtOU1lMS15OU9PRGc/1.jpg" />
-        <img src="https://googledrive.com/host/0B-rUPb5gojEtOU1lMS15OU9PRGc/2.jpg" />
-        <img src="https://googledrive.com/host/0B-rUPb5gojEtOU1lMS15OU9PRGc/3.jpg" />
-        <img src="https://googledrive.com/host/0B-rUPb5gojEtOU1lMS15OU9PRGc/4.jpg" />
+{% assign posts = site.categories.home %}
+<div id="portfolioCarousel" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+  
+    {% for post in posts %}
+
+    <div class="item{% if forloop.first %} active{% endif %}">
+        <img src="{{ site.baseurl }}/_img/transparent.png" style="background-image:url({{ post.image }})" alt="{{ post.title }}">
+        <a href="#">Lorem ipsum et dolor</a>
     </div>
-    <a class="next" href="#"> <span class="glyphicon glyphicon glyphicon-chevron-right"></span> </a>
-    <a class="prev" href="#"> <span class="glyphicon glyphicon glyphicon-chevron-left"></span> </a>
+
+    {% endfor %}
+
+  </div>
+  <a class="left carousel-control" href="#portfolioCarousel" role="button" data-slide="prev"><img src="{{ site.baseurl }}/_img/arrow-left.png" alt=""></a>
+  <a class="right carousel-control" href="#portfolioCarousel" role="button" data-slide="next"><img src="{{ site.baseurl }}/_img/arrow-right.png" alt=""></a>
 </div>
-</div>
+<script src="{{ site.baseurl }}/_js/portfolio.js"></script>
