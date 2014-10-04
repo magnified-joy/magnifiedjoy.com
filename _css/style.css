@@ -177,26 +177,32 @@ strong{
     text-decoration:none;
     color:#fff;
     font-family:"Muli",sans-serif;
+    position:relative;
 }
 .thumbnail .caption{
     display:none;
     visibility:hidden;
-background: transparent;
-position: absolute;
-top: 43%;
-left: 20%;
-width: 60%;
-border: 4px solid #fff;
-padding: 0.5em 0;
-font-size: 0.8em;
-text-transform: uppercase;
-color:#fff;
+    background: transparent;
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    width: 60%;
+    border: 2px solid #fff;
+    padding: 0.5em 0;
+    font-size: 0.8em;
+    text-transform: uppercase;
+    color:#fff;
+      -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+      transform: translateY(-50%);
 }
-.thumbnail .caption{
-    top:30%;
+.thumbnail .caption:hover{
+    border:2px solid #fff;
+    background:#fff;
+    color:#565759;
 }
 
- .thumbnail .caption strong{
+.thumbnail .caption strong{
     font-size: 1.4em;
 }
 
