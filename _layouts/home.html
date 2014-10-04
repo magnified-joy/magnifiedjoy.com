@@ -33,12 +33,8 @@
     <div class="bottom container">
         <hr>
         <div class="instagram col-md-5">
-            <a href="#">@magnifiedjoy</a>
-            <div class="feed">
-                <a href="#"><img src="https://googledrive.com/host/0B-rUPb5gojEtbHhWbmlTVVljSms/1.jpg" alt=""></a>
-                <a href="#"><img src="https://googledrive.com/host/0B-rUPb5gojEtbHhWbmlTVVljSms/2.jpg" alt=""></a>
-                <a href="#"><img src="https://googledrive.com/host/0B-rUPb5gojEtbHhWbmlTVVljSms/3.jpg" alt=""></a>
-                <a href="#"><img src="https://googledrive.com/host/0B-rUPb5gojEtbHhWbmlTVVljSms/4.jpg" alt=""></a>
+            <a href="http://instagram.com/magnifiedjoy" target="_blank">@magnifiedjoy</a>
+            <div id="instafeed" class="feed">
             </div>
         </div>
         <div class="share col-md-4">
@@ -51,16 +47,21 @@
             <h3>Subscribe to our monthly newsletter</h3>
             <h3>Find us on social media</h3>
             <div id="social">
-                <a href="#" class="facebook"><img src="{{ site.baseurl }}/_img/icon-facebook.png" alt="facebook"></a>
-                <a href="#" class="instagram"><img src="{{ site.baseurl }}/_img/icon-instagram.png" alt="instagram"></a>
-                <a href="#" class="smugmug"><img src="{{ site.baseurl }}/_img/icon-smugmug.png" alt="smugmug"></a>
-                <a href="#" class="google"><img src="{{ site.baseurl }}/_img/icon-google.png" alt="google"></a>
+                <a href="https://www.facebook.com/magnifiedjoy" class="facebook" target="_blank">
+                    <img src="{{ site.baseurl }}/_img/icon-facebook.png" alt="facebook"></a>
+                <a href="http://instagram.com/magnifiedjoy" class="instagram" target="_blank">
+                    <img src="{{ site.baseurl }}/_img/icon-instagram.png" alt="instagram"></a>
+                <a href="https://ello.co/magnifiedjoy" class="ello" target="_blank">
+                    <img src="{{ site.baseurl }}/_img/icon-ello.png" alt="ello"></a>
+                <a href="#" class="google" target="_blank">
+                    <img src="{{ site.baseurl }}/_img/icon-google.png" alt="google"></a>
             </div>
         </div>
     </div>
 
       {% include footer.html %}
-
+      <script type="text/javascript" src="{{ site.baseurl}}/_js/lib/instafeed.min.js"></script>
+      <script type="text/javascript" src="{{ site.baseurl}}/_js/instagram.js"></script>
   </body>
 
 </html>
