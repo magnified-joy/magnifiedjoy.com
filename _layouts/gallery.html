@@ -18,16 +18,17 @@ layout: default
             {{ content }}
             
             {% for post in posts %}
-
-                <div class="col-xs-6 col-md-4">
-                <a href="{{ site.baseurl }}{{ post.url }}" class="thumbnail">
-                    <img src="{{ post.thumbnail }}" alt="{{ post.title }}">
-                    <div class="caption">
-                        View more of <br><strong>Alli + Davis</strong>
+                {% if post.category == "home" %}
+                {% else %}
+                    <div class="col-xs-6 col-md-4">
+                    <a href="{{ site.baseurl }}{{ post.url }}" class="thumbnail">
+                        <img src="{{ post.thumbnail }}" alt="{{ post.title }}">
+                        <div class="caption">
+                            View more of <br><strong>Alli + Davis</strong>
+                        </div>
+                    </a>
                     </div>
-                </a>
-                </div>
-
+                {% endif %}
             {% endfor %}
         
       </div>
