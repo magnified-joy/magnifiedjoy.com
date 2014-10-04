@@ -35,7 +35,22 @@
  background-size:cover;
  background-position:center;
 }
-
+.carousel-control.left,.carousel-control.right{
+    opacity:1.0;
+    background-image:none;
+}
+.carousel-control img{
+    position: absolute;
+    top: 50%;
+    width: 20px;
+    margin-top: -10px;
+}
+.carousel-control.left img{
+    left: 60px;
+}
+.carousel-control.right img{
+    right: 60px;
+}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
