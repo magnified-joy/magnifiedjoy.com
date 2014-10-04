@@ -28,7 +28,7 @@
       </div>
       <a class="left carousel-control" href="#homeCarousel" role="button" data-slide="prev"><img src="{{ site.baseurl }}/_img/arrow-left.png" alt=""></a>
       <a class="right carousel-control" href="#homeCarousel" role="button" data-slide="next"><img src="{{ site.baseurl }}/_img/arrow-right.png" alt=""></a>
-    </div><!-- /.carousel -->
+    </div>
     
     <div class="bottom container">
         <hr>
@@ -44,17 +44,28 @@
             <p><h4><a href="mailto:info@magnifiedjoy.com">info@magnifiedjoy.com</a><br>262.844.7374</h4></p>
         </div>
         <div class="contact col-md-3">
-            <h3>Subscribe to our monthly newsletter</h3>
-            <h3>Find us on social media</h3>
-            <div id="social">
-                <a href="https://www.facebook.com/magnifiedjoy" class="facebook" target="_blank">
-                    <img src="{{ site.baseurl }}/_img/icon-facebook.png" alt="facebook"></a>
-                <a href="http://instagram.com/magnifiedjoy" class="instagram" target="_blank">
-                    <img src="{{ site.baseurl }}/_img/icon-instagram.png" alt="instagram"></a>
-                <a href="https://ello.co/magnifiedjoy" class="ello" target="_blank">
-                    <img src="{{ site.baseurl }}/_img/icon-ello.png" alt="ello"></a>
-                <a href="#" class="google" target="_blank">
-                    <img src="{{ site.baseurl }}/_img/icon-google.png" alt="google"></a>
+            <div class="col-md-12">
+                <h3>Subscribe to our monthly newsletter</h3>
+                <form action="http://getsimpleform.com/messages?form_api_token=cf3b9534b134493cb0f553aa77486513" method="post" role="form">
+                    <input type='hidden' name='redirect_to' value='{{ site.url }}/contact/thanks' class="hidden" />
+                    <div class="form-group">
+                        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Your Email Address">
+                        <br><input type="submit" class="btn btn-default" value="Subscribe"/>
+                    </div>
+                </form>
+            </div>
+            <div class="col-md-12">
+                <h3>Find us on social media</h3>
+                <div id="social">
+                    <a href="https://www.facebook.com/magnifiedjoy" class="facebook" target="_blank">
+                        <img src="{{ site.baseurl }}/_img/icon-facebook.png" alt="facebook"></a>
+                    <a href="http://instagram.com/magnifiedjoy" class="instagram" target="_blank">
+                        <img src="{{ site.baseurl }}/_img/icon-instagram.png" alt="instagram"></a>
+                    <a href="https://ello.co/magnifiedjoy" class="ello" target="_blank">
+                        <img src="{{ site.baseurl }}/_img/icon-ello.png" alt="ello"></a>
+                    <a href="#" class="google" target="_blank">
+                        <img src="{{ site.baseurl }}/_img/icon-google.png" alt="google"></a>
+                </div>
             </div>
         </div>
     </div>

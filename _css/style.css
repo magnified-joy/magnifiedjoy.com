@@ -173,6 +173,9 @@ strong{
     text-transform: uppercase;
     line-height:1.5em;
 }
+.bottom h3{
+    line-height: 1.1em;
+}
 .instagram .feed{
     width:100%;
     position:relative;
@@ -187,15 +190,19 @@ strong{
 .instagram .feed a:hover img{
     opacity:0.5;
 }
-.bottom a.btn{
+.bottom .btn{
     border-width:1px;
     border-color:#c3c4c6;
     font-size:0.8em;
     padding:0.33 1em;
 }
-.bottom a.btn:hover{
+.bottom .btn:hover{
     background-color:#c3c4c6;
     color:#fff;
+}
+.bottom .form-group .btn{
+    padding: 0.5em 1em;
+    margin: -15px auto 0px auto;
 }
 .bottom h4{
     font-size:0.75em;
