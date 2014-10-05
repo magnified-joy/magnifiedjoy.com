@@ -33,7 +33,7 @@ $(function() {
     md += "description: "+$('#description').val()+"\n";
     md += "keywords: "+$('#keywords').val()+"\n";
     md += "---\n";
-    md += $('#content').val();
+    md += $('#content').val()+"\n";
     for(var i = 0; i < files.length; i++){
         md += "\n!["+files[i].replace(/\-/g,' ').replace(/\.jpg/gi,'').replace(/\.png/gi,'').replace(/\.jpeg/gi,'')+"]("+f+files[i]+")\n";
     }
