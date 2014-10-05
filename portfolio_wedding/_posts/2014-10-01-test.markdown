@@ -1,4 +1,0 @@
----
-title: Lorem ipsum et dolor
-image: "https://googledrive.com/host/0B-rUPb5gojEtYVVZQ0FULUtiV0U/weddings.jpg"
----
