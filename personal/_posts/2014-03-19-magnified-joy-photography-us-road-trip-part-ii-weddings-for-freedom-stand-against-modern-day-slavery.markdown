@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Magnified Joy Photography US Road Trip Part II - Weddings For Freedom - Stand
   Against Modern Day Slavery
 date: '2014-03-19 15:19:57 -0500'

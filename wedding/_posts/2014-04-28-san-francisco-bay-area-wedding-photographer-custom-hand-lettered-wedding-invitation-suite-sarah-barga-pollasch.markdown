@@ -1,5 +1,4 @@
 ---
-layout: post
 title: San Francisco, Bay Area Wedding Photographer | Custom Hand Lettered Wedding
   Invitation Suite | Sarah Barga Pollasch
 date: '2014-04-28 18:22:46 -0500'

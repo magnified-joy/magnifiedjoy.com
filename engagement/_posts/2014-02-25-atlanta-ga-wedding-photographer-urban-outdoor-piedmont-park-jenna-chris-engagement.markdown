@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Atlanta, GA Wedding Photographer | Urban Outdoor Piedmont Park | Jenna + Chris
   Engagement
+label: Jenna + Chris
 date: '2014-02-25 05:45:25 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/02/2-9-14-Jenna-Chris-Engagement-012-480x375.jpg
 ---

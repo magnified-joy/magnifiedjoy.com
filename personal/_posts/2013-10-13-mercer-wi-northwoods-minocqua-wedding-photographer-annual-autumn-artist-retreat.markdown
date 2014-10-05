@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Mercer, WI | Northwoods Minocqua Wedding Photographer | Annual Autumn Artists''
   Retreat '
 date: '2013-10-13 15:17:47 -0500'

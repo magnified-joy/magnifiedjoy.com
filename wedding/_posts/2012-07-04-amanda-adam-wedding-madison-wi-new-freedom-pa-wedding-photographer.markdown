@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Amanda + Adam Wedding | Madison, WI | New Freedom, PA Wedding Photographer
+label: Amanda + Adam
 date: '2012-07-04 18:46:56 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/01/2013-01-23_0026-480x375.jpg
 ---

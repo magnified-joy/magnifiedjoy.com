@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Malibu, CA Wedding Photographer | El Matador State Beach Sunset Love Shoot
   | Jessica + Tobias
+label: Jessica + Tobias
 date: '2014-03-26 00:09:34 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/2-22-14-Jessica-Tobias-Portrait-030-cropped-480x375.jpg
 ---

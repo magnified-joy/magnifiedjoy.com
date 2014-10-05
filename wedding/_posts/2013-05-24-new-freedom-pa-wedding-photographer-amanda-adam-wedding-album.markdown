@@ -1,6 +1,6 @@
 ---
-layout: post
 title: New Freedom, PA Wedding Photographer | Amanda + Adam | Wedding Album
+label: Amanda + Adam
 date: '2013-05-24 13:21:26 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/05/Amanda-Adam-Showreel2-480x375.jpg
 ---

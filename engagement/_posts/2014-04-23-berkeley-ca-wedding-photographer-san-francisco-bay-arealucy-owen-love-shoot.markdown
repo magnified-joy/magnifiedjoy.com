@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Berkeley, CA  Wedding Photographer San Francisco Bay Area|Lucy + Owen | Love
   Shoot
+label: Lucy + Owen
 date: '2014-04-23 01:43:44 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/04/4-10-14-Lucy-Owen-Portrait-036a-480x375.jpg
 ---

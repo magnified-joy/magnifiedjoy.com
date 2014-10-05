@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Madison, WI UW Campus Capitol Wedding Photographer | Jin + Josh Pre Wedding
   Shoot
+label: Jin + Josh
 date: '2014-06-26 02:47:06 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/06/Jin-Josh-Feature-480x375.jpg
 ---

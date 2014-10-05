@@ -1,7 +1,7 @@
 ---
-layout: post
 title: ' Pleasanton, CA San Francisco Bay Area Wedding Photographer | Vintage Spring
   Wedding | Emily + Chris Styled Shoot'
+label: Emily + Chris
 date: '2014-03-30 00:45:34 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Emily-Chris-Feature-480x375.jpg
 ---

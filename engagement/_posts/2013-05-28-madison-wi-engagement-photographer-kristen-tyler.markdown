@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Madison, WI Engagement Photographer | Kristen + Tyler
+label: Kristen + Tyler
 date: '2013-05-28 14:42:28 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/05/2013-05-28_0018-480x375.jpg
 ---

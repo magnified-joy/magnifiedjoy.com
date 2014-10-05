@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Stillwater, MN Wedding Photographer | Camrose Hill Flower Farm | Andrea + Peter
   Client Testimonial
+label: Andrea + Peter
 date: '2014-01-03 02:12:19 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/why-we-love-our-wedding-photographers5-480x375.jpg
 ---

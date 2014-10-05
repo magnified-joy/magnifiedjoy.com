@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Madison, WI Wedding Photographer | Pheasant Branch Outdoor Engagement Pre-Wedding
   Shoot | Pakou + Matt
+label: Pakou + Matt
 date: '2014-06-04 18:39:37 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/06/Pakou-Matt-Engagement-Feature-480x375.jpg
 ---

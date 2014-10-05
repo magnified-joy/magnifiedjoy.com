@@ -1,7 +1,7 @@
 ---
-layout: post
 title: 'Milwaukee, WI Wedding Photographer | Historic Pabst Brewery | Emily + Nick
   Engagement '
+label: Emily + Nick
 date: '2014-02-18 19:59:09 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/02/emily-nick-feature-480x375.jpg
 ---

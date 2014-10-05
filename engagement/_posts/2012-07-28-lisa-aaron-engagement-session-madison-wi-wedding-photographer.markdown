@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Lisa + Aaron Engagement Session | Madison, WI Wedding Photographer
+label: Lisa + Aaron
 date: '2012-07-28 03:27:54 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2012/07/Madison-Engagement-Villas-Edgewood-Ferris-Wheel-Lisa-Aaron-191-480x375.jpg
 ---

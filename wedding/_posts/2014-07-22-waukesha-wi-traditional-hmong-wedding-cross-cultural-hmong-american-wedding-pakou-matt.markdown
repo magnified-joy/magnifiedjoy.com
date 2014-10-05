@@ -1,5 +1,6 @@
 ---
 title: Waukesha, WI Traditional Hmong Wedding | Cross Cultural | Hmong American Wedding | Pakou + Matt
+label: Pakou + Matt
 thumbnail: https://googledrive.com/host/0B-rUPb5gojEtZmZybWt6VHY1ZVU/Traditional-Hmong-American-Wedding-Feature.jpg
 ---
 We were thrilled to take up the challenge of photographing Pakou + Matt's cross-cultural Hmong wedding affair. Taking place at Pakou's parents home, the day was filled with very traditional Hmong elements--beautiful Hmong clothes made by mom, traditional Hmong jewelry and headpieces, colorful ribbons to display their "stripped" clan, a blanket, patterned ribbon and umbrella, and a woven basket filled with specially prepared whole chickens, each with a special meaning and purpose in the Hmong wedding negotiation and celebration.

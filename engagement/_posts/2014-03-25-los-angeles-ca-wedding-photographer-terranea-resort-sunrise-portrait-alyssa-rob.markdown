@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Los Angeles, CA Wedding Photographer | Terranea Resort Sunrise Anniversary
   Portrait | Alyssa + Rob
+label: Alyssa + Rob
 date: '2014-03-25 04:32:13 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Alyssa-Rob-Feature-480x375.jpg
 ---

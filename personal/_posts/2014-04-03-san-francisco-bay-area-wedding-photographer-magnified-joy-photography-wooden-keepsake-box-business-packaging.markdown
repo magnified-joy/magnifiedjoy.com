@@ -1,5 +1,4 @@
 ---
-layout: post
 title: San Francisco Bay Area Wedding Photographer | Magnified Joy Photography Wooden
   Keepsake Box | Business Packaging
 date: '2014-04-03 19:05:01 -0500'

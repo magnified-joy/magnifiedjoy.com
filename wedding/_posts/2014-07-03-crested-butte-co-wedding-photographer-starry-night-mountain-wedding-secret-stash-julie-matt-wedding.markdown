@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Crested Butte, CO Wedding Photographer | Starry Night Mountain Wedding | Secret
   Stash | Julie Matt Wedding
 date: '2014-07-03 16:19:08 -0500'

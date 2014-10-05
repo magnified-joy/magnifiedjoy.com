@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Belfast, United Kingdom | Madison, WI USA | European Lifestyle Engagement |
   Sunrise Engagement Shoot | Catherine + Joshua
+label: Catherine + Joshua
 date: '2014-01-10 01:57:38 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/cath-josh-feature-480x375.jpg
 ---

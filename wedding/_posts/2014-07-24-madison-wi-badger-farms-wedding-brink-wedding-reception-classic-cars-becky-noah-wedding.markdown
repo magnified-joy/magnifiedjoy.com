@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Madison, WI | Badger Farms Wedding | Brink Wedding Reception | Classic Cars
   | Becky + Noah Wedding
+label: Becky + Noah
 date: '2014-07-24 23:19:56 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/07/Badger-Farms-Brink-Wedding-Becky-Noah-Feature-480x375.jpg
 ---

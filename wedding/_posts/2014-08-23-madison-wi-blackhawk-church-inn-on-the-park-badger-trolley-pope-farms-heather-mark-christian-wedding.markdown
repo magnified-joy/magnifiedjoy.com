@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Madison, WI | Blackhawk Church | Inn on the Park | Badger Trolley | Pope Farms
   | Heather + Mark Christian Wedding
+label: Heather + Mark
 date: '2014-08-23 16:01:40 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/08/Heather-Mark-Blog-Feature-480x375.jpg
 ---

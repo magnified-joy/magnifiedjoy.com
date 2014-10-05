@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Faye's Frames | Local Madison, WI Artisan Custom Frame Shop | Wisconsin Wedding
   Photographer
 date: '2014-01-09 01:03:51 -0600'

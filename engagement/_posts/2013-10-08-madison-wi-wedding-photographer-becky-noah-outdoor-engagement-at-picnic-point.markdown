@@ -1,7 +1,7 @@
 ---
-layout: post
 title: 'Madison, WI Wedding Photographer | Becky + Noah Outdoor Engagement at Picnic
   Point '
+label: Becky + Noah
 date: '2013-10-08 02:00:31 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/10/9-27-13-Becky-Noah-Engagement-Web-41-480x375.jpg
 ---

@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Austin, TX Wedding Photographer | Mount Bonnell Outdoors Sunrise Woods Overlook
   Engagement | Hannah + Glen
+label: Hannah + Glen
 date: '2014-03-17 22:08:08 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/hannah-glen-feature1-480x375.jpg
 ---

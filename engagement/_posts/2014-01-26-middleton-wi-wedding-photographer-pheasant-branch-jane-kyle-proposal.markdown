@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Middleton, WI Wedding Photographer | Pheasant Branch | Jane + Kyle Proposal
+label: Jane + Kyle
 date: '2014-01-26 15:42:08 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/1-16-14-Jane-Kyle-Proposal-Engagement-HR-feature-480x375.jpg
 ---

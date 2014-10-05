@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Madison, WI Wedding Photographer | Snowy Engagement Shoot | Memorial Union
   | Lake Shore Path | Heather + Mark Engagement Part II
+label: Heather + Mark
 date: '2013-12-16 05:21:01 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/12/Heather-Mark-Icon-480x375.jpg
 ---

@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Indianapolis, IN Wedding Photographer | Broad Ripple | Urban | Ashley + Grant
   Anniversary
+label: Ashley + Grant
 date: '2014-02-18 21:18:05 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/02/2-4-14-Ashley-Grant-Portrait-WEB-023-480x375.jpg
 ---

@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Sara + Jake's Engagement Session | Madison, WI Wedding Photographer
+label: Sara + Jake
 date: '2013-01-23 14:13:11 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/01/2013-01-23_0011-480x375.jpg
 ---

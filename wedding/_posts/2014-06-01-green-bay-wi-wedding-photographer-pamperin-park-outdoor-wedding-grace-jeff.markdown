@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Green Bay, WI Wedding Photographer | Pamperin Park Outdoor Wedding | Grace
   + Jeff
+label: Grace + Jeff
 date: '2014-06-01 04:12:45 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/06/Grace-Jeff-Wedding-Feature-2-480x375.jpg
 ---

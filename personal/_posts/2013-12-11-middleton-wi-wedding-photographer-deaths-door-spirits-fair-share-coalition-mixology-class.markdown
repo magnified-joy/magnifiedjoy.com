@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Middleton, WI Wedding Photographer |Death''s Door Spirits | Fair Share Coalition
   | Mixology Class '
 date: '2013-12-11 21:33:18 -0600'

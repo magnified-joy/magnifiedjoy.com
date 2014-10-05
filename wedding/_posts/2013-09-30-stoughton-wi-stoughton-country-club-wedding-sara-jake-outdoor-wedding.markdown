@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Stoughton, WI | Stoughton Country Club Wedding | Sara + Jake Outdoor Wedding
+label: Sara + Jake
 date: '2013-09-30 15:47:07 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/10/Feature-480x375.jpg
 ---

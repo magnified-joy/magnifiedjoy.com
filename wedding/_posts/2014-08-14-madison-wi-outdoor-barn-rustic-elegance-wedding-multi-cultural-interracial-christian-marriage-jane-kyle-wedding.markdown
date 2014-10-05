@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Madison, WI | Outdoor Barn Rustic Elegance Wedding Multi-Cultural Interracial
   Christian Marriage| Jane + Kyle Wedding
+label: Jane + Kyle
 date: '2014-08-14 21:51:46 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/08/Jane-Kyle-Wedding-Feature-Image-480x375.jpg
 ---

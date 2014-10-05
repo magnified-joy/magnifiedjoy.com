@@ -1,7 +1,7 @@
 ---
-layout: post
 title: San Francisco, CA Wedding Photographer | Golden Gate Bridge Baker Beach Engagement
   | Olivia + Alex
+label: Olivia + Alex
 date: '2014-03-26 05:06:47 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Olivia-Alex-Feature1-480x375.jpg
 ---

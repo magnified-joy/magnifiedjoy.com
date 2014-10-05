@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Hong Kong | International Engagement Photographer | Tiffany + Tom
+label: Tiffany + Tom
 date: '2013-11-24 21:44:33 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/11/cover-480x375.jpg
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Great Wall of China | Beijing Adventures | China Trip Part 1 of 4 | SF Bay
   Area Wedding Photographers
 date: '2014-04-30 01:03:07 -0500'

@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Madison, WI Wedding Photographer | Jane + Kyle Lifestyle Engagement Shoot
+label: Jane + Kyle
 date: '2014-01-26 16:26:03 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/1-16-14-Jane-Kyle-Proposal-Engagement-WEB-104-480x375.jpg
 ---

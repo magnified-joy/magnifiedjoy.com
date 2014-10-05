@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Hong Kong, China | International Wedding Photographer | Tiffany + Tom Wedding
+label: Tiffany + Tom
 date: '2013-11-25 21:43:58 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/11/tiffany-tom-wedding-cover-2-480x375.jpg
 ---

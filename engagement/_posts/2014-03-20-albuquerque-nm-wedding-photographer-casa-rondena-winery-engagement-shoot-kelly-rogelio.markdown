@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Albuquerque, NM Wedding Photographer | Casa Rondeña Winery Engagement Shoot
   | Kelly + Rogelio
+label: Kelly + Rogelio
 date: '2014-03-20 05:39:27 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/2-16-14-Kelly-Rogelio-Engagement-056-480x375.jpg
 ---

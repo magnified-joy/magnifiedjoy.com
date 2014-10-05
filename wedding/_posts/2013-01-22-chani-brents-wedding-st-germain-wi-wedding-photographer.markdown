@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Chani + Brent's Wedding | St. Germain, WI Wedding Photographer
+label: Chani + Brent
 date: '2013-01-22 22:50:54 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/01/2013-01-22_0026-480x375.jpg
 ---

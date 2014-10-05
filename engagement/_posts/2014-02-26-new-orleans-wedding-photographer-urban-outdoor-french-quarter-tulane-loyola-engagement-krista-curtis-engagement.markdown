@@ -1,7 +1,7 @@
 ---
-layout: post
 title: New Orleans Wedding Photographer | Urban Outdoor French Quarter Tulane Loyola
   Engagement | Krista + Curtis Engagement
+label: Krista + Curtis
 date: '2014-02-26 23:02:52 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/02/Krista-Curtis-feature-480x375.jpg
 ---

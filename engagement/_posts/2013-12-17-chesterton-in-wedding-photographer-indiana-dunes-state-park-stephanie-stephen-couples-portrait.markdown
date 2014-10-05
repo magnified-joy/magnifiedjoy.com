@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Chesterton, IN Wedding Photographer | Indiana Dunes State Park | Stephanie
   + Stephen Couple's Portrait
+label: Stephanie + Stephen
 date: '2013-12-17 02:46:52 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/12/SS-Blog-003-480x375.jpg
 ---

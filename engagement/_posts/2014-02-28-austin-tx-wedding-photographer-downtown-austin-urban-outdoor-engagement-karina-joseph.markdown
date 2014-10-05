@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Austin, TX Wedding Photographer | Downtown Austin Urban Outdoor Engagement
   | Karina + Joseph
+label: Karina + Joseph
 date: '2014-02-28 00:22:03 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/02/2014-02-27_0028-480x375.jpg
 ---

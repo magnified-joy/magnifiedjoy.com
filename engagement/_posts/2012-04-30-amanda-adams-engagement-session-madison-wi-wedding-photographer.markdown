@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Amanda + Adam's Engagement Session | Madison, WI Wedding Photographer
+label: Amanda + Adam
 date: '2012-04-30 16:50:25 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2012/04/2012-12-30_0001-480x375.jpg
 ---

@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Madison, WI Wedding Photographer | Outdoor Snowy Woods Engagement Shoot | Snowball
   Fight | Grace + Jeff Engagement Part I
+label: Grace + Jeff
 date: '2013-12-29 21:33:47 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/12/12-15-13-Grace-Jeff-Engagement-Part1-Cover-480x375.jpg
 ---

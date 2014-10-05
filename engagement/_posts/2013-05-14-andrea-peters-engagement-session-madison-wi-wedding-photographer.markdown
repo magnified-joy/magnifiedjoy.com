@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Andrea + Peter’s Engagement Session | Madison, WI Wedding Photographer
+label: Andrea + Peter
 date: '2013-05-14 21:03:12 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/05/5-4-13-Andrea-and-Peter-Engagement-Color-92-480x375.jpg
 ---

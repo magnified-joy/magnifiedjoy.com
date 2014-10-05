@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Travel - Los Ranchos de Albuquerque, NM - Los Poblanos Ranch - Historic Inn
   & Cultural Center
 date: '2013-03-19 19:39:01 -0500'

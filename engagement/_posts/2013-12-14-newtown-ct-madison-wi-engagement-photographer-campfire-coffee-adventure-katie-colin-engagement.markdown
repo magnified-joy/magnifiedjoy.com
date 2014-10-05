@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Newtown, CT | Madison, WI Engagement Photographer | Campfire Coffee Adventure
   | Katie + Colin Engagement
+label: Katie + Colin
 date: '2013-12-14 16:35:57 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/12/Katie-Colin-Feature-480x375.jpg
 ---

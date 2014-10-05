@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Bread + Wine Dance Performance Blackhawk Church
 date: '2014-01-13 05:17:07 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/bread-and-wine-feature1-480x375.jpg

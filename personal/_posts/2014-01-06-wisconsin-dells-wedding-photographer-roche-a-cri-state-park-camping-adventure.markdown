@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Wisconsin Dells Wedding Photographer, Roche-A-Cri State Park Camping Adventure
 date: '2014-01-06 18:54:38 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/Roche-A-Cri-State-Park-Feature1-480x375.jpg

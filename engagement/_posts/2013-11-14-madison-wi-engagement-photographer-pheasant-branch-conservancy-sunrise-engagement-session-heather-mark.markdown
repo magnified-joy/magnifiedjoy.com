@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Madison, WI Engagement Photographer | Pheasant Branch Conservancy | Sunrise
   Engagement Session | Heather + Mark
+label: Heather + Mark
 date: '2013-11-14 01:56:40 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/11/10-28-13-Heather-Mark-Engagement-015-480x375.jpg
 ---

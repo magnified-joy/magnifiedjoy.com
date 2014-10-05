@@ -1,7 +1,7 @@
 ---
-layout: post
 title: San Francisco Bay Area Livermore Alameda Wedding Photographer | Garre Vineyard
   Winery Martinelle Center | Liz + Mike Wedding
+label: Liz + Mike
 date: '2014-04-28 21:48:23 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/04/4-26-14-Liz-Mike-Wedding-128-480x375.jpg
 ---

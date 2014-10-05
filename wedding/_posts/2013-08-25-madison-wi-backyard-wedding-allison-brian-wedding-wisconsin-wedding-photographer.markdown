@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Madison, WI | Backyard Wedding | Allison + Brian Wedding | Wisconsin Wedding
   Photographer
+label: Allison + Brian
 date: '2013-08-25 14:31:42 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/08/8-3-13-Allison-Brian-Wedding-Color-Web-369-480x375.jpg
 ---

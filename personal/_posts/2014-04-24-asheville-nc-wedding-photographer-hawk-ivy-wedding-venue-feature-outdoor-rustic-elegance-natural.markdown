@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Asheville, NC Wedding Photographer | Hawk + Ivy Wedding Venue Feature | Outdoor
   Rustic Elegance Natural
 date: '2014-04-24 22:50:08 -0500'

@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Crested Butte, CO Wedding Photographer | Outdoor Hipster Snowy Starry Night
   Time Engagement Shoot | Julie + Matt
+label: Julie + Matt
 date: '2014-02-14 16:44:18 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/02/1-26-14-Julie-Matt-Engagement-HR-059-480x375.jpg
 ---

@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Milwaukee, WI Pritzlaff Events Historic Classy Wedding Photographer | Kristen
   + Andy
+label: Kristen + Andy
 date: '2014-08-27 17:06:26 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/08/KA-Wedding-Feature-480x375.jpg
 ---

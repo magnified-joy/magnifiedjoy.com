@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Albuquerque, NM Wedding Photographer | New Mexico Landscape Desert Harbor Retreat
   | Allison + Joe
+label: Allison + Joe
 date: '2014-03-20 06:24:24 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Allison-Joe-Feature-480x375.jpg
 ---

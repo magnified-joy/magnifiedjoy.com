@@ -1,7 +1,7 @@
 ---
-layout: post
 title: San Francisco, CA Wedding Photographer | Palace of Fine Arts | Crissy Field
   | Melissa + Artur Engagement
+label: Melissa + Artur
 date: '2014-03-26 22:19:37 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Artur-Melissa-Feature1-480x375.jpg
 ---

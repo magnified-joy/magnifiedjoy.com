@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Camrose Hill Flower Farm Wedding | Stillwater, MN | Andrea + Peter Wedding
   | Midwest Wedding Photographers
+label: Andrea + Peter
 date: '2013-07-30 00:02:56 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/07/7-5-13-Andrea-and-Peter-Wedding-Color-Web-177-480x375.jpg
 ---

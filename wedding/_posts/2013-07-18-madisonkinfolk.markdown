@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Madison Kinfolk Foodie Wedding Gathering
 date: '2013-07-18 03:31:31 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/07/6-30-13-June-Blog-76a-480x375.jpg

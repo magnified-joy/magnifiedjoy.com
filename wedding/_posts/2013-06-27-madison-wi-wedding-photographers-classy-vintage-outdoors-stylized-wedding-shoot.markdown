@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Madison, WI Wedding Photographers | Classy Vintage Outdoors Stylized Wedding
   Shoot
 date: '2013-06-27 03:06:16 -0500'

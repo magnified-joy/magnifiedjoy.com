@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Snowy Indian Fusion Stylized Photo Shoot | Madison, WI Wedding Photographer
 date: '2014-01-21 01:16:23 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/Frankie-Daniel081-480x375.jpg

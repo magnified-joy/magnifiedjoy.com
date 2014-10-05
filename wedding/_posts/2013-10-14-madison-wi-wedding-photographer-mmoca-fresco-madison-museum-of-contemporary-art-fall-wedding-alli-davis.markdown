@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Madison, WI Wedding Photographer | MMoCA | Fresco | Madison Museum of Contemporary
   Art Fall Wedding | Alli + Davis
+label: Alli + Davis
 date: '2013-10-14 13:35:12 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/10/alli-feature-480x375.jpg
 ---

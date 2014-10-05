@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Pleasanton, CA San Francisco Bay Area Wedding Photographer | Vintage Spring
   Wedding Styled Shoot | Miss Alex
 date: '2014-03-30 05:17:05 -0500'

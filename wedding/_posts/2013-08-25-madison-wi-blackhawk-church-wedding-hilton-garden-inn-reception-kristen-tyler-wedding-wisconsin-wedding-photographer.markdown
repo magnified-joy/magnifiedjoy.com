@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Madison, WI | Blackhawk Church Wedding | Hilton Garden Inn Reception | Kristen
   + Tyler Wedding | Wisconsin Wedding Photographer
+label: Kristen + Tyler
 date: '2013-08-25 00:51:51 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/08/8-10-13-Kristen-Tyler-Wedding-Color-WEB-162-480x375.jpg
 ---

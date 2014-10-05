@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Flagstaff, AZ Wedding Photographer | Buffalo Park Outdoor Windy Sunset Engagement
   Shoot | Hannah + Ethan
+label: Hannah + Ethan
 date: '2014-03-20 23:51:58 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Hannah-Ethan-Feature-480x375.jpg
 ---

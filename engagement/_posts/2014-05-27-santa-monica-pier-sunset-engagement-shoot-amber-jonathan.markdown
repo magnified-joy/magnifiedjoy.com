@@ -1,7 +1,7 @@
 ---
-layout: post
 title: San Francisco Bay Area Wedding Photographer | Santa Monica Pier Sunset Engagement
   Shoot | Amber + Jonathan
+label: Amber + Jonathan
 date: '2014-05-27 16:05:02 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/05/Amber-Jonathan-Feature1-480x375.jpg
 ---

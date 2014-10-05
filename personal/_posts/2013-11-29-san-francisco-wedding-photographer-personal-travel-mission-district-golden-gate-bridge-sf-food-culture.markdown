@@ -1,5 +1,4 @@
 ---
-layout: post
 title: San Francisco Wedding Photographer | Personal Travel | Mission District | Golden
   Gate Bridge | SF Food Culture
 date: '2013-11-29 03:22:30 -0600'

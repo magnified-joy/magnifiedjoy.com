@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Santa Fe, Albuquerque, NM Wedding Photographer | Desert Harbor | Premiere Honeymoon
   Elopement Destination Wedding Venue
 date: '2014-04-23 05:14:08 -0500'

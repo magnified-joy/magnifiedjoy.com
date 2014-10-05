@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Madison, WI Wedding Photographer | Booyah | A Taste of Green Bay Culture in
   Madison | Chicken Stew
 date: '2013-10-13 15:27:51 -0500'
