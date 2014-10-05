@@ -134,7 +134,12 @@ p{
     font-size:1.1em;
     margin:1.25em 0;
 }
-
+.content ul, .content ol{
+    font-size:1em;
+}
+.content li{
+    margin:1em 0;
+}
 .btn{
     border-radius:0;
     border:1px solid #fff;
