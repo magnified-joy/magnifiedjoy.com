@@ -4,6 +4,14 @@ title: Madison, WI Wedding Photographer | Outdoor Snowy Woods Engagement Shoot |
 label: Grace + Jeff
 date: '2013-12-29 21:33:47 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/12/12-15-13-Grace-Jeff-Engagement-Part1-Cover-480x375.jpg
+description: 'Grace + Jeff are one of the most bubbly and joyful couples we know.
+  When you are in their presence, their smiles and laughter are contagious and their
+  genuine care to build friendships is evident. Their dating relationship is quite
+  the same. Constantly smiling, laughing, learning, and playing, Grace + Jeff''s love
+  for each other is fresh and childlike. '
+keywords: 'snow, snowy, madison, wisconsin, winter, engagement, woods, snowball, fight,
+  cold, midwest, colorado, grace, jeff, lifestyle, editorial, fun, organic, photoshoot,
+  outdoor, adventurous, thrill, seekers, northwoods, lumberjack '
 ---
 <p>Grace + Jeff are one of the most bubbly and joyful couples we know. When you are in their presence, their smiles and laughter are contagious and their genuine care to build friendships is evident. Their dating relationship is quite the same. Constantly smiling, laughing, learning, and playing, Grace + Jeff's love for each other is fresh and childlike. </p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/12/2013-12-29_0003.jpg" alt="2013-12-29_0003" width="1500" height="1068" class="alignnone size-full wp-image-4216" /></p>

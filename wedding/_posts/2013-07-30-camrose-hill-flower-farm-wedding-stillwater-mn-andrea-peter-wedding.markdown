@@ -4,6 +4,11 @@ title: Camrose Hill Flower Farm Wedding | Stillwater, MN | Andrea + Peter Weddin
 label: Andrea + Peter
 date: '2013-07-30 00:02:56 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/07/7-5-13-Andrea-and-Peter-Wedding-Color-Web-177-480x375.jpg
+description: 'Perfect summer wedding venue at Camrose Hill Flower Farm. Andrea + Peter''s
+  wedding in Stillwater, MN. Lawn games, homemade sangria, sparklers. '
+keywords: 'lawn, games, wedding, homemade, sangria, camrose, hill, flower, farm, andrea,
+  peter, debbink, bahe, sparklers, sendoff, send off, creative, sparkler, photos,
+  july wedding, july 4th wedding, stillwater, minnesota, minneapolis '
 ---
 <p>Andrea's gift of event planning and attention to details is obvious not only in her day to day work, but was clearly evident in her own event planning. She made us both grin when she came to our original consultation meeting with a complete binder full of the big-picture vision of her wedding and details to fill it out--color swaths of coral, grey, and gold glitter, pictures of dresses and accessories, a map of the venue, and a detailed timeline of fun events to provide a memorable evening for their guests.</p>
 <p><a href="http://www.camrosehillflowers.com/farm.html">Camrose Hill Flower Farm</a> proved to be the perfect venue to showcase both of their personalities. The well-maintained green space and flower gardens, the rustic yet functionally beautiful barn, the flower-shack-turned brides' room, the yards to play lawn games, and the firepit to host s'mores were just a few of the many elements that captured their love of the outdoors, their fun adventurous personalities, and their classy touch. </p>

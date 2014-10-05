@@ -3,6 +3,13 @@ title: Hong Kong, China | International Wedding Photographer | Tiffany + Tom Wed
 label: Tiffany + Tom
 date: '2013-11-25 21:43:58 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/11/tiffany-tom-wedding-cover-2-480x375.jpg
+description: 'A wedding not in English you say? Yes! Just Chinese and French. This
+  uniquely represents our first international wedding. Tom''s Chinese relatives and
+  Tiffany''s French relatives exchanged very few words with each other during their
+  wedding day, but exchanged abundant hospitality, blessings, and smiles--the international
+  language indeed! '
+keywords: chinese, wedding, qipao, french, asian, international, wedding, photographer,
+  hong kong, food, city
 ---
 <p>A wedding not in English you say? Yes! Just Chinese and French. This uniquely represents our first international wedding. Tom's Chinese relatives and Tiffany's French relatives exchanged very few words with each other during their wedding day, but exchanged abundant hospitality, blessings, and smiles--the international language indeed! (En Tao and I both speak Mandarin so we were able to help make things run smoothly.)<br />
 Tiffany and Tom looked stunning. Tiffany wore a traditional white gown for the ceremony and changed into the Chinese qipao for the reception. But more than just their stunning wedding attire and hair-do's, Tiffany and Tom radiated with joy, as they were so happy to be united together in the presence of their network of international family, friends, and mentors from all over Asia, America, and France. It was truly a joy to have celebrated with our dear friends, Tiffany and Tom, as well as have had the privilege to go to Hong Kong to document their special day.</p>

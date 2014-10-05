@@ -4,6 +4,13 @@ title: Malibu, CA Wedding Photographer | El Matador State Beach Sunset Love Shoo
 label: Jessica + Tobias
 date: '2014-03-26 00:09:34 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/2-22-14-Jessica-Tobias-Portrait-030-cropped-480x375.jpg
+description: Lifestyle love shoot in Malibu, CA at El Matador State Beach during sunset.
+  Jessica wore her beach dress and played and danced in the water. The perfect location
+  for an engagement shoot.
+keywords: 'west coast, pacific coast, pacific northwest, north west, northern, southern,
+  california, norcal, socal, Malibu, CA, Los Angeles, Santa Barbara, Long Beach, Santa
+  Monica, Engagement, Wedding, El Matador, State Beach, California, Sunset, Lifestyle,
+  Warm waters, Dancing, trash the dress, kissing, cool rocks, '
 ---
 <p>We had a wonderful time photographing Jessica + Tobias in Malibu, CA at the beautiful El Matador State Beach. They were totally in their element; soaking in the sun, dancing on the beach, and playing in the  tides! We like to think that the moment our clients forget there are cameras photographing them is the moment when we know we are doing our job well! We love taking a lifestyle approach when we photograph! </p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/2014-03-25_0001.jpg" alt="2014-03-25_0001" width="1500" height="1068" class="alignnone size-full wp-image-4919" /></p>

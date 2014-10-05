@@ -4,6 +4,10 @@ title: Madison, WI | Backyard Wedding | Allison + Brian Wedding | Wisconsin Wedd
 label: Allison + Brian
 date: '2013-08-25 14:31:42 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/08/8-3-13-Allison-Brian-Wedding-Color-Web-369-480x375.jpg
+description: Simple but beautiful backyard wedding. Allison and Brian did a great
+  job planning their backyard wedding.  Everything was very well coordinated. Congratulations
+  on starting this new phase of life together.
+keywords: backyard wedding, madison, wisconsin, wedding, engagement, star, trek, fans
 ---
 <p>Simple but beautiful backyard wedding. Allison and Brian did a great job planning their backyard wedding! Everything was very well coordinated. Congratulations on starting this new phase of life together!</p>
 <p>To view their engagement session, <a href="http://weddings.magnifiedjoy.com/engagements/madison-wi-wedding-photographer-allison-brian-engagement">click here</a>.<br />

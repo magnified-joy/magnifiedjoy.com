@@ -3,6 +3,9 @@ title: Sara + Jake's Engagement Session | Madison, WI Wedding Photographer
 label: Sara + Jake
 date: '2013-01-23 14:13:11 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/01/2013-01-23_0011-480x375.jpg
+description: 'Fun urban Monona Terrace engagement session in Madison, WI during winter.
+  Interracial couple.  '
+keywords: interracial, Madison, WI, urban, monona, tarrace, engagement, winter
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/01/Madison-Wedding-Photographer-Monona-Terrace-Sara-Jake-0001.jpg" alt="Madison Wedding Photographer Monona Terrace Sara Jake 0001" width="1500" height="1066" class="alignnone size-full wp-image-2058" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/01/Madison-Wedding-Photographer-Monona-Terrace-Sara-Jake-0002.jpg" alt="Madison Wedding Photographer Monona Terrace Sara Jake 0002" width="1500" height="1066" class="alignnone size-full wp-image-2059" /></p>

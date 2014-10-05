@@ -4,6 +4,15 @@ title: Madison, WI Wedding Photographers | Classy Vintage Outdoors Stylized Wedd
 label: Junice + Nathan
 date: '2013-06-27 03:06:16 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/06/2013-06-26_0017-480x375.jpg
+description: We are happy to show off our first-ever stylized wedding photo shoot,
+  themed "Classy Vintage Outdoor" wedding. It was a joy to collaborate with all of
+  our vendors--Brandi's Bridal for the gown and veil, The Flower Shop for the floral
+  arrangements, Be Inspired Salon for hair and makeup, and Hyart Gallery for the rings.
+  Thank you to our fabulous models, Junice and Nathan, who were so much fun to work
+  with! Please like us on <a href="http://www.facebook.com/magnifiedjoy">Facebook</a>
+  to continue to follow our collaborative stylized wedding shoots this summer!
+keywords: classy, vintage, outdoor, madison, wisconsin, wedding, engagement, awesome,
+  boutique, rustic, sunset, unique
 ---
 <p>We are happy to show off our first-ever stylized wedding photo shoot, themed "Classy Vintage Outdoor" wedding. It was a joy to collaborate with all of our vendors--Brandi's Bridal for the gown and veil, The Flower Shop for the floral arrangements, Be Inspired Salon for hair and makeup, and Hyart Gallery for the rings. Thank you to our fabulous models, Junice and Nathan, who were so much fun to work with! Please like us on <a href="http://www.facebook.com/magnifiedjoy">Facebook</a> to continue to follow our collaborative stylized wedding shoots this summer!</p>
 <p>Photography: <a href="http://www.magnifiedjoy.com">Magnified Joy Photography</a><br />

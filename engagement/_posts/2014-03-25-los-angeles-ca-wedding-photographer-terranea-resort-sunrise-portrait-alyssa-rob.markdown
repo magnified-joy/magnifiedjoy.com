@@ -4,6 +4,12 @@ title: Los Angeles, CA Wedding Photographer | Terranea Resort Sunrise Anniversar
 label: Alyssa + Rob
 date: '2014-03-25 04:32:13 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Alyssa-Rob-Feature-480x375.jpg
+description: Morning sun kissed session at Terranea Resort during sunrise. Terranea
+  is a special place for Rob had proposed to Alyssa at there. Waves crashing onto
+  the rocky beach makes a dramatic yet beautiful backdrop.
+keywords: Anniversary, Terranea, Resort, Los Angeles, Rancho Palos Verdes, Malibu,
+  Santa Barbara, Santa Monica, Long Beach, Rocks, Sunrise, Engagement, Wedding, luxury,
+  poolside, Waves, crashing, rocks
 ---
 <p>We woke up early to head to <a href="http://www.terranea.com/">Terranea Resort</a> from Los Angeles in order to catch sunrise. We are thrilled that we did! Terranea Resort is a special place for Alyssa + Rob. At the terrace overlooking the Pacific ocean, is where Rob proposed to Alyssa. Here's to many more anniversaries to come!</p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/2014-03-24_0006.jpg" alt="2014-03-24_0006" width="1500" height="1068" class="alignnone size-full wp-image-4907" /></p>

@@ -4,6 +4,11 @@ title: Madison, WI Engagement Photographer | Pheasant Branch Conservancy | Sunri
 label: Heather + Mark
 date: '2013-11-14 01:56:40 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/11/10-28-13-Heather-Mark-Engagement-015-480x375.jpg
+description: 'I''ve always wanted to do a sunrise session but never had anyone take
+  up my offer until now. We are so glad these two took up our offer and conquered
+  the cold (28°F) Wisconsin fall morning for their sunrise engagement session. '
+keywords: mark, heather, sunrise, engagement, session, madison, wisconsin, wedding,
+  photographer, fall, morning, cold, adventurous
 ---
 <p>It is not very often that we meet people as decisive, spontaneous, and adventurous as Heather and Mark. They were engaged for only a week before they contacted us for their wedding next year. The same day that they contacted us, we scheduled their engagement session for two days later... for sunrise. I've always wanted to do a sunrise session but never had anyone take up my offer. We are so glad these two took up our offer and conquered the cold (28°F) Wisconsin fall morning for their sunrise engagement session. </p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/11/2013-11-13_0001.jpg" alt="2013-11-13_0001" width="1500" height="1066" class="alignnone size-full wp-image-3976" /></p>

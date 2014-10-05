@@ -3,6 +3,12 @@ title: New Freedom, PA Wedding Photographer | Amanda + Adam | Wedding Album
 label: Amanda + Adam
 date: '2013-05-24 13:21:26 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/05/Amanda-Adam-Showreel2-480x375.jpg
+description: Amanda + Adam Outdoor Barn Wedding Album | New Freedom, PA | So blessed
+  to have met up with Amanda and Adam on their visit to Madison this past weekend.
+  How priceless it was to see their reaction viewing their wedding album for the first
+  time. Congratulations to them on their recent one-year anniversary!
+keywords: outdoor, barn, wedding, New Freedom, York, Pennsylvania, PA, Wedding, Album,
+  Anniversary
 ---
 <p>So blessed to have met up with Amanda and Adam on their visit to Madison this past weekend. How priceless it was to see their reaction viewing their wedding album for the first time. Congratulations to them on their recent one-year anniversary! You can see their wedding photos from their wedding one year ago <a href="http://weddings.magnifiedjoy.com/wedding/amanda-adam-wedding-madison-wi-new-freedom-pa-wedding-photographer/">here</a>.</p>
 <p><iframe src="http://player.vimeo.com/video/67531751" width="100%" height="500px" frameborder="0" align="middle" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> </p>

@@ -4,6 +4,12 @@ title: Albuquerque, NM Wedding Photographer | Casa Rondeña Winery Engagement Sh
 label: Kelly + Rogelio
 date: '2014-03-20 05:39:27 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/2-16-14-Kelly-Rogelio-Engagement-056-480x375.jpg
+description: Casa Rondeña Engagement shoot. Winter winery tour. Albuquerque, NM. Casa
+  Rondena not only make wonderful wine, but it's a wonderful venue to photograph at
+  as well.
+keywords: ABQ, Albuquerque, wedding, engagement, santa fe, desert, new mexico, mexico,
+  honeymoon, retreat, landscape, sunny, sunset, hot, winter, Sandia mountain,  road
+  trip, casa rondena, los ranchos, winery, barrels, wine, guitar, music
 ---
 <p>We had so much fun meeting and photographing Kelly + Rogelio on our <a href="http://weddings.magnifiedjoy.com/life/magnified-joy-photography-united-states-road-trip-tour-2014-part-i/">road trip to California</a>! Congratulations to you both on your engagement! Special thanks to <a href="http://www.casarondena.com/">Casa Rondeña</a> for providing such wonderful place to photograph and super tasty wine as well! If you are planning your wedding in Albuquerque, be sure to check them out! Even if you are not planning a wedding, you should stop by the winery and do a <a href="http://www.casarondena.com/tastingroom-home">wine tasting</a>!</p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Kelly-Rogelio001.jpg" alt="Kelly Rogelio001" width="1500" height="1184" class="alignnone size-full wp-image-4828" /></p>

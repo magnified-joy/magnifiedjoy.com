@@ -4,6 +4,14 @@ title: Pleasanton, CA San Francisco Bay Area Wedding Photographer | Vintage Spri
 label: Miss Alex
 date: '2014-03-30 05:17:05 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Alex-Feature-480x375.jpg
+description: 'Vintage Spring Wedding Styled Shoot at Historic Old Pleasanton Hotel
+  (Handles Gastropub). Event planner: Lindsay Lauren Events. Bridal Gown: J’aime Bridal
+  International Wedding Photographer'
+keywords: vintage, spring, flowers, styled, stylized, san ramon, palo alto, pleasanton,
+  west coast, pacific coast, pacific northwest, north west, northern, southern, california,
+  norcal, socal, san francisco, sf, san fran, frisco, california, pacific coast, west
+  coast, CA, golden, gate, sunset, engagement, wedding, lifestyle, Sonoma, napa, Sacramento,
+  berkeley, east bay, oakland, san jose, international
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Alex-Bay-Area-Styled002.jpg" alt="Alex Bay Area Styled002" width="1500" height="2301" class="alignnone size-full wp-image-5069" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Alex-Bay-Area-Styled001.jpg" alt="Alex Bay Area Styled001" width="1500" height="1068" class="alignnone size-full wp-image-5068" /></p>

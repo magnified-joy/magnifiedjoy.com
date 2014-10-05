@@ -4,6 +4,12 @@ title: Madison, WI Wedding Photographer | Snowy Engagement Shoot | Memorial Unio
 label: Heather + Mark
 date: '2013-12-16 05:21:01 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/12/Heather-Mark-Icon-480x375.jpg
+description: Heather + Mark's adventurous beautiful snow fall engagement shoot. Although
+  it was quite cold out, Heather and Mark were great sports and had so much fun in
+  the snow. Here's to Wisconsin winter engagement shoots!
+keywords: uw madison, university, snow, fall, madison, wisconsin, memorial, union,
+  cold, winter, snowing, heather, mark, engagement, wedding, international, wedding
+  photographer, adventurous, fearless
 ---
 <p>Heather and Mark first contacted us right before we departed for our <a href="http://weddings.magnifiedjoy.com/wedding/hong-kong-china-international-wedding-photographer-tiffany-tom-wedding/">Hong Kong wedding</a>. They just got engaged and wanted to secure us as their wedding photographers right away. Wanting to take advantage of the fall scene before we left for our trip, we were able to squeeze in a <a href="http://weddings.magnifiedjoy.com/engagements/madison-wi-engagement-photographer-pheasant-branch-conservancy-sunrise-engagement-session-heather-mark/">sunrise session</a> for them. We promised them that we would do Part II of their engagement shoot when we got back. Part II turned out to be just as adventurous, but this time with a beautiful snow fall. Although it was quite cold out, Heather and Mark were great sports and had so much fun in the snow. Here's to Wisconsin winter engagement shoots!</p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/12/Heather-Mark-Engagement-Part-II-001.jpg" alt="Heather Mark Engagement Part II 001" width="1500" height="1067" class="alignnone size-full wp-image-4148" /></p>

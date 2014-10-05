@@ -4,6 +4,12 @@ title: Madison, WI | Blackhawk Church Wedding | Hilton Garden Inn Reception | Kr
 label: Kristen + Tyler
 date: '2013-08-25 00:51:51 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/08/8-10-13-Kristen-Tyler-Wedding-Color-WEB-162-480x375.jpg
+description: "Beautiful wedding located in Middleton, WI at Blackhawk Church. Reception
+  at Hilton Garden Inn.  Congratulations Kristen + Tyler. We are really excited to
+  walk along side you two during your engagement season of life and seeing everything
+  leading up to the wedding day! We wish you the best in your marriage!\r\n"
+keywords: beautiful, young, couple, blackhawk, church, love, hilton, garden, inn,
+  madison, wi, middleton, wisconsin
 ---
 <p>Congratulations Kristen + Tyler. We are really excited to walk along side you two during your engagement season of life and seeing everything leading up to the wedding day! We wish you the best in your marriage!</p>
 <p><a href="http://weddings.magnifiedjoy.com/engagements/madison-wi-engagement-photographer-kristen-tyler/">Click here</a> to see their engagement photos.<br />

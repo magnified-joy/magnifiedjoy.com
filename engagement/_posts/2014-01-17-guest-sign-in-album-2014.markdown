@@ -2,6 +2,12 @@
 title: Guest Sign In Album
 date: '2014-01-17 16:09:31 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/IMG_1068-480x375.jpg
+description: Artisan Guest Sign In Album is the perfect way to display your engagement
+  photos on your wedding day. It brings us much joy to see our clients' reaction as
+  they flip through pages of memories from their engagement.
+keywords: San Francisco, California, Engagement, Wedding, Photographer, Album, Artisan,
+  Handcraft, boutique, timeless, high-quality, high quality, guest, sign, in, napa,
+  sonoma, oakland, berkeley
 ---
 <p><iframe src="//player.vimeo.com/video/84265596" width="100%" height="500px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> </p>
 <p>We love taking photos of our awesome clients. But what we love even more is seeing our digital files of our clients come to print in our high-quality albums. It brings us great joy as artists to see our work come to fruition! Our clients can relive and share their memories with family and friends in a tangible way. How timeless and how beautiful!</p>

@@ -2,6 +2,12 @@
 title: Madison Kinfolk Foodie Wedding Gathering
 date: '2013-07-18 03:31:31 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/07/6-30-13-June-Blog-76a-480x375.jpg
+description: 'Kinfolk Magazine inspired wedding shoot centralized on the idea of local,
+  and seasonal foods. Madisonian foodie gathering. Featuring beautiful gown from Monirose '
+keywords: madison, madisonian, foodie, gathering, kinfolk, kinfolk magazine, sugar
+  pear design, Kathryn Hartmann, A La Crate Vintage Rentals, Bloom Bake Shop, Honey
+  Bee Bakery, Paoli Mill Terrace & Park, Snug Haven Farm, Monirose, Bespoke Gowns,
+  Willy Street Co-op
 ---
 <p>In dreaming and planning for our second stylized wedding shoot, I couldn't think of a more exciting idea than theming it around the things that we love--fresh, local, seasonal food--and sharing that in the context of the sweet community of friends which is so life-giving and essential in a healthy marriage. Likewise, each time we picked up a publication of <a href="http://www.kinfolkmag.com/">Kinfolk magazine</a> at a friend's house, En Tao and I had always been inspired as we flipped through the pages as the journal exhibited those same themes in an incredibly compelling way. Our design coordinators, Katie and Meghan, could not have agreed more. With <a href="http://www.kinfolkmag.com/">Kinfolk</a> as our inspiration point, we knew we wanted to capture the simplicity and elegance of a meal that was true to its local origins and celebrated with friends in the context of an upscale yet laid-back venue. What better place to try to replicate that idea than in Madison? As we started to share our ideas about our the Madisonian foodie culture of eating seasonally and supporting our local farmers and food co-ops, we were bubbling with ideas on how to make this theme a reality. Katie and Meghan, also triathletes, hit the ground running with ideas and started pinning to our June Stylized Shoot Inspiration Board on Pinterest. With much diligence we pulled together every element in just five weeks and the shoot came together so amazingly well--fun models, generous vendors, perfectly warm June weather, and even multitudes of lightning bugs to end the night! </p>
 <p>Although we had a hard time naming this theme--a "Madison Kinfolk Foodie Gathering"--I think we nailed it with the photos. Just like with great food, please enjoy a taste of our June stylized wedding shoot and <a href="http://fb.com/magnifiedjoy">"Like Us"</a> if you like what you tasted!</p>

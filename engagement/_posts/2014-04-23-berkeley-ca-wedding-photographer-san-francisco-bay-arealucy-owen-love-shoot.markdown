@@ -4,6 +4,15 @@ title: Berkeley, CA  Wedding Photographer San Francisco Bay Area|Lucy + Owen | L
 label: Lucy + Owen
 date: '2014-04-23 01:43:44 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/04/4-10-14-Lucy-Owen-Portrait-036a-480x375.jpg
+description: 'Sunrise shoot in Berkeley, CA. Living in the bay, there really isn''t
+  a sunrise due to the fog, but this was the only time we were able to schedule free
+  time with Lucy + Owen. We started just walking around the neighborhood with their
+  two beautiful pitbulls, then we headed to the Berkeley marina. '
+keywords: 'marina, pit bulls, dogs, sunrise, west coast, pacific coast, pacific northwest,
+  north west, northern, southern, california, norcal, socal, san francisco, sf, san
+  fran, frisco, california, pacific coast, west coast, CA, golden, gate, baker, beach,
+  sunset, engagement, wedding, lifestyle, Sonoma, napa, Sacramento, berkeley, east
+  bay, oakland, san jose, international,  '
 ---
 <p>It's been really fun to get to know Lucy + Owen over the past couple of months. They have very sweet hospitable personalities and just love on people (and their two beautiful pit bulls). With both of them having kinda a crazy life schedule, the only time we were able to schedule a shoot with them was sunrise. Living in the Bay Area, sunrise is a rare ecological phenomenon (or more of an urban legend really...) as the fog usually consumes the Bay for a good portion of the morning. We started just walking around our neighborhood in Berkeley with their two well behaved pit bulls, we then ended their shoot around the <a href=http://www.ci.berkeley.ca.us/Marina_Home/">Berkeley marina</a> area with just the two of them. </p>
 <p>Even though it was super early, these two still shine with full positive energy (before coffee or breakfast!). </p>

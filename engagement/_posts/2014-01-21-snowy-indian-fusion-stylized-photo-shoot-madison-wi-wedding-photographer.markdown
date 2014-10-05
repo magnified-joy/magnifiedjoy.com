@@ -3,6 +3,14 @@ title: Snowy Indian Fusion Stylized Photo Shoot | Madison, WI Wedding Photograph
 date: '2014-01-21 01:16:23 -0600'
 label: Frankie + Daniel
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/Frankie-Daniel081-480x375.jpg
+description: South Indian Malaysian Fusion themed photo shoot. As we took the Indian
+  Fusion outside in the snow. Daniel + Frankie bore the cold weather, with temperatures
+  hovering "warmly" around the freezing point. Frankie's strawberry blonde hair, pale
+  skin, blue eyes, and intricate Indian garb was so contrasting with the snow. Daniel's
+  dark skin and suave smile ramped up the romance and the contrast even more!
+keywords: south indian, malaysian, san francisco, engagement, wedding, photographer,
+  snow, stylized, photoshoot, photo, shoot, california, blonde, indian, daniel, frankie,
+  outdoor, woods, themed, inspirational, inspiration, napa, sonoma, oakland, berkeley
 ---
 <p>I met Frankie through our shared passion of dance and movement as worship. Frankie's pure, confident, and beautiful movements inspired me to revisit my creativity to choreograph movement, regain my confidence in dancing, and share that gift with others too. (You can see us dancing together to <a href="http://bit.ly/1doICxU">Josh Garrel's "Bread and Wine" here</a>.) Although I got to dance with Frankie and three other amazing women, I felt like I still knew her "from a distance".</p>
 <p>But it was later, when I asked Frankie if she and her boyfriend, Daniel, would opt into a stylized photo shoot, that I had the chance to get to know her at a different level. We landed on the theme of "Indian Fusion", drawing from Daniel's south Indian Malaysian background, bringing in some traditional props, such as Daniel's mom's sari and bangles, as well as some non-traditional elements, such as the tight jeans, bright floral bouquet, and of course, snow! It was such a privilege to get to know Frankie a bit more behind the camera while photographing her natural beauty and her stunning glances. </p>

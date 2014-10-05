@@ -4,6 +4,11 @@ title: Flagstaff, AZ Wedding Photographer | Buffalo Park Outdoor Windy Sunset En
 label: Hannah + Ethan
 date: '2014-03-20 23:51:58 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Hannah-Ethan-Feature-480x375.jpg
+description: Windy outdoor engagement session during sunset at Buffalo Park in Flagstaff
+  AZ. The wind provided an extra romantic element. We absolutely love working with
+  natural element.
+keywords: 'sunset, engagement, windy, flagstaff, Phoenix, romantic, arizona, desert,
+  buffalo park, road trip, wedding, outdoor, '
 ---
 <p>It was a super windy day in Flagstaff, AZ. A sign that spring was coming! Although it was incredibly windy, we used it to our advantage. We're thrilled to meet Hannah + Ethan along our <a href="http://weddings.magnifiedjoy.com/life/magnified-joy-photography-united-states-road-trip-tour-2014-part-i/">5000+ miles road trip to the west coast</a>! Congratulations to you both!</p>
 <p>Side note: Buffalo Park used to be a zoo way back when... until a heavy snow storm broke the wooden cages and fences. The animals roamed free, it was said that the buffalos remained for a little while. Which is why it was called Buffalo Park. Not sure if this is all true, just what I was told by a local ;)</p>

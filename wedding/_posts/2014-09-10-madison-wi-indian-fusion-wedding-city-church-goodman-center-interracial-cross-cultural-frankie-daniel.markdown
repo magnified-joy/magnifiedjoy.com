@@ -1,8 +1,15 @@
 ---
 title: Madison, WI | Indian Fusion Wedding City Church Goodman Center Interracial
   Cross-cultural | Frankie + Daniel
+label: Frankie + Daniel
 date: '2014-09-10 19:54:34 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/09/9-5-14-Frankie-Daniel-Wedding-161-480x375.jpg
+description: 'Cross-cultural wedding - American with Malaysian Indian - Frankie +
+  Daniel. 26 years ago Daniel was born in Malaysia. God already has a plan for him
+  to be marrying an American girl in Wisconsin 26 years later. '
+keywords: 'christian, malaysian indian, american, indian, malaysian, indian fusion,
+  cross-culcutral, interracial, frankie, daniel, madison, wisconsin, wedding, photographer,
+  engagement, biracial, documentary, photography, madison, milwaukee, creative, '
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/09/001-Indian-Fusion-Wedding-Goodman-Center-City-Church-Frankie-Daniel-Interracial-Cross-Cultural.jpg" alt="001 Indian Fusion Wedding Goodman Center City Church Frankie Daniel Interracial Cross Cultural" width="1500" height="1184" class="alignnone size-full wp-image-6530" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/09/002-Indian-Fusion-Wedding-Goodman-Center-City-Church-Frankie-Daniel-Interracial-Cross-Cultural.jpg" alt="002 Indian Fusion Wedding Goodman Center City Church Frankie Daniel Interracial Cross Cultural" width="1500" height="1067" class="alignnone size-full wp-image-6531" /></p>

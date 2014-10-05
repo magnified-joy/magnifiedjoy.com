@@ -4,6 +4,13 @@ title: Newtown, CT | Madison, WI Engagement Photographer | Campfire Coffee Adven
 label: Katie + Colin
 date: '2013-12-14 16:35:57 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/12/Katie-Colin-Feature-480x375.jpg
+description: Katie and Colin share a love for coffee and the outdoors, which is evident
+  in their engagement shoot. They shared numerous coffee dates dating long-distance
+  as well as outdoor activities when they visit each other's hometown.
+keywords: coffee, Crescendo, Espresso, Bar, Music, Cafe, madison, newtown, Connecticut,
+  wisconsin, outdoor, camping, lifestyle, kinfolk, eddie bauer, campfire, fire, wood,
+  picnic, point, Saugatuck, Reservoir, lake, water, engagement, wedding, november,
+  out of state, hiking, buffalo, plaid,
 ---
 <p>Katie and Colin got engaged at the beautiful <a href="http://en.wikipedia.org/wiki/Saugatuck_Reservoir">Saugatuck Reservoir</a> in Connecticut, the state of which they both call home base right now, but we were so happy that the timing of their engagement quickly brought them back to Madison, WI where Katie's family and friends are still planted, right before Thanksgiving. Their engagement and visit back home brought praise and thanksgiving indeed! They decided to have their engagement shoot exactly two weeks after Colin proposed to Katie, which also happened to be Katie's birthday! What a fun whirlwind of celebrations.</p>
 <p>Katie and Colin share a love for coffee and the outdoors, which is totally evident in their engagement shoot. They shared numerous dates at coffee shops while dating long-distance, both over Skype, and also in their home towns while visiting for weekends. Katie and Colin started out with some artful and tasty lattes at <a href="http://crescendomadison.com/">Crescendo Espresso Bar & Music Cafe</a>, warming up inside, before we ventured out to Picnic Point. We were blessed with mild November weather after Thanksgiving, so they were able to enjoy a fire and coffee out by the lake as well. It was truly a fun, romantic, and adventurous experience!</p>

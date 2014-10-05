@@ -3,6 +3,10 @@ title: Chani + Brent's Wedding | St. Germain, WI Wedding Photographer
 label: Chani + Brent
 date: '2013-01-22 22:50:54 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/01/2013-01-22_0026-480x375.jpg
+description: 'Chani + Brent''s fun, vintage, rustic, fall october wedding in St Germain
+  Wisconsin. Magnified Joy Photography. '
+keywords: vintage, fun, rustic, fall, october, wedding, St. Germain, St Germain, Wisconsin,
+  Classic
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/01/St-Germain-Wisconsin-Wedding-Photographer-Chani-Brent-01.jpg" alt="St Germain Wisconsin Wedding Photographer Chani Brent 01" width="1500" height="1183" class="alignnone size-full wp-image-2076" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/01/St-Germain-Wisconsin-Wedding-Photographer-Chani-Brent-02.jpg" alt="St Germain Wisconsin Wedding Photographer Chani Brent 02" width="1500" height="1066" class="alignnone size-full wp-image-2077" /></p>
