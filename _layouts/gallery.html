@@ -23,7 +23,7 @@ layout: default
                     <a href="{{ site.baseurl }}{{ post.url }}" class="thumbnail">
                         <img src="{{ post.thumbnail }}" alt="{{ post.title }}">
                         <div class="caption">
-                            View more of <br><strong>Alli + Davis</strong>
+                            View more {% if post.label %} of <br><strong>{{ post.label }}</strong>{% endif %}
                         </div>
                     </a>
                     </div>

@@ -1,7 +1,6 @@
 ---
 title: Madison, WI | Indian Fusion Wedding City Church Goodman Center Interracial
   Cross-cultural | Frankie + Daniel
-label: Frankie + Daniel
 date: '2014-09-10 19:54:34 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/09/9-5-14-Frankie-Daniel-Wedding-161-480x375.jpg
 ---

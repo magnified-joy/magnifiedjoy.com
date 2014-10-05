@@ -1,6 +1,7 @@
 ---
 title: Crested Butte, CO Wedding Photographer | Starry Night Mountain Wedding | Secret
   Stash | Julie Matt Wedding
+label: Julie + Matt
 date: '2014-07-03 16:19:08 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/07/Julie-Matt-Feature-480x375.jpg
 ---

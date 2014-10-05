@@ -1,6 +1,7 @@
 ---
 title: Snowy Indian Fusion Stylized Photo Shoot | Madison, WI Wedding Photographer
 date: '2014-01-21 01:16:23 -0600'
+label: Frankie + Daniel
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/Frankie-Daniel081-480x375.jpg
 ---
 <p>I met Frankie through our shared passion of dance and movement as worship. Frankie's pure, confident, and beautiful movements inspired me to revisit my creativity to choreograph movement, regain my confidence in dancing, and share that gift with others too. (You can see us dancing together to <a href="http://bit.ly/1doICxU">Josh Garrel's "Bread and Wine" here</a>.) Although I got to dance with Frankie and three other amazing women, I felt like I still knew her "from a distance".</p>

@@ -1,6 +1,7 @@
 ---
 title: Pleasanton, CA San Francisco Bay Area Wedding Photographer | Vintage Spring
   Wedding Styled Shoot | Miss Alex
+label: Miss Alex
 date: '2014-03-30 05:17:05 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Alex-Feature-480x375.jpg
 ---

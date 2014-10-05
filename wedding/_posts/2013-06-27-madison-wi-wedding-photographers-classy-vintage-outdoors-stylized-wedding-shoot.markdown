@@ -1,6 +1,7 @@
 ---
 title: Madison, WI Wedding Photographers | Classy Vintage Outdoors Stylized Wedding
   Shoot
+label: Junice + Nathan
 date: '2013-06-27 03:06:16 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/06/2013-06-26_0017-480x375.jpg
 ---

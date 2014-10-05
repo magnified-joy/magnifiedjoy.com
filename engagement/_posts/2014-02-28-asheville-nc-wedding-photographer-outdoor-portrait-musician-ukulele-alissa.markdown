@@ -1,6 +1,7 @@
 ---
 title: Asheville, NC Wedding Photographer | Outdoor Portrait Musician Ukulele | Alissa
 date: '2014-02-28 00:39:18 -0600'
+label: Alissa
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/02/Alissa-Feature-480x375.jpg
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/02/Alissa-Portrait-Asheville-NC-Ukulele001.jpg" alt="Alissa Portrait Asheville NC Ukulele001" width="1500" height="1068" class="alignnone size-full wp-image-4762" /></p>
