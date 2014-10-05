@@ -140,6 +140,9 @@ p{
 .content li{
     margin:1em 0;
 }
+.content .faq li{
+    margin:0 0;
+}
 .btn{
     border-radius:0;
     border:1px solid #fff;
