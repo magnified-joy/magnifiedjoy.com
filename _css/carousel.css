@@ -48,24 +48,16 @@
 .carousel-control.right img{
     right: 60px;
 }
-
-#portfolioCarousel .item a{
-    position:absolute;
-    background:#fff;
-    bottom:2em;
-    right:0;
-    padding:1em 2em 1em 8em;
-    color:#565759;
-    font-family:"Muli", sans-serif;
-    text-transform:uppercase;
-    border-top:2px solid #fff;
-    border-left:2px solid #fff;
-    border-bottom:2px solid #fff;
-    z-index:9999999999;
+.carousel .btn.caption{
+    position: absolute;
+    bottom: 2em;
+    right: 2em;
+    color: #fff;
+    font-size: 0.8em;
+    padding: 0.75em 3em;
 }
-#portfolioCarousel .item a:hover{
-    opacity:0.75;
-    color:#000;
+.carousel .btn.caption:hover{
+    color:#565759;
 }
 
 /* RESPONSIVE CSS
