@@ -156,6 +156,17 @@ strong{
     background:#fff;
     color:#565759;
 }
+input.btn{
+    border-color:#999;
+    border-width:1px;
+    padding:0.8em 4em;
+    margin-top:-1em;
+    font-size:1em;
+}
+input.btn:hover{
+    color:#fff;
+    background-color:#999;
+}
 .btn-group>.btn:last-child:not(:first-child), .btn-group>.dropdown-toggle:not(:first-child), .btn-group>.btn:first-child:not(:last-child):not(.dropdown-toggle){
     border-radius:0;
 }
