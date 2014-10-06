@@ -1,5 +1,4 @@
 ---
-published: false
 title: Madison, WI | Backyard Wedding | Allison + Brian Wedding | Wisconsin Wedding
   Photographer
 label: Allison + Brian
