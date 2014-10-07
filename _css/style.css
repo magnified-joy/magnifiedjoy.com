@@ -418,27 +418,46 @@ blockquote, blockquote.blockquote-reverse{
     .navigation{
         position: fixed;
         z-index: 10;
-        background: #fff;
+        background:#fff;
         width: 100%;
         top:0;
     }
-    .navigation .left.expanded{
+    .navigation .left{
         padding-right:70px;
+        transition: padding-right 500ms;
     }
-    .navigation .right.expanded{
+    .navigation .right{
         padding-left:70px;
+        transition: padding-left 500ms;
     }
-    .navigation .center.expanded .logo{
+    .navigation .center .logo{
         width:340px;
         margin-left:-170px;
         position:absolute;
         left:50%;
-        
+        transition: width 500ms,margin-left 500ms;
     }
     .navigation .link{
         margin:70px 10px 3px 10px;
+        transition: margin 500ms;
     }
-    
+    .navigation.small{
+        padding:0px 0px 2px 0px;
+        transition: padding 500ms;
+    }
+    .navigation.small .left{
+        padding-right:0px;
+    }
+    .navigation.small .right{
+        padding-left:0px;
+    }
+    .navigation.small .link{
+        margin:44px 10px 3px 10px;
+    }
+    .navigation.small .center .logo{
+        width:220px;
+        margin-left:-110px;
+    }
     .navigation > div:last-child{
        text-align:left;
     }
