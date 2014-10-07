@@ -4,7 +4,7 @@
 
 .carousel {
   margin-bottom: 60px;
-  background-color: #e0e0e0;
+  background-color:#f7f7f7;
 }
 
 .carousel-caption {
@@ -60,6 +60,45 @@
     color:#565759;
 }
 
+#portfolioCarousel .item img{
+    width:auto;
+    margin:0 auto;
+    height:100%;
+    max-width: none;
+}
+#portfolioCarousel .item{
+    text-align:center;
+    overflow:hidden;
+    
+}
+#portfolioCarousel a.caption{
+    color:#77787b;
+    text-transform: uppercase;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    text-align: right;
+    padding:10px 20px 20px 10px;
+    font-size: 10px;
+    background:rgba(247,247,247,0.75);
+    line-height:1.5em;
+    font-family:"Muli",sans-serif;
+}
+#portfolioCarousel a.caption:hover{
+    text-decoration:underline;
+    color:#000;
+}
+#portfolioCarousel .carousel-control{
+    opacity:0.33;
+}
+#portfolioCarousel .carousel-control img{
+    background-color: rgba(247,247,247,0.75);
+    padding: 10px 15px;
+    width: 50px;
+}
+#portfolioCarousel .carousel-control:hover{
+    opacity:0.45;
+}
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 @media (min-width: 1024px){
