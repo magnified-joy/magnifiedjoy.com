@@ -1,6 +1,7 @@
 ---
 title: Santa Fe, Albuquerque, NM Wedding Photographer | Desert Harbor | Premiere Honeymoon
   Elopement Destination Wedding Venue
+label: Desert Harbor, Albuquerque, NM
 date: '2014-04-23 05:14:08 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/04/Desert-Harbor-Feb-2014-094-480x375.jpg
 ---

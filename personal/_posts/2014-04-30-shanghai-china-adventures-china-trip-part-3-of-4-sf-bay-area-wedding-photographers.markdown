@@ -1,5 +1,6 @@
 ---
 title: Shanghai China Adventures | China Trip Part 3 of 4 | SF Bay Area Wedding Photographers
+label: Shanghai, China
 date: '2014-04-30 23:27:08 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/04/Shanghai-Feature-480x375.jpg
 ---
