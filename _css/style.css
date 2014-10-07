@@ -204,9 +204,11 @@ input.btn:hover{
 }
 .instagram .feed img{
     width:23%;
-    margin:0 1% 1em 1%;
+    margin:-2px -2px 1em 2%;
     height:auto;
     float:left;
+    border:1px solid #c7c8ca;
+    
 }
 .instagram .feed a:hover img{
     opacity:0.5;
