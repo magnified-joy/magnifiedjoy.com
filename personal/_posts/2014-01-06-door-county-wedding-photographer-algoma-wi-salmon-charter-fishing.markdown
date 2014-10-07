@@ -1,5 +1,6 @@
 ---
 title: Door County Wedding Photographer | Algoma, WI | Salmon Charter Fishing
+label: Door County Salmon Charter Fishing
 date: '2014-01-06 18:31:00 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/Charter-Fishing-Feature-480x375.jpg
 ---

@@ -1,6 +1,7 @@
 ---
 title: Faye's Frames | Local Madison, WI Artisan Custom Frame Shop | Wisconsin Wedding
   Photographer
+label: Barnwood Frames
 date: '2014-01-09 01:03:51 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/feature-480x375.jpg
 ---
