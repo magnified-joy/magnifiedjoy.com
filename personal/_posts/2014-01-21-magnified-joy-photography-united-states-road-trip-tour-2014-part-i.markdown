@@ -1,6 +1,6 @@
 ---
 title: Magnified Joy Photography United States Road Trip Tour 2014 - Part I
-label: Road Trip 2014 - Part I
+label: Road Trip 2014 Part I
 date: '2014-01-21 23:14:34 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/MJP-US-Tour-480x375.jpg
 ---
