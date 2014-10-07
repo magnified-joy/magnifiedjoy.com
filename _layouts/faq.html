@@ -11,17 +11,16 @@ layout: default
         <div class="col-md-4 questions" style="float:right">
             <ol class="menu">
                 {% for post in posts %}
-                <li><a href="#{{ forloop.index }}">{{ post.title }}</a></li>
+                <li><a href="#{{ post.url | replace: '/faq/','' }}">{{ post.title }}</a></li>
                 {% endfor %}
             </ol>
         </div>
         <div class="col-md-8 answers">
-{% for post in posts %}
-    <h2><span class="anchor"><a name="{{ forloop.index }}"></a>{{ forloop.index }}</span>{{ post.title }}</h2>
-    {{ post.content }}
-    {% if forloop.first %}{% else %}<hr>{% endif %}
-{% endfor %}
-
+        {% for post in posts %}
+            {% if forloop.first %}{% else %}<hr>{% endif %}
+            <h2><span class="anchor"><a name="{{ post.url | replace: '/faq/','' }}"></a>{{ forloop.index }}</span>{{ post.title }}</h2>
+            {{ post.content }}
+        {% endfor %}
     </div>
 </div>
 {% include bottom.html %}
