@@ -75,18 +75,20 @@
     overflow:hidden;
     
 }
+
 #portfolioCarousel a.caption{
-    color:#77787b;
+    color: #77787b;
     text-transform: uppercase;
     position: absolute;
-    bottom: 0;
-    right: 0;
-    text-align: right;
-    padding:10px 20px 20px 10px;
+    bottom: -54px;
+    padding: 10px 20px 20px 10px;
     font-size: 10px;
-    background:rgba(247,247,247,0.75);
-    line-height:1.5em;
-    font-family:"Muli",sans-serif;
+    left: 0%;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    line-height: 1.5em;
+    font-family: "Muli",sans-serif;
 }
 #portfolioCarousel a.caption:hover{
     text-decoration:underline;
@@ -116,6 +118,17 @@
 }
 
 @media (min-width: 768px) {
+
+#portfolioCarousel a.caption{
+    bottom: 0;
+    right: 0;
+    left:auto;
+    height:auto;
+    width:auto;
+    text-align:right;
+    background: rgba(247,247,247,0.75);
+}
+
     .carousel, .carousel .item, .carousel-inner > .item > .img{
         height:520px;
     }
