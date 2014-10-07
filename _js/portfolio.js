@@ -8,11 +8,12 @@ $(function() {
 
     $('.navigation').css({position:'absolute',width:'100%',background:'#fff'});
 
+    var pTop = parseInt($('body').css('padding-top'));
+    
     scroll();
 
     function scroll(){
-      console.log(document.body.scrollTop);
-      if(document.body.scrollTop < $('.navigation').height()+30){
+      if(document.body.scrollTop < pTop){
         window.scrollBy(0,SCROLL_AMOUNT);
         setTimeout(scroll,1000/60);
       }

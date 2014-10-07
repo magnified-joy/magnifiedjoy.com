@@ -30,6 +30,9 @@ a,a:hover{
 .content p a{
     border-bottom:1px dotted #919294;
 }
+.content > .row:first-child h1{
+    margin-top:20px;
+}
 a:hover{
     color:#ff705c;
     border-color:#ff705c;
@@ -393,7 +396,7 @@ blockquote, blockquote.blockquote-reverse{
 }
 @media (min-width: 992px) {
     body{
-        padding:100px 0 0 0;
+        padding-top:120px;
     }
     .navigation{
         position: fixed;
@@ -402,7 +405,16 @@ blockquote, blockquote.blockquote-reverse{
         width: 100%;
         top:0;
     }
-
+    .navigation .left.expanded{
+        padding-right:70px;
+    }
+    .navigation .right.expanded{
+        padding-left:70px;
+    }
+    .navigation .center.expanded .logo{
+        width:170%;
+        margin-left:-35%;
+    }
     .navigation .link{
     margin:44px 10px 3px 10px;
     }
