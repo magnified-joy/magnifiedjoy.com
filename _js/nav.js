@@ -33,7 +33,6 @@ $(function() {
         $a.css({
             'margin-top': (marginEnd+m)+'px'
         });
-        console.log(m);
     }
 
   });

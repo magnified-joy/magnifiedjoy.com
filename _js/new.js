@@ -39,7 +39,7 @@ $(function() {
     }
     $('#markdown').val(md);
   
-    filename = $('#date').val()+'-'+title.toLowerCase().replace(' ','-')+".markdown";
+    filename = $('#date').val()+'-'+title.toLowerCase().replace(/[^a-z0-9\s]/g,'').replace(/ /g,'-')+".markdown";
     $('#filename').text(filename);
   
   }
