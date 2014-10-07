@@ -1,6 +1,6 @@
 ---
 title: Xian China Adventure | International Destination Wedding Photographer
-Label: Xian, China
+label: Xian, China
 date: '2014-09-11 21:31:52 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/09/Xian-Feature-480x375.jpg
 ---
