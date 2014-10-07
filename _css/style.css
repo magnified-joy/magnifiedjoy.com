@@ -415,6 +415,12 @@ blockquote, blockquote.blockquote-reverse{
     body{
         padding-top:120px;
     }
+    .home .navigation{
+        position:absolute;
+        width:100%;
+        top:0;
+        left:0;
+    }
     .navigation{
         position: fixed;
         z-index: 10;
