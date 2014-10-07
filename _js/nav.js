@@ -14,10 +14,11 @@ $(function() {
   var $c = $('.navigation .center .logo');
   var $r = $('.navigation .right');
   var $a = $('.navigation .link');
-  
+
   $(window).scroll(function(){
-    var p = (pTop-document.body.scrollTop)/pTop;
+    var p = (pTop-$(window).scrollTop())/pTop;
     if(p >= 0){
+        if(p > 1) p = 1;
         var w = endSize+(startSize-endSize)*p;
         var m = (marginStart-marginEnd)*p;
         $c.css({
