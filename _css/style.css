@@ -228,6 +228,9 @@ input.btn:hover{
 .bottom h4{
     font-size:0.75em;
 }
+.bottom{
+    margin: 4em 0 1em 0;
+}
 #social{
     width:152px;
     height:20px;
