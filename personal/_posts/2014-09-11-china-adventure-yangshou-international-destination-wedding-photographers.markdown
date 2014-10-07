@@ -1,5 +1,6 @@
 ---
 title: China Adventure Yangshuo | International Destination Wedding Photographers
+label: Yangshuo, China
 date: '2014-09-11 22:22:56 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/09/YS-feature-480x375.jpg
 ---

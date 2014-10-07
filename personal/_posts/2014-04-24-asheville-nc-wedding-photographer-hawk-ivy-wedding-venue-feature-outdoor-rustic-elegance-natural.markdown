@@ -1,6 +1,7 @@
 ---
 title: Asheville, NC Wedding Photographer | Hawk + Ivy Wedding Venue Feature | Outdoor
   Rustic Elegance Natural
+label: Hawk + Ivy, Asheville, NC
 date: '2014-04-24 22:50:08 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/04/2-7-14-Hawk-and-Ivy-060-480x375.jpg
 ---

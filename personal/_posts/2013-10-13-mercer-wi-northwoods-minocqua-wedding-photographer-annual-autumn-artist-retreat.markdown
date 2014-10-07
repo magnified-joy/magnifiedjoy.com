@@ -1,6 +1,7 @@
 ---
 title: 'Mercer, WI | Northwoods Minocqua Wedding Photographer | Annual Autumn Artists''
   Retreat '
+label: Mercer, WI Artists' Retreat
 date: '2013-10-13 15:17:47 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/10/IMG_9990-480x375.jpg
 ---

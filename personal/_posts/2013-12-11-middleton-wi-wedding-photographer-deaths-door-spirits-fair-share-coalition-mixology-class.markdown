@@ -1,6 +1,7 @@
 ---
 title: 'Middleton, WI Wedding Photographer |Death''s Door Spirits | Fair Share Coalition
   | Mixology Class '
+label: Mixology Class
 date: '2013-12-11 21:33:18 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/09/SIP-Feature-480x375.jpg
 ---

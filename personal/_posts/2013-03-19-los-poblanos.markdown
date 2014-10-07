@@ -1,6 +1,7 @@
 ---
 title: Travel - Los Ranchos de Albuquerque, NM - Los Poblanos Ranch - Historic Inn
   & Cultural Center
+label: Los Poblanos, Albuquerque, NM
 date: '2013-03-19 19:39:01 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/03/IMG_2763-480x375.jpg
 description: Travel - Our review on Los Poblanos in Los Ranchos de Albuquerque, NM!

@@ -1,6 +1,7 @@
 ---
 title: Madison, WI Wedding Photographer | Booyah | A Taste of Green Bay Culture in
   Madison | Chicken Stew
+label: Booyah, Chicken Stew
 date: '2013-10-13 15:27:51 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/10/Booyah-6-480x375.jpg
 ---

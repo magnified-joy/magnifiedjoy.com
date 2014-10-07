@@ -1,6 +1,7 @@
 ---
 title: Magnified Joy Photography US Road Trip Part II - Weddings For Freedom - Stand
   Against Modern Day Slavery
+label: Weddings for Freedom - Anti Slavery
 date: '2014-03-19 15:19:57 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/MJP-ROAD-TRIP-PART-2-V3-480x375.jpg
 ---

@@ -1,6 +1,7 @@
 ---
 title: San Francisco Wedding Photographer | Personal Travel | Mission District | Golden
   Gate Bridge | SF Food Culture
+label: Explore San Francisco
 date: '2013-11-29 03:22:30 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/11/SF-Cover-480x375.jpg
 ---
