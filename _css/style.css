@@ -224,7 +224,7 @@ input.btn:hover{
     border-width:1px;
     border-color:#c3c4c6;
     font-size:0.8em;
-    padding:0.33 1em;
+    padding:0.75em 2em;
 }
 .bottom .btn:hover{
     background-color:#c3c4c6;
