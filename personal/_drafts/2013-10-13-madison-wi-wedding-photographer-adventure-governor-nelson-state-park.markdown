@@ -1,4 +1,5 @@
 ---
+published: false
 title: Madison, WI Wedding Photographer | Adventure Governor Nelson State Park
 date: '2013-10-13 12:38:48 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/10/nelson-feature-480x375.jpg
