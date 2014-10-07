@@ -383,6 +383,9 @@ input.btn:hover{
     top:-125px;
     visibility:hidden;
 }
+.faq .answers h2:first-child{
+    margin-top:0px;
+}
 .map{
     opacity:0.75;
     -webkit-filter: grayscale(1); -webkit-filter: grayscale(100%); -moz-filter: grayscale(100%);
