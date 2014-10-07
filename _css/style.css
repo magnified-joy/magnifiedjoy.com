@@ -17,6 +17,8 @@ body,html{
 }
 .center{
     text-align:center;
+    position:relative;
+    display:block;
 }
 .left{
     text-align:left;
@@ -427,11 +429,14 @@ blockquote, blockquote.blockquote-reverse{
         padding-left:70px;
     }
     .navigation .center.expanded .logo{
-        width:170%;
-        margin-left:-35%;
+        width:340px;
+        margin-left:-170px;
+        position:absolute;
+        left:50%;
+        
     }
     .navigation .link{
-    margin:44px 10px 3px 10px;
+        margin:70px 10px 3px 10px;
     }
     
     .navigation > div:last-child{
