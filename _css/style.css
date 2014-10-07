@@ -424,26 +424,46 @@ blockquote, blockquote.blockquote-reverse{
     }
     .navigation .left{
         padding-right:70px;
-        transition: padding-right 500ms;
+        -webkit-transition: all 500ms ease;
+        -moz-transition: all 500ms ease;
+        -ms-transition: all 500ms ease;
+        -o-transition: all 500ms ease;
+        transition: all 500ms ease;
     }
     .navigation .right{
         padding-left:70px;
-        transition: padding-left 500ms;
+        -webkit-transition: all 500ms ease;
+        -moz-transition: all 500ms ease;
+        -ms-transition: all 500ms ease;
+        -o-transition: all 500ms ease;
+        transition: all 500ms ease;
     }
     .navigation .center .logo{
         width:340px;
         margin-left:-170px;
         position:absolute;
         left:50%;
-        transition: width 500ms,margin-left 500ms;
+        -webkit-transition: all 500ms ease;
+        -moz-transition: all 500ms ease;
+        -ms-transition: all 500ms ease;
+        -o-transition: all 500ms ease;
+        transition: all 500ms ease;
     }
     .navigation .link{
         margin:70px 10px 3px 10px;
-        transition: margin 500ms;
+        -webkit-transition: all 500ms ease;
+        -moz-transition: all 500ms ease;
+        -ms-transition: all 500ms ease;
+        -o-transition: all 500ms ease;
+        transition: all 500ms ease;
     }
     .navigation.small{
         padding:0px 0px 2px 0px;
-        transition: padding 500ms;
+        -webkit-transition: all 500ms ease;
+        -moz-transition: all 500ms ease;
+        -ms-transition: all 500ms ease;
+        -o-transition: all 500ms ease;
+        transition: all 500ms ease;
     }
     .navigation.small .left{
         padding-right:0px;
