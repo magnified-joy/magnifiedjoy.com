@@ -2,7 +2,7 @@
 title: Boudoir
 permalink: boudoir/
 ---
-<div class="row">
+<div class="row boudoir">
         <div class="col-md-12">
             <h1 class="center" style="margin-bottom:1em">Boudoir</h1>
         </div>
@@ -14,13 +14,23 @@ permalink: boudoir/
 
    <p>     <form action="http://getsimpleform.com/messages?form_api_token=0334b22d047a61f451029d4beaf69e6e" method="post" role="form">
                 <input type='hidden' name='redirect_to' value='{{ site.url }}/contact/thanks' class="hidden" />
-                <div class="form-group col-md-6" style="padding-left:0px;padding-right:5px">
-                    <input type="text" class="form-control" name="name" placeholder="Your First & Last Name">
+                <input type="hidden" class="hidden" name="request-type" value="boudoir">
+                <div class="form-group col-md-6">
+                    <input type="text" class="form-control" required="required" name="name" placeholder="Your First & Last Name">
                 </div>
-                <div class="form-group col-md-6" style="padding-left:5px;padding-right:0px">
-                    <input type="email" class="form-control" name="email" placeholder="Your Email Address">
+                <div class="form-group col-md-6">
+                    <input type="email" class="form-control" required="required" name="email" placeholder="Your Email Address">
                 </div>
-                <div class="form-group col-md-12" style="padding-left:0;padding-right:5px;">
+                <div class="form-group col-md-6">
+                    <input type="phone" class="form-control" name="phone" placeholder="Phone Number">
+                </div>
+                <div class="form-group col-md-6">
+                    <input type="text" class="form-control"  name="date" placeholder="Approximate Date (mm/dd/yy)">
+                </div>
+                <div class="form-group col-md-12">
+                    <input type="text" class="form-control" name="location" placeholder="Your Location">
+                </div>
+                <div class="form-group col-md-12">
                                     <textarea id="message" name="message" class="form-control" rows="5" placeholder="Tell us a bit about yourself."></textarea>
                     <p><br><input type="submit" class="btn btn-default" value="Send"/></p>
                 </div>
