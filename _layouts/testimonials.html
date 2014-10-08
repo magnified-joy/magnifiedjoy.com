@@ -13,20 +13,20 @@ layout: default
         {% if forloop.first %}{% else %}<hr>{% endif %}
         {% if thecycle == 'odd' %}
             <div class="row odd">
-                    <div class="col-md-7">
+                    <div class="col-sm-7">
                         {{ post.content }}
                         <h3>- {{ post.title }}</h3>
                     </div>
-                    <div class="col-md-5">
+                    <div class="col-sm-5">
                         <img src="{{ post.image }}" alt="{{ post.title }}">
                     </div>
             </div>
         {% else %}
             <div class="row even">
-                    <div class="col-md-5">
+                    <div class="col-sm-5">
                         <img src="{{ post.image }}" alt="{{ post.title }}">
                     </div>
-                    <div class="col-md-7">{{ post.content }}
+                    <div class="col-sm-7">{{ post.content }}
                         <h3>- {{ post.title }}</h3>
                     </div>
             </div>

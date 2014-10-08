@@ -1,6 +1,6 @@
 $(function() {
 
-  var $i = $('.testimonials .row.even .col-md-5');
+  var $i = $('.testimonials .row.even .col-sm-5');
   var $h = $('.testimonials h3');
 
   $(window).resize(resize);
@@ -8,7 +8,7 @@ $(function() {
   resize();
 
   function resize(){
-    if(window.innerWidth <= 992){
+    if(window.innerWidth <= 768){
         $i.each(function(){ $(this).appendTo($(this).parent()); });
         $h.css({ marginBottom: "1em" });
     }else{
