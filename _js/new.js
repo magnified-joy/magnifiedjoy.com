@@ -35,7 +35,7 @@ $(function() {
     md += "---\n";
     md += $('#content').val()+"\n";
     for(var i = 0; i < files.length; i++){
-        md += "\n!["+files[i].replace(/\-/g,' ').replace(/\.jpg/gi,'').replace(/\.png/gi,'').replace(/\.jpeg/gi,'')+"]("+f+files[i]+")\n";
+        md += "\n!["+files[i].replace(/\-/g,' ').replace(/ +/g, " ").replace(/\.jpg/gi,'').replace(/\.png/gi,'').replace(/\.jpeg/gi,'')+"]("+f+files[i]+")\n";
     }
     $('#markdown').val(md);
   
