@@ -1,14 +1,13 @@
 ---
 layout: default
 ---
-{% assign posts = site.categories[page.portfolio_category] %}
 <div id="portfolioCarousel" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
   
-    {% for post in posts %}
+    {% for image in page.images %}
 
     <div class="item{% if forloop.first %} active{% endif %}">
-        <img src="{{ post.image }}" alt="{{ post.title }}">
+        <img src="{% if page.image_folder %}{{ page.image_folder }}/{% endif %}{{ image }}" alt="{{ page.title }}">
     </div>
 
     {% endfor %}

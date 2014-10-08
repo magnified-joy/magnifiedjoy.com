@@ -1,3 +1,0 @@
----
-image: "https://googledrive.com/host/0B-rUPb5gojEtWmc4bzNORzRSN1k/6.jpg"
----
