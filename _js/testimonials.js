@@ -8,7 +8,7 @@ $(function() {
   resize();
 
   function resize(){
-    if(window.innerWidth <= 768){
+    if(window.innerWidth < 768){
         $i.each(function(){ $(this).appendTo($(this).parent()); });
         $h.css({ marginBottom: "1em" });
     }else{
