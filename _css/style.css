@@ -344,6 +344,12 @@ input.btn:hover{
     display: block;
     visibility:visible;
 }
+.thumbnail img{
+    width:100%;
+    height:auto;
+    background-size:cover;
+    background-position:center;
+}
 .thumbnail:hover img{
     opacity:0.33;
     -webkit-filter: grayscale(1); -webkit-filter: grayscale(100%); -moz-filter: grayscale(100%);
