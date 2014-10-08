@@ -26,5 +26,5 @@ Wisconsin<br />
 <br/><br />
 <br/></p>
 <p>We are partnering with Weddings for Freedom for Part 2 of our Magnified Joy Photography road trip. Learn more <a title="Weddings for Freedom" href="http://www.weddingsforfreedom.com/weddings_for_freedom/home.html">here</a>. Thank you for your support as together we work toward a world free of trafficking and slavery!<br />
-<a href="http://www.weddingsforfreedom.com/weddings_for_freedom/home.html"<img class="alignnone size-full wp-image-4794" alt="round9" src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/WFF_Logo_Melon.jpg" width="415" height="345" /></a>
+<img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/WFF_Logo_Melon.jpg">
 </p>
