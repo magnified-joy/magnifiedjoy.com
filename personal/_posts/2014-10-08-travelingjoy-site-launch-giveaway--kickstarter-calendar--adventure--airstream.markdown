@@ -21,19 +21,19 @@ Here's a look at the entire calendar.
 
 ## Want a copy of this awesome limited edition calendar? Here's how you enter!
 
-# Newsletter
+## Newsletter
 - Sign up on our newsletter at the bottom of the site. That's it! It's that simple.  (Counts as one entry)
 
-# Facebook
+## Facebook
 - Like our Facebook Page and share our #travelingjoy photo to your wall. You can share once a day for the duration of the giveaway.
 
-# Instagram
+## Instagram
 - Follow us on Instagram, share the #travelingjoy photo on your instagram account tagging @magnifiedjoy and #travelingjoy. You can share once a day for the duration of the giveaway.
 
-# Twitter
+## Twitter
 - Follow us on Twitter, tweet out the #travelingjoy photo tagging @magnifiedjoy and #travelingjoy.You can share once a day for the duration of the giveaway.
 
-# Google+
+## Google+
 - Share the #travelingjoy photo on your Google+ account tagging @magnifiedjoy and #travelingjoy. You can share once a day for the duration of the giveaway.
 
 The more times you participate, the higher the change you will win! We will randomly pick one winner from each categories (Newsletter, Facebook, Instagram, Twitter, Google+) on October 13th, 11:59pm. 
