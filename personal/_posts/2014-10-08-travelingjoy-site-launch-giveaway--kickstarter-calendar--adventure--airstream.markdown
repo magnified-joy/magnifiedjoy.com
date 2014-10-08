@@ -1,6 +1,6 @@
 ---
-title: #travelingjoy site launch giveaway | kickstarter calendar | adventure | airstream
-label: \#travelingjoy
+title: travelingjoy site launch giveaway | kickstarter calendar | adventure | airstream
+label: travelingjoy
 thumbnail: https://googledrive.com/host/0B2YHeCssXjxzRzFfcHlPcFVoUlE/travelingjoy-feature.jpg
 description: Magnified Joy New Site Launch #travelingjoy calendar giveaway featuring limited edition Kickstarter calendar
 keywords: kickstarter, airstream, calendar, #travelingjoy, traveling, joy, landscape, colorado, crested butte, adventure, road trip, USA
@@ -19,22 +19,22 @@ Here's a look at the entire calendar.
 
 ![travelingjoy-full-calendar.jpg](https://googledrive.com/host/0B2YHeCssXjxzRzFfcHlPcFVoUlE/travelingjoy-full-calendar.jpg)
 
-Want a copy of this awesome limited edition calendar? Here's how you enter!
+## Want a copy of this awesome limited edition calendar? Here's how you enter!
 
-Newsletter
-Sign up on our newsletter at the bottom of the site. That's it! It's that simple.  (Counts as one entry)
+# Newsletter
+- Sign up on our newsletter at the bottom of the site. That's it! It's that simple.  (Counts as one entry)
 
-Facebook
-Like our Facebook Page and share our #travelingjoy photo to your wall. You can share once a day for the duration of the giveaway.
+# Facebook
+- Like our Facebook Page and share our #travelingjoy photo to your wall. You can share once a day for the duration of the giveaway.
 
-Instagram
-Follow us on Instagram, share the #travelingjoy photo on your instagram account tagging @magnifiedjoy and #travelingjoy. You can share once a day for the duration of the giveaway.
+# Instagram
+- Follow us on Instagram, share the #travelingjoy photo on your instagram account tagging @magnifiedjoy and #travelingjoy. You can share once a day for the duration of the giveaway.
 
-Twitter
-Follow us on Twitter, tweet out the #travelingjoy photo tagging @magnifiedjoy and #travelingjoy.You can share once a day for the duration of the giveaway.
+# Twitter
+- Follow us on Twitter, tweet out the #travelingjoy photo tagging @magnifiedjoy and #travelingjoy.You can share once a day for the duration of the giveaway.
 
-Google+
-Share the #travelingjoy photo on your Google+ account tagging @magnifiedjoy and #travelingjoy. You can share once a day for the duration of the giveaway.
+# Google+
+- Share the #travelingjoy photo on your Google+ account tagging @magnifiedjoy and #travelingjoy. You can share once a day for the duration of the giveaway.
 
 The more times you participate, the higher the change you will win! We will randomly pick one winner from each categories (Newsletter, Facebook, Instagram, Twitter, Google+) on October 13th, 11:59pm. 
 
