@@ -266,6 +266,9 @@ input.btn:hover{
     margin-top:0;
     padding-top:0;
 }
+.testimonials h3{
+    margin:0;
+}
 .home #footer hr{
     display:none;
     visibility:hidden;
