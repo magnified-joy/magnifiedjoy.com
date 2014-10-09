@@ -25,6 +25,7 @@ Here's a look at the entire calendar.
 - Sign up on our newsletter at the bottom of the site. That's it! It's that simple.  (Counts as one entry)
 
 <pre><code>
+    <div class="col-md-4">
             <form action="//magnifiedjoy.us9.list-manage.com/subscribe/post?u=3d922b022cb0ef6b6ce2337d3&amp;id=0111d465ab" role="form" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                 <input type='hidden' name='redirect_to' value='{{ site.url }}/contact/thanks' class="hidden" />
                 <div style="position: absolute; left: -5000px;"><input type="text" name="b_3d922b022cb0ef6b6ce2337d3_0111d465ab" tabindex="-1" value=""></div>
@@ -35,6 +36,7 @@ Here's a look at the entire calendar.
                   </span>
                 </div>
             </form>
+    </div>
 </code></pre>
 
 ## Facebook
