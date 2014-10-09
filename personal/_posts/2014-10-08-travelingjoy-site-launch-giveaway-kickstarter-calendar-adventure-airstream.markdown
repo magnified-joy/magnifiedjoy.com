@@ -1,5 +1,5 @@
 ---
-title: Magnified Joy site launch #travelingjoy giveaway | kickstarter calendar | adventure | airstream
+title: Magnified Joy site launch \#travelingjoy giveaway | kickstarter calendar | adventure | airstream
 label: Site Launch #travelingjoy giveaway
 thumbnail: https://googledrive.com/host/0B2YHeCssXjxzRzFfcHlPcFVoUlE/travelingjoy-feature.jpg
 description: Magnified Joy New Site Launch #travelingjoy calendar giveaway featuring limited edition Kickstarter calendar
