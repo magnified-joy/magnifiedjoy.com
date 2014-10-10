@@ -25,7 +25,7 @@ Here's a look at the entire calendar.
 
 ## Newsletter
 - Sign up on our newsletter below. That's it! It's that simple.  (Counts as one entry)
-<dd><div class="center">
+<dd><div class="center bottom">
 
             <h3>Subscribe to our monthly newsletter</h3>
             
