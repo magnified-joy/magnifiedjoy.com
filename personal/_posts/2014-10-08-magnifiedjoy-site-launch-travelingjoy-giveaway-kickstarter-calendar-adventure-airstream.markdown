@@ -23,7 +23,7 @@ Here's a look at the entire calendar.
 
 ## Newsletter
 - Sign up on our newsletter below. That's it! It's that simple.  (Counts as one entry)
-<div class="center"><!-- Begin MailChimp Signup Form -->
+<div class="center"><dd><!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
@@ -43,6 +43,7 @@ Here's a look at the entire calendar.
 </div>
 
 <!--End mc_embed_signup-->
+<dd></dd>
 </div>
 
 ## Facebook
@@ -52,18 +53,18 @@ Here's a look at the entire calendar.
 
 ## Instagram
 - Follow [@magnifiedjoy](http://instagram.com/magnifiedjoy) on Instagram, share the #travelingjoy photo on your instagram account with the hashtag  #travelingjoy. You can share once a day for the duration of the giveaway. 
-<div class="center"><style>.ig-b- { display: inline-block; }
+<div class="center"><dd><style>.ig-b- { display: inline-block; }
 .ig-b- img { visibility: hidden; }
 .ig-b-:hover { background-position: 0 -60px; } .ig-b-:active { background-position: 0 -120px; }
 .ig-b-v-24 { width: 137px; height: 24px; background: url(//badges.instagram.com/static/images/ig-badge-view-sprite-24.png) no-repeat 0 0; }
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
 .ig-b-v-24 { background-image: url(//badges.instagram.com/static/images/ig-badge-view-sprite-24@2x.png); background-size: 160px 178px; } }</style>
-<a href="http://instagram.com/magnifiedjoy?ref=badge" class="ig-b- ig-b-v-24"><img src="//badges.instagram.com/static/images/ig-badge-view-24.png" alt="Instagram" /></a></div>
+<a href="http://instagram.com/magnifiedjoy?ref=badge" class="ig-b- ig-b-v-24"><img src="//badges.instagram.com/static/images/ig-badge-view-24.png" alt="Instagram" /></a></dd></div>
 
 ## Twitter
 - Follow [@magnifiedjoy](https://twitter.com/magnifiedjoy) on Twitter, tweet out the #travelingjoy photo with the hashtag #travelingjoy.You can share once a day for the duration of the giveaway. 
-<div class="center"><a href="https://twitter.com/magnifiedjoy" class="twitter-follow-button" data-show-count="false">Follow @magnifiedjoy</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div>
+<div class="center"><dd><a href="https://twitter.com/magnifiedjoy" class="twitter-follow-button" data-show-count="false">Follow @magnifiedjoy</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></dd></div>
 
 ## Google+
 - Follow us on [Google+](https://google.com/+Magnifiedjoyphotography), share the #travelingjoy photo on your Google+ account with the hashtag #travelingjoy. You can share once a day for the duration of the giveaway.
