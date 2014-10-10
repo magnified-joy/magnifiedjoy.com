@@ -6,6 +6,23 @@ $(function() {
        });
   }
   
+  $(document).keydown(function(e){
+    switch(e.which) {
+        case 37: // left
+            var $c = $('.carousel');
+            $c.carousel('pause');
+            $c.carousel('prev');
+            e.preventDefault();
+        break;
+        case 39: // right
+            var $c = $('.carousel');
+            $c.carousel('pause');
+            $c.carousel('next');
+            e.preventDefault();
+        break;
+    }
+  });
+  
   $('.carousel').carousel({
         interval:2000,
         pause: "false"
