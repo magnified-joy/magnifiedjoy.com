@@ -13,13 +13,13 @@ Magnified Joy Photography is proud to debut our new website! It's been several m
 
 Here's a peek at the calendar featuring one of my favorite images from Crested Butte, CO. The calendar will consist of 12 different image taken in Colorado by yours truly.
 
+*Special thanks* to [Sarah Barga Pollasch](http://www.sarahbargapollasch.com/) for the new branding, Matt Cook for beautiful new website, and [Julep Design Co.](http://www.julepdesignco.com/) for helping out with supporting branding graphics.
+
 ![travelingjoy calendar](https://googledrive.com/host/0B2YHeCssXjxzRzFfcHlPcFVoUlE/travelingjoy-calendar.jpg)
 
 Here's a look at the entire calendar.
 
 ![travelingjoy-full-calendar.jpg](https://googledrive.com/host/0B2YHeCssXjxzRzFfcHlPcFVoUlE/travelingjoy-full-calendar.jpg)
-
-*Special thanks* to [Sarah Barga Pollasch](http://www.sarahbargapollasch.com/) for the new branding, Matt Cook for beautiful new website, and [Julep Design Co.](http://www.julepdesignco.com/) for helping out with supporting branding graphics.
 
 ## Want a copy of this awesome limited edition calendar? Here's how you enter!
 
