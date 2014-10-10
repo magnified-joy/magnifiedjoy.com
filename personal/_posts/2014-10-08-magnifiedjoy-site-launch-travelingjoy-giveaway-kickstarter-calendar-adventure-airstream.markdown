@@ -23,7 +23,7 @@ Here's a look at the entire calendar.
 
 ## Newsletter
 - Sign up on our newsletter below. That's it! It's that simple.  (Counts as one entry)
-<div class="center"><dd><!-- Begin MailChimp Signup Form -->
+<dd><div class="center"><!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
@@ -43,23 +43,23 @@ Here's a look at the entire calendar.
 </div>
 
 <!--End mc_embed_signup-->
-<dd></dd>
-</div>
+
+</div></dd>
 
 ## Facebook
 - Like our [Facebook Page](http://fb.com/magnifiedjoy) and share our #travelingjoy photo to your wall. You can share once a day for the duration of the giveaway.
 
-<div class="center"><div class="fb-like-box" data-href="https://www.facebook.com//magnifiedjoy" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="false" data-show-border="false"></div></div>
+<dd><div class="center"><div class="fb-like-box" data-href="https://www.facebook.com//magnifiedjoy" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="false" data-show-border="false"></div></div></dd>
 
 ## Instagram
 - Follow [@magnifiedjoy](http://instagram.com/magnifiedjoy) on Instagram, share the #travelingjoy photo on your instagram account with the hashtag  #travelingjoy. You can share once a day for the duration of the giveaway. 
-<div class="center"><dd><style>.ig-b- { display: inline-block; }
+<dd><div class="center"><style>.ig-b- { display: inline-block; }
 .ig-b- img { visibility: hidden; }
 .ig-b-:hover { background-position: 0 -60px; } .ig-b-:active { background-position: 0 -120px; }
 .ig-b-v-24 { width: 137px; height: 24px; background: url(//badges.instagram.com/static/images/ig-badge-view-sprite-24.png) no-repeat 0 0; }
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
 .ig-b-v-24 { background-image: url(//badges.instagram.com/static/images/ig-badge-view-sprite-24@2x.png); background-size: 160px 178px; } }</style>
-<a href="http://instagram.com/magnifiedjoy?ref=badge" class="ig-b- ig-b-v-24"><img src="//badges.instagram.com/static/images/ig-badge-view-24.png" alt="Instagram" /></a></dd></div>
+<a href="http://instagram.com/magnifiedjoy?ref=badge" class="ig-b- ig-b-v-24"><img src="//badges.instagram.com/static/images/ig-badge-view-24.png" alt="Instagram" /></a></div></dd>
 
 ## Twitter
 - Follow [@magnifiedjoy](https://twitter.com/magnifiedjoy) on Twitter, tweet out the #travelingjoy photo with the hashtag #travelingjoy.You can share once a day for the duration of the giveaway. 
@@ -69,11 +69,11 @@ Here's a look at the entire calendar.
 ## Google+
 - Follow us on [Google+](https://google.com/+Magnifiedjoyphotography), share the #travelingjoy photo on your Google+ account with the hashtag #travelingjoy. You can share once a day for the duration of the giveaway.
 
-<div class="center"><!-- Place this tag in your head or just before your close body tag. -->
+<dd><div class="center"><!-- Place this tag in your head or just before your close body tag. -->
 <script src="https://apis.google.com/js/platform.js" async defer></script>
 
 <!-- Place this tag where you want the widget to render. -->
-<div class="g-follow" data-annotation="none" data-height="20" data-href="//plus.google.com/u/0/101318168120160496750" data-rel="publisher"></div></div>
+<div class="g-follow" data-annotation="none" data-height="20" data-href="//plus.google.com/u/0/101318168120160496750" data-rel="publisher"></div></div></dd>
 
 The more times you participate, the higher the change you will win! We will randomly pick one winner from each categories (Newsletter, Facebook, Instagram, Twitter, Google+) on October 13th, 11:59pm. 
 
