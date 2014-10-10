@@ -1,5 +1,6 @@
 ---
 title: Madison Kinfolk Foodie Wedding Gathering
+label: Kinfolk Inspired Foodie Wedding Shoot
 date: '2013-07-18 03:31:31 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/07/6-30-13-June-Blog-76a-480x375.jpg
 description: 'Kinfolk Magazine inspired wedding shoot centralized on the idea of local,

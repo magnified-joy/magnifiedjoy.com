@@ -9,9 +9,11 @@ keywords: kickstarter, airstream, calendar, #travelingjoy, traveling, joy, lands
 
 ![travelingjoy](https://googledrive.com/host/0B2YHeCssXjxzRzFfcHlPcFVoUlE/travelingjoy.jpg)
 
-Magnified Joy Photography is proud to debut our new website! It's been several months of hardwork and it's finally here! To kick off our new website, we are giving away 5 copies of our limited edition calendar, which will be one of the reward levels for our upcoming Kickstarter Project to fund a renovated airstream. More details on the Kickstarter Project to come.
+Magnified Joy Photography is proud to debut our new website! It's been several months of hardwork and it's finally here! *To kick off our new website and branding, we are giving away 5 copies of our limited edition calendar*, which will also be one of the reward levels for our upcoming Kickstarter Project to fund a renovated airstream. (More details on the Kickstarter Project to come.)
 
-Here's a peek at the calendar featuring one of my favorite images from Crested Butte, CO. The calendar will consist of a different image taken in Colorado for each month of the year taken by yours truly.
+Here's a peek at the calendar featuring one of my favorite images from Crested Butte, CO. The calendar will consist of 12 different image taken in Colorado by yours truly.
+
+*Special thanks* to [Sarah Barga Pollasch](http://www.sarahbargapollasch.com/) for the new branding, Matt Cook for beautiful new website, and [Julep Design Co.](http://www.julepdesignco.com/) for helping out with supporting branding graphics.
 
 ![travelingjoy calendar](https://googledrive.com/host/0B2YHeCssXjxzRzFfcHlPcFVoUlE/travelingjoy-calendar.jpg)
 
@@ -19,45 +21,61 @@ Here's a look at the entire calendar.
 
 ![travelingjoy-full-calendar.jpg](https://googledrive.com/host/0B2YHeCssXjxzRzFfcHlPcFVoUlE/travelingjoy-full-calendar.jpg)
 
-## Want a copy of this awesome limited edition calendar? Here's how you enter!
+## Want a copy of this awesome limited edition calendar? Here's how you enter! #
 
-## Newsletter
+## Newsletter #
 - Sign up on our newsletter below. That's it! It's that simple.  (Counts as one entry)
-<dd><!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
+<dd><div class="center bottom">
+<!-- Begin MailChimp Signup Form -->
+<h3>Subscribe to our monthly newsletter</h3>
 <div id="mc_embed_signup">
 <form action="//magnifiedjoy.us9.list-manage.com/subscribe/post?u=3d922b022cb0ef6b6ce2337d3&amp;id=0111d465ab" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	<label for="mce-EMAIL">Subscribe to our monnthly newsletter</label>
-	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <div class="center" id="mc_embed_signup_scroll">
+	<input style="width:400px" type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Enter your email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;"><input type="text" name="b_3d922b022cb0ef6b6ce2337d3_0111d465ab" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    <div class="clear"><input style="width:100px" type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-default"></div>
     </div>
 </form>
 </div>
 
 <!--End mc_embed_signup-->
-</dd>
 
-## Facebook
+
+
+</div></dd>
+
+
+## Facebook #
 - Like our [Facebook Page](http://fb.com/magnifiedjoy) and share our #travelingjoy photo to your wall. You can share once a day for the duration of the giveaway.
 
-## Instagram
+<dd><div class="center"><div class="fb-like-box" data-href="https://www.facebook.com//magnifiedjoy" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="false" data-show-border="false"></div></div></dd>
+
+## Instagram #
 - Follow [@magnifiedjoy](http://instagram.com/magnifiedjoy) on Instagram, share the #travelingjoy photo on your instagram account with the hashtag  #travelingjoy. You can share once a day for the duration of the giveaway. 
+<dd><div class="center"><style>.ig-b- { display: inline-block; }
+.ig-b- img { visibility: hidden; }
+.ig-b-:hover { background-position: 0 -60px; } .ig-b-:active { background-position: 0 -120px; }
+.ig-b-v-24 { width: 137px; height: 24px; background: url(//badges.instagram.com/static/images/ig-badge-view-sprite-24.png) no-repeat 0 0; }
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+.ig-b-v-24 { background-image: url(//badges.instagram.com/static/images/ig-badge-view-sprite-24@2x.png); background-size: 160px 178px; } }</style>
+<a href="http://instagram.com/magnifiedjoy?ref=badge" class="ig-b- ig-b-v-24"><img src="//badges.instagram.com/static/images/ig-badge-view-24.png" alt="Instagram" /></a></div></dd>
 
-## Twitter
+## Twitter #
 - Follow [@magnifiedjoy](https://twitter.com/magnifiedjoy) on Twitter, tweet out the #travelingjoy photo with the hashtag #travelingjoy.You can share once a day for the duration of the giveaway. 
+<dd><div class="center"><a href="https://twitter.com/magnifiedjoy" class="twitter-follow-button" data-show-count="false">Follow @magnifiedjoy</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></dd>
 
-## Google+
+## Google+ #
 - Follow us on [Google+](https://google.com/+Magnifiedjoyphotography), share the #travelingjoy photo on your Google+ account with the hashtag #travelingjoy. You can share once a day for the duration of the giveaway.
 
-The more times you participate, the higher the change you will win! We will randomly pick one winner from each categories (Newsletter, Facebook, Instagram, Twitter, Google+) on October 13th, 11:59pm. 
+<dd><div class="center"><!-- Place this tag in your head or just before your close body tag. -->
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+
+<!-- Place this tag where you want the widget to render. -->
+<div class="g-follow" data-annotation="none" data-height="20" data-href="//plus.google.com/u/0/101318168120160496750" data-rel="publisher"></div></div></dd>
+
+The more times you participate, the higher the change you will win! We will randomly pick one winner from each categories (Newsletter, Facebook, Instagram, Twitter, Google+) on October 15th, 11:59pm. 
 
 Anyone in anywhere in the world can enter. Rules are subject to change if we find people not playing fair. We'll update the rules here if anything changes.
 
