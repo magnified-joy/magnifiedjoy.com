@@ -38,11 +38,11 @@ Here's a look at the entire calendar.
 </style>
 <div id="mc_embed_signup">
 <form action="//magnifiedjoy.us9.list-manage.com/subscribe/post?u=3d922b022cb0ef6b6ce2337d3&amp;id=0111d465ab" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
+    <div class="center" id="mc_embed_signup_scroll">
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;"><input type="text" name="b_3d922b022cb0ef6b6ce2337d3_0111d465ab" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-default"></div>
+    <div class="clear"><input type="submit" value="Go" name="subscribe" id="mc-embedded-subscribe" class="btn btn-default"></div>
     </div>
 </form>
 </div>
