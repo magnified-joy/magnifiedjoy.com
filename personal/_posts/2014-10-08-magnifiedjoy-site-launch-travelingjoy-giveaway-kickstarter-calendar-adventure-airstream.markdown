@@ -25,10 +25,8 @@ Here's a look at the entire calendar.
 
 ## Newsletter
 - Sign up on our newsletter below. That's it! It's that simple.  (Counts as one entry)
+->### Subscribe to our monthly newsletter<-
 <dd><div class="center bottom">
-
-            <h3>Subscribe to our monthly newsletter</h3>
-
 <!-- Begin MailChimp Signup Form -->
 
 <div id="mc_embed_signup">
