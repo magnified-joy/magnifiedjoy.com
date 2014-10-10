@@ -9,7 +9,7 @@ keywords: kickstarter, airstream, calendar, #travelingjoy, traveling, joy, lands
 
 ![travelingjoy](https://googledrive.com/host/0B2YHeCssXjxzRzFfcHlPcFVoUlE/travelingjoy.jpg)
 
-Magnified Joy Photography is proud to debut our new website! It's been several months of hardwork and it's finally here! *To kick off our new website and branding, we are giving away 5 copies of our limited edition calendar*, which will also be one of the reward levels for our upcoming Kickstarter Project to fund a renovated airstream. (More details on the Kickstarter Project to come.)
+Magnified Joy Photography is proud to debut our new website! It's been several months of hard work and it's finally here! *To kick off our new website and branding, we are giving away 5 copies of our limited edition calendar*, which will also be one of the reward levels for our upcoming Kickstarter Project to fund a renovated airstream. (More details on the Kickstarter Project to come.)
 
 Here's a peek at the calendar featuring one of my favorite images from Crested Butte, CO. The calendar will consist of 12 different image taken in Colorado by yours truly.
 
