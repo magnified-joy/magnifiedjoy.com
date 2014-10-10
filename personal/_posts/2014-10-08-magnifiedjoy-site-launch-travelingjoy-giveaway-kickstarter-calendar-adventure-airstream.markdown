@@ -25,10 +25,9 @@ Here's a look at the entire calendar.
 
 ## Newsletter #
 - Sign up on our newsletter below. That's it! It's that simple.  (Counts as one entry)
-->### Subscribe to our monthly newsletter #<-
 <dd><div class="center bottom">
 <!-- Begin MailChimp Signup Form -->
-
+<h3>Subscribe to our monthly newsletter</h3>
 <div id="mc_embed_signup">
 <form action="//magnifiedjoy.us9.list-manage.com/subscribe/post?u=3d922b022cb0ef6b6ce2337d3&amp;id=0111d465ab" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div class="center" id="mc_embed_signup_scroll">
