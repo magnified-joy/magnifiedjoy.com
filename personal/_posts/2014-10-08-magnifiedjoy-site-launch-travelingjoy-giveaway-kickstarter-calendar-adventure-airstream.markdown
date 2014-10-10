@@ -21,11 +21,11 @@ Here's a look at the entire calendar.
 
 ![travelingjoy-full-calendar.jpg](https://googledrive.com/host/0B2YHeCssXjxzRzFfcHlPcFVoUlE/travelingjoy-full-calendar.jpg)
 
-## Want a copy of this awesome limited edition calendar? Here's how you enter!
+## Want a copy of this awesome limited edition calendar? Here's how you enter! #
 
-## Newsletter
+## Newsletter #
 - Sign up on our newsletter below. That's it! It's that simple.  (Counts as one entry)
-->### Subscribe to our monthly newsletter<-
+->### Subscribe to our monthly newsletter #<-
 <dd><div class="center bottom">
 <!-- Begin MailChimp Signup Form -->
 
@@ -47,12 +47,12 @@ Here's a look at the entire calendar.
 </div></dd>
 
 
-## Facebook
+## Facebook #
 - Like our [Facebook Page](http://fb.com/magnifiedjoy) and share our #travelingjoy photo to your wall. You can share once a day for the duration of the giveaway.
 
 <dd><div class="center"><div class="fb-like-box" data-href="https://www.facebook.com//magnifiedjoy" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="false" data-show-border="false"></div></div></dd>
 
-## Instagram
+## Instagram #
 - Follow [@magnifiedjoy](http://instagram.com/magnifiedjoy) on Instagram, share the #travelingjoy photo on your instagram account with the hashtag  #travelingjoy. You can share once a day for the duration of the giveaway. 
 <dd><div class="center"><style>.ig-b- { display: inline-block; }
 .ig-b- img { visibility: hidden; }
@@ -62,12 +62,12 @@ Here's a look at the entire calendar.
 .ig-b-v-24 { background-image: url(//badges.instagram.com/static/images/ig-badge-view-sprite-24@2x.png); background-size: 160px 178px; } }</style>
 <a href="http://instagram.com/magnifiedjoy?ref=badge" class="ig-b- ig-b-v-24"><img src="//badges.instagram.com/static/images/ig-badge-view-24.png" alt="Instagram" /></a></div></dd>
 
-## Twitter
+## Twitter #
 - Follow [@magnifiedjoy](https://twitter.com/magnifiedjoy) on Twitter, tweet out the #travelingjoy photo with the hashtag #travelingjoy.You can share once a day for the duration of the giveaway. 
 <dd><div class="center"><a href="https://twitter.com/magnifiedjoy" class="twitter-follow-button" data-show-count="false">Follow @magnifiedjoy</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div></dd>
 
-## Google+
+## Google+ #
 - Follow us on [Google+](https://google.com/+Magnifiedjoyphotography), share the #travelingjoy photo on your Google+ account with the hashtag #travelingjoy. You can share once a day for the duration of the giveaway.
 
 <dd><div class="center"><!-- Place this tag in your head or just before your close body tag. -->
