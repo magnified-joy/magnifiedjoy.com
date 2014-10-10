@@ -34,7 +34,7 @@ Here's a look at the entire calendar.
                 <div class="input-group center bottom">
                   <input type="email" value="" name="EMAIL" class="email form-control" id="mce-EMAIL" placeholder="Enter your email address" required>
                   <span class="input-group-btn">
-                    <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="btn btn-default" value="Go"/>
+                    <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="btn btn-default" value="Subscribe"/>
                   </span>
                 </div>
             </form>
