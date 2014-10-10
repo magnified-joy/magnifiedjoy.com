@@ -25,16 +25,16 @@ Here's a look at the entire calendar.
 - Sign up on our newsletter at the bottom of the site. That's it! It's that simple.  (Counts as one entry)
 
 ## Facebook
-- Like our Facebook Page and share our #travelingjoy photo to your wall. You can share once a day for the duration of the giveaway.
+- Like our [Facebook Page](http://fb.com/magnifiedjoy) and share our #travelingjoy photo to your wall. You can share once a day for the duration of the giveaway.
 
 ## Instagram
-- Follow [@magnifiedjoy](http://instagram.com/magnifiedjoy) on Instagram [smartphone users can click here](instagram://user?username=magnifiedjoy), share the #travelingjoy photo on your instagram account with the hashtag  #travelingjoy. You can share once a day for the duration of the giveaway.
+- Follow [@magnifiedjoy](http://instagram.com/magnifiedjoy) on Instagram, share the #travelingjoy photo on your instagram account with the hashtag  #travelingjoy. You can share once a day for the duration of the giveaway. 
 
 ## Twitter
-- Follow [@magnifiedjoy](twitter://user?id=2688526380) on Twitter, tweet out the #travelingjoy photo with the hashtag #travelingjoy.You can share once a day for the duration of the giveaway.
+- Follow [@magnifiedjoy](https://twitter.com/magnifiedjoy) on Twitter, tweet out the #travelingjoy photo with the hashtag #travelingjoy.You can share once a day for the duration of the giveaway. 
 
 ## Google+
-- Follow us on Google+, share the #travelingjoy photo on your Google+ account with the hashtag #travelingjoy. You can share once a day for the duration of the giveaway.
+- Follow us on [Google+](https://google.com/+Magnifiedjoyphotography), share the #travelingjoy photo on your Google+ account with the hashtag #travelingjoy. You can share once a day for the duration of the giveaway.
 
 The more times you participate, the higher the change you will win! We will randomly pick one winner from each categories (Newsletter, Facebook, Instagram, Twitter, Google+) on October 13th, 11:59pm. 
 
