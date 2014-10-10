@@ -23,7 +23,7 @@ Here's a look at the entire calendar.
 
 ## Newsletter
 - Sign up on our newsletter below. That's it! It's that simple.  (Counts as one entry)
--><dd><!-- Begin MailChimp Signup Form -->
+<dd><!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
@@ -44,12 +44,12 @@ Here's a look at the entire calendar.
 
 <!--End mc_embed_signup-->
 </dd>
-<-
+
 ## Facebook
 - Like our [Facebook Page](http://fb.com/magnifiedjoy) and share our #travelingjoy photo to your wall. You can share once a day for the duration of the giveaway.
-->
+
 <dd><div class="fb-like-box" data-href="https://www.facebook.com//magnifiedjoy" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="false" data-show-border="false"></div></dd>
-<-
+
 
 ## Instagram
 - Follow [@magnifiedjoy](http://instagram.com/magnifiedjoy) on Instagram, share the #travelingjoy photo on your instagram account with the hashtag  #travelingjoy. You can share once a day for the duration of the giveaway. 
