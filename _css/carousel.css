@@ -68,17 +68,21 @@
 .carousel .btn.caption:hover{
     color:#565759;
 }
-
+#portfolioCarousel{
+    margin-top:70px;
+}
 #portfolioCarousel .item img{
-    width:auto;
+    width:100%;
     margin:0 auto;
     height:100%;
     max-width: none;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 #portfolioCarousel .item{
     text-align:center;
     overflow:hidden;
-    
 }
 
 #portfolioCarousel a.caption{
@@ -106,6 +110,9 @@
     background-color: rgba(247,247,247,0.75);
     padding: 10px 15px;
     width: 50px;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:contain;
 }
 #portfolioCarousel .carousel-control:hover{
     opacity:0.45;
@@ -123,26 +130,32 @@
 }
 
 @media (min-width: 768px) {
+    #portfolioCarousel{
+        margin-top:0px;
+    }
+    #portfolioCarousel .item img{
+        background-size:contain;
+    }
 
-#portfolioCarousel a.caption{
-    bottom: 0;
-    right: 0;
-    left:auto;
-    height:auto;
-    width:auto;
-    text-align:right;
-    background: rgba(247,247,247,0.75);
-}
+    #portfolioCarousel a.caption{
+        bottom: 0;
+        right: 0;
+        left:auto;
+        height:auto;
+        width:auto;
+        text-align:right;
+        background: rgba(247,247,247,0.75);
+    }
 
     .carousel, .carousel .item, .carousel-inner > .item > .img{
         height:520px;
     }
     .carousel-control.left img{
-    left: 60px;
-}
-.carousel-control.right img{
-    right: 60px;
-}
+        left: 60px;
+    }
+    .carousel-control.right img{
+        right: 60px;
+    }
     .carousel-control{
         top:0;
         bottom:0;
