@@ -9,7 +9,10 @@ $(function() {
         limit: 4,
         resolution: 'low_resolution',
         sortBy: 'most-recent',
-        accessToken: ACCESS_TOKEN
+        accessToken: ACCESS_TOKEN,
+        after: function(){
+                $('#instafeed a').attr('target','_blank');
+        }
     }).run();
     
 });

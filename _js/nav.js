@@ -6,6 +6,13 @@ $(function() {
        });
   }
   
+  $('a').each(function(){
+    var href = $(this).attr('href');
+    if(href.indexOf('://') >= 0 && !href.indexOf(window.location.host) >= 0){
+        $(this).attr('target','_blank');
+    }
+  });
+  
   $(document).keydown(function(e){
     switch(e.which) {
         case 37: // left
