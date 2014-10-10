@@ -336,6 +336,7 @@ input.btn:hover{
 .thumbnail, a.thumbnail{
     background:#565759;
     border:none;
+    overflow:hidden;
 }
 .content a.thumbnail:hover, .content a.thumbnail{
     border:none;
@@ -343,6 +344,7 @@ input.btn:hover{
 .thumbnail:hover .caption{
     display: block;
     visibility:visible;
+    overflow:hidden;
 }
 .thumbnail img{
     width:100%;
