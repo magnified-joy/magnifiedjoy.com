@@ -67,9 +67,6 @@
 .carousel .btn.caption:hover{
     color:#565759;
 }
-#portfolioCarousel{
-    margin-top:70px;
-}
 #portfolioCarousel .item img{
     width:100%;
     margin:0 auto;

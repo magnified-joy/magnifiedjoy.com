@@ -7,9 +7,7 @@ body,html{
     font-size:13px;
     letter-spacing:0.04em;
     line-height:1.6em;
-}
-body{
-    padding-top:70px;
+    padding-top:0px;
 }
 .hidden{
     display:none;
@@ -42,13 +40,6 @@ a:hover{
     color:#ff705c;
     border-color:#ff705c;
     text-decoration:none;
-}
-.navigation{
-    position:absolute;
-    top:0;
-    left:0;
-    background:#fff;
-    width:100%;
 }
 .navigation .logo{
     margin:9px 0 5px -10px;
