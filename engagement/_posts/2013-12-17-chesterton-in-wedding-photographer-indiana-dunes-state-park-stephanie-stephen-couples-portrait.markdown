@@ -19,16 +19,3 @@ keywords: romantic, fun, spontaneous, couples, portrait, engagement, stephen, st
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/12/SS-Blog-003_WEB.jpg" alt="SS Blog-003_WEB" width="1500" height="1068" class="alignnone size-full wp-image-4168" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/12/SS-Blog-004_WEB.jpg" alt="SS Blog-004_WEB" width="1500" height="1068" class="alignnone size-full wp-image-4169" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/12/SS-Blog-005_WEB.jpg" alt="SS Blog-005_WEB" width="1500" height="1068" class="alignnone size-full wp-image-4170" /></p>
-<div class="calltoaction-button-container">
-<div class="call-recentwork">
-		<a href="http://weddings.magnifiedjoy.com/recent-work/"><img src="http://weddings.magnifiedjoy.com/action-icons/recent-work.png"></a>
-	</div>
-<div class="call-contactcoffee">
-		<a href="http://weddings.magnifiedjoy.com/contact/"><img src="http://weddings.magnifiedjoy.com/action-icons/coffee.png"></a>
-	</div>
-<div class="call-lovefacebook">
-		<a href="http://www.fb.com/magnifiedjoy"><img src="http://weddings.magnifiedjoy.com/action-icons/facebook.png"></a>
-	</div>
-</div>
-<p><br/></p>
-<div></div>

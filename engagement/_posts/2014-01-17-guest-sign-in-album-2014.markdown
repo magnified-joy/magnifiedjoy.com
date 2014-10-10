@@ -1,5 +1,6 @@
 ---
 title: Guest Sign In Album
+label: Guest Sign In Album
 date: '2014-01-17 16:09:31 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/IMG_1068-480x375.jpg
 description: Artisan Guest Sign In Album is the perfect way to display your engagement
