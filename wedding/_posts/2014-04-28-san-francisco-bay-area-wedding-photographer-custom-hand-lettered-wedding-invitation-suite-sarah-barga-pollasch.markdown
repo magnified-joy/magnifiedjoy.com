@@ -1,6 +1,6 @@
 ---
-title: San Francisco, Bay Area Wedding Photographer | Custom Hand Lettered Wedding
-  Invitation Suite | Sarah Barga Pollasch
+title: San Francisco, Bay Area Wedding Photographer | Custom Hand Lettered Wedding Invitation Suite | Sarah Barga Pollasch
+label: Custom Hand Lettered Wedding Invitation Suite
 date: '2014-04-28 18:22:46 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/04/IMG_0379-480x375.jpg
 ---
