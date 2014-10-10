@@ -28,7 +28,7 @@ Here's a look at the entire calendar.
 - Like our Facebook Page and share our #travelingjoy photo to your wall. You can share once a day for the duration of the giveaway.
 
 ## Instagram
-- Follow [@magnifiedjoy](instagram://user?username=magnifiedjoy) on Instagram, share the #travelingjoy photo on your instagram account with the hashtag  #travelingjoy. You can share once a day for the duration of the giveaway.
+- Follow [@magnifiedjoy](http://instagram.com/magnifiedjoy) on Instagram [smartphone users can click here](instagram://user?username=magnifiedjoy), share the #travelingjoy photo on your instagram account with the hashtag  #travelingjoy. You can share once a day for the duration of the giveaway.
 
 ## Twitter
 - Follow [@magnifiedjoy](twitter://user?id=2688526380) on Twitter, tweet out the #travelingjoy photo with the hashtag #travelingjoy.You can share once a day for the duration of the giveaway.
