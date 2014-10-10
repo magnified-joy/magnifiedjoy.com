@@ -50,12 +50,13 @@ Here's a look at the entire calendar.
 
 <dd><div class="fb-like-box" data-href="https://www.facebook.com//magnifiedjoy" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="false" data-show-border="false"></div></dd>
 
-
 ## Instagram
 - Follow [@magnifiedjoy](http://instagram.com/magnifiedjoy) on Instagram, share the #travelingjoy photo on your instagram account with the hashtag  #travelingjoy. You can share once a day for the duration of the giveaway. 
 
 ## Twitter
 - Follow [@magnifiedjoy](https://twitter.com/magnifiedjoy) on Twitter, tweet out the #travelingjoy photo with the hashtag #travelingjoy.You can share once a day for the duration of the giveaway. 
+<dd><a href="https://twitter.com/magnifiedjoy" class="twitter-follow-button" data-show-count="false">Follow @magnifiedjoy</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></dd>
 
 ## Google+
 - Follow us on [Google+](https://google.com/+Magnifiedjoyphotography), share the #travelingjoy photo on your Google+ account with the hashtag #travelingjoy. You can share once a day for the duration of the giveaway.
