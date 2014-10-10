@@ -1,6 +1,6 @@
 ---
-title: travelingjoy site launch giveaway | kickstarter calendar | adventure | airstream
-label: travelingjoy
+title: Magnified Joy site launch #travelingjoy giveaway | kickstarter calendar | adventure | airstream 
+label: Site Launch #travelingjoy giveaway
 thumbnail: https://googledrive.com/host/0B2YHeCssXjxzRzFfcHlPcFVoUlE/travelingjoy-feature.jpg
 description: Magnified Joy New Site Launch #travelingjoy calendar giveaway featuring limited edition Kickstarter calendar
 keywords: kickstarter, airstream, calendar, #travelingjoy, traveling, joy, landscape, colorado, crested butte, adventure, road trip, USA
