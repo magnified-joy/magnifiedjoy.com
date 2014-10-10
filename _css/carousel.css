@@ -67,13 +67,15 @@
 .carousel .btn.caption:hover{
     color:#565759;
 }
-
+#portfolioCarousel{
+    margin-top:70px;
+}
 #portfolioCarousel .item img{
     width:100%;
     margin:0 auto;
     height:100%;
     max-width: none;
-    background-size: contain;
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -127,6 +129,12 @@
 }
 
 @media (min-width: 768px) {
+    #portfolioCarousel{
+        margin-top:0px;
+    }
+    #portfolioCarousel .item img{
+        background-size:contain;
+    }
 
     #portfolioCarousel a.caption{
         bottom: 0;
