@@ -1,9 +1,9 @@
 # Site settings
 title: Magnified Joy Photography
 description: 
-baseurl: "/magnifiedjoy.com" 
+baseurl: ""
 permalink: /:categories/:title/
-url: "http://magnified-joy.github.io/magnifiedjoy.com" 
+url: "http://www.magnifiedjoy.com"
 include: ['_css','_js','_img']
 defaults:
   -
