@@ -61,6 +61,12 @@ Here's a look at the entire calendar.
 ## Google+
 - Follow us on [Google+](https://google.com/+Magnifiedjoyphotography), share the #travelingjoy photo on your Google+ account with the hashtag #travelingjoy. You can share once a day for the duration of the giveaway.
 
+<dd><!-- Place this tag in your head or just before your close body tag. -->
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+
+<!-- Place this tag where you want the widget to render. -->
+<div class="g-follow" data-annotation="none" data-height="20" data-href="//plus.google.com/u/0/101318168120160496750" data-rel="publisher"></div></dd>
+
 The more times you participate, the higher the change you will win! We will randomly pick one winner from each categories (Newsletter, Facebook, Instagram, Twitter, Google+) on October 13th, 11:59pm. 
 
 Anyone in anywhere in the world can enter. Rules are subject to change if we find people not playing fair. We'll update the rules here if anything changes.
