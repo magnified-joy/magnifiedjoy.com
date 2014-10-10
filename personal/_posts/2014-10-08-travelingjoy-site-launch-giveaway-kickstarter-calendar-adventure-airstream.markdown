@@ -23,32 +23,15 @@ Here's a look at the entire calendar.
 
 ## Newsletter
 - Sign up on our newsletter at the bottom of the site. That's it! It's that simple.  (Counts as one entry)
-<!-- Begin MailChimp Signup Form -->
-<dd>
-        <div class="col-md-12">
-            <h3>Subscribe to our monthly newsletter</h3>
-            
-            <form action="//magnifiedjoy.us9.list-manage.com/subscribe/post?u=3d922b022cb0ef6b6ce2337d3&amp;id=0111d465ab" role="form" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                <input type='hidden' name='redirect_to' value='{{ site.url }}/contact/thanks' class="hidden" />
-                <div style="position: absolute; left: -5000px;"><input type="text" name="b_3d922b022cb0ef6b6ce2337d3_0111d465ab" tabindex="-1" value=""></div>
-                <div class="input-group">
-                  <input type="email" value="" name="EMAIL" class="email form-control" id="mce-EMAIL" placeholder="Enter your email address" required>
-                  <span class="input-group-btn">
-                    <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="btn btn-default" value="Go"/>
-                  </span>
-                </div>
-            </form>
-        </div>
-</dd>
 
 ## Facebook
 - Like our Facebook Page and share our #travelingjoy photo to your wall. You can share once a day for the duration of the giveaway.
 
 ## Instagram
-- Follow @magnifiedjoy on Instagram, share the #travelingjoy photo on your instagram account with the hashtag  #travelingjoy. You can share once a day for the duration of the giveaway.
+- Follow [@magnifiedjoy](instagram://user?username=magnifiedjoy) on Instagram, share the #travelingjoy photo on your instagram account with the hashtag  #travelingjoy. You can share once a day for the duration of the giveaway.
 
 ## Twitter
-- Follow @magnifiedjoy on Twitter, tweet out the #travelingjoy photo with the hashtag #travelingjoy.You can share once a day for the duration of the giveaway.
+- Follow [@magnifiedjoy](twitter://user?id=2688526380) on Twitter, tweet out the #travelingjoy photo with the hashtag #travelingjoy.You can share once a day for the duration of the giveaway.
 
 ## Google+
 - Follow us on Google+, share the #travelingjoy photo on your Google+ account with the hashtag #travelingjoy. You can share once a day for the duration of the giveaway.
