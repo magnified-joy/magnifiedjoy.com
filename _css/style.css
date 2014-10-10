@@ -308,7 +308,7 @@ input.btn:hover{
     width: 60%;
     border: 2px solid #fff;
     padding: 0.5em 0;
-    font-size: 0.8em;
+    font-size: 0.45em;
     text-transform: uppercase;
     color:#fff;
       -webkit-transform: translateY(-50%);
@@ -322,7 +322,7 @@ input.btn:hover{
 }
 
 .thumbnail .caption strong{
-    font-size: 1.4em;
+    font-size: 1.25em;
 }
 
 .gallery .row > div > div{
@@ -430,9 +430,14 @@ blockquote, blockquote.blockquote-reverse{
     border:none;
 }
 @media (min-width: 768px) {
-
+    .thumbnail .caption{
+        font-size:0.8em;
+    }
 }
 @media (min-width: 992px) {
+    .thumbnail .caption{
+        font-size:0.8em;
+    }
     body{
         padding-top:120px;
     }
