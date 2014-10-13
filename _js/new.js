@@ -1,4 +1,7 @@
 $(function() {
+
+    var GEO_TIME = 500;
+
     $('input,textarea').change(update).keyup(update).on('paste',function(){setTimeout(update, 100);});
 
     $("#markdown").focus(function() {
@@ -20,7 +23,32 @@ $(function() {
      download();
   });
   
+  var geoTimeout;
+  var location = $('#location').val();
+  var geocoder = new google.maps.Geocoder();
+  var lat,lon;
+  
   function update(){
+    clearTimeout(geoTimeout);
+    geoTimeout = setTimeout(function(){
+        var newLocation = $('#location').val();
+        if(newLocation != location){
+            location = newLocation;
+            geocoder.geocode({ 'address': location }, function(results, status) {
+              if (status == google.maps.GeocoderStatus.OK) {
+                lat = results[0].geometry.location.k;
+                lon = results[0].geometry.location.B;
+                updateMarkdown();
+              }
+            });
+        }
+    },GEO_TIME);
+  
+    updateMarkdown();
+  
+  }
+  
+  function updateMarkdown(){
     var $f = $('#folder');
     var $i = $('#images');
     var f = $f.val();
@@ -32,6 +60,10 @@ $(function() {
     md += "thumbnail: "+$('#thumbnail').val()+"\n";
     md += "description: "+$('#description').val()+"\n";
     md += "keywords: "+$('#keywords').val()+"\n";
+    if(lat && lon){
+        md += "latitude: "+lat+"\n";
+        md += "longitude: "+lon+"\n";
+    }
     md += "---\n";
     md += $('#content').val()+"\n";
     for(var i = 0; i < files.length; i++){
@@ -41,7 +73,6 @@ $(function() {
   
     filename = $('#date').val()+'-'+title.toLowerCase().replace(/[^a-z0-9\s]/g,'').replace(/ +/g, " ").replace(/ /g,'-')+".markdown";
     $('#filename').text(filename);
-  
   }
   
   function download() {
