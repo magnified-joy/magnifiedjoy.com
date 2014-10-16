@@ -75,7 +75,7 @@ Here's a look at the entire calendar.
 <!-- Place this tag where you want the widget to render. -->
 <div class="g-follow" data-annotation="none" data-height="20" data-href="//plus.google.com/u/0/101318168120160496750" data-rel="publisher"></div></div></dd>
 
-The more times you participate, the higher the change you will win! We will randomly pick one winner from each categories (Newsletter, Facebook, Instagram, Twitter, Google+) on October 15th, 11:59pm. 
+The more times you participate, the higher the chance you will win! We will randomly pick one winner from each categories (Newsletter, Facebook, Instagram, Twitter, Google+) on October 15th, 11:59pm. 
 
 Anyone in anywhere in the world can enter. Rules are subject to change if we find people not playing fair. We'll update the rules here if anything changes.
 
