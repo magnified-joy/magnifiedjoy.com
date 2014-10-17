@@ -4,6 +4,15 @@
     <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
     <link rel="shortcut icon" href="{{ site.baseurl }}/_img/favicon.ico" type="image/x-icon">
     <link rel="icon" href="{{ site.baseurl }}/_img/favicon.ico" type="image/x-icon">
+    <meta property="og:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
+    <meta property="og:image" content="{% if page.image %}
+      {{ page.image }}
+      {% elsif page.thumbnail %}{{ page.thumbnail }}
+      {% elsif post.image %}{{ post.image }}
+      {% elsif post.thumbnail %}{{ post.thumbnail }}
+      {% else %}{{ site.image }}{% endif %}" />
     {% if page.description %}<meta name="description" content="{{ page.description }}" />{% endif %}
     {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}" />{% endif %}
     <link href='http://fonts.googleapis.com/css?family=Muli:300,300italic,400' rel='stylesheet' type='text/css'>
