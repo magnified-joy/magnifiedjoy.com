@@ -10,8 +10,6 @@ description: Simple but beautiful backyard wedding. Allison and Brian did a grea
 keywords: backyard wedding, madison, wisconsin, wedding, engagement, star, trek, fans
 ---
 <p>Simple but beautiful backyard wedding. Allison and Brian did a great job planning their backyard wedding! Everything was very well coordinated. Congratulations on starting this new phase of life together!</p>
-<p>To view their engagement session, <a href="http://weddings.magnifiedjoy.com/engagements/madison-wi-wedding-photographer-allison-brian-engagement">click here</a>.<br />
-To order prints from their wedding, <a href="http://magnifiedjoy.smugmug.com/">click here</a>. Password is Allison's maiden name.</p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/08/AB-Wedding-Blog001.jpg" alt="AB Wedding Blog001" width="1500" height="1183" class="alignnone size-full wp-image-3343" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/08/AB-Wedding-Blog002.jpg" alt="AB Wedding Blog002" width="1500" height="1066" class="alignnone size-full wp-image-3344" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/08/AB-Wedding-Blog003.jpg" alt="AB Wedding Blog003" width="1500" height="1183" class="alignnone size-full wp-image-3345" /></p>
