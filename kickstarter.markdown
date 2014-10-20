@@ -29,13 +29,16 @@ We are launching a Kickstarter project to *acquire a renovated vintage Airstream
 
 Also, **join us** for our **Kickstarter Launch Party on Saturday, November 1**, where we'll be celebrating with free homemade food, drinks, live music, and some pretty sweet giveaways (featuring our exclusive Kickstarter rewards)! Everyone is welcome, so grab a couple friends, your kids and in-laws, or the whole office and come!
 
-Saturday, November 1, 4-7pm
-2614 Kendall Avenue
+<div class="center">
+Saturday, November 1, 4-7pm<br/>
+2614 Kendall Avenue<br/>
 Madison, WI 53705
+</div>
 
 
 Follow us on Social Media:
 <dd><div class="center"><div class="fb-like-box" data-href="https://www.facebook.com//magnifiedjoy" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="false" data-show-border="false"></div></div></dd>
+
 <dd><div class="center"><style>.ig-b- { display: inline-block; }
 .ig-b- img { visibility: hidden; }
 .ig-b-:hover { background-position: 0 -60px; } .ig-b-:active { background-position: 0 -120px; }
