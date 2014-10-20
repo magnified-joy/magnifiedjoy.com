@@ -7,7 +7,10 @@ layout: narrow
 
 ![Kickstarter Logo](https://googledrive.com/host/0B2YHeCssXjxzNGVKVjBockI3YXc/kickstarter-logo.png)
 
-Thanks for stopping by. We are in the works of finalizing and launching our Kickstarter page. To be updated when we officially launch our Kickstarter Project, please subscribe to our newsletter here.
+We are launching a Kickstarter project to *acquire a renovated vintage Airstream so that we can live and work more sustainably on the road as we continue to build relationships, serve our clients, and capture people’s unique love stories all across the U.S.*
+
+**We will be launching our Kickstarter November 1-30.** In the meantime, please **subscribe to our newsletter so that you can get updates and join our #travelingjoy adventure!**
+
 <dd><div class="center bottom">
 <!-- Begin MailChimp Signup Form -->
 <h3>Subscribe to our monthly newsletter</h3>
@@ -25,6 +28,13 @@ Thanks for stopping by. We are in the works of finalizing and launching our Kick
 <!--End mc_embed_signup-->
 
 </div></dd>
+
+Also, **join us** for our **Kickstarter Launch Party on Saturday, November 1**, where we'll be celebrating with free homemade food, drinks, live music, and some pretty sweet giveaways (featuring our exclusive Kickstarter rewards)! Everyone is welcome, so grab a couple friends, your kids and in-laws, or the whole office and come!
+
+Saturday, November 1, 4-7pm
+2614 Kendall Avenue
+Madison, WI 53705
+
 
 Follow us on Social Media:
 <dd><div class="center"><div class="fb-like-box" data-href="https://www.facebook.com//magnifiedjoy" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="false" data-show-border="false"></div></div></dd>
