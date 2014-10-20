@@ -36,7 +36,8 @@ Madison, WI 53705
 </div>
 
 
-<div class="center"><h3>Follow us on Social Media:</h3></div>
+
+<div class="center"><h2>Follow us on Social Media:</h2></div>
 <dd><div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
