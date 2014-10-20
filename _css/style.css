@@ -33,8 +33,11 @@ a,a:hover{
 .content p a{
     border-bottom:1px dotted #919294;
 }
-.content > .row:first-child h1{
+.content > .row:first-child h1, .narrow > .col-md-8 > h1:first-child{
     margin-top:20px;
+}
+.narrow > .col-md-8 > h1:first-child{
+	text-align:center;
 }
 a:hover{
     color:#ff705c;
