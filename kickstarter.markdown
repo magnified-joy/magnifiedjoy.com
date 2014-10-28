@@ -2,6 +2,9 @@
 title: Kickstarter
 permalink: kickstarter/
 layout: narrow
+redirect_from:
+  - Kickstarter/
+  - kickstarter-launch/
 ---
 ![En Tao + Maria in front of Airstream - Runaround Sue](https://googledrive.com/host/0B2YHeCssXjxzNGVKVjBockI3YXc/airstream_and_us.jpg)
 
