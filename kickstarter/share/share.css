@@ -1,54 +1,4 @@
-html, body {
-    height: 100%;
-    margin: 0px;
-    padding: 0px;
-}
 
-body {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 14px;
-    color: #555;
-    min-height: 100%;
-    background-color: #eee;
-    background-image: url(/press/images/gray_jean.png);
-}
-
-* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
-
-
-a, a:visited, a:active, a:hover {
-    text-decoration: none;
-    outline: none;    
-}
-
-h1 {
-    background-color: #000;
-    color: #fff;
-    padding: 10px;
-    margin: 0px 0px 30px 0px;
-    text-align: center;
-}
-
-h2 {
-    color: #000;
-    margin: 0px 0px 20px 0px;
-    padding: 0px;
-}
-
-#welcome {
-    font-size: 14px;
-    color: #000;
-    padding: 10px;
-    background-color: #fff;
-    box-shadow: 0px 1px 1px rgba(0,0,0,0.3);
-    margin-bottom: 0px;
-    border-bottom: 1px solid rgba(0,0,0,0.1);
-}
-
-#container {
-    width: 900px;
-    margin: 0 auto;
-}
 
 #progress {
     background-color: #fff;
@@ -83,40 +33,8 @@ h2 {
     font-weight: bold;
 }
 
-#actions {
-    margin: 0px;
-    padding: 0px;
-    overflow: hidden;
-    list-style-type: none;
-}
-
-
-
-#actions li {
-    float: left;
-    width: 33%;
-    padding: 10px;
-    text-align: center;
-    border-right: 1px solid #bbb;
-    border-left: 1px solid #fff;
-}
-
-#actions li:nth-child(1) {
-    border-left: none;
-}
-
-#actions li:nth-child(2) {
-    width: 34%;
-}
-
-#actions li:nth-child(3) {
-    border-right: none;
-}
-
-
 
 button {
-    font-family: "Open Sans", sans-serif;
     font-weight: bold;
     background: #87C442;
     background-image: -webkit-gradient(linear,50% 0,50% 100%,color-stop(0%,#9FD04F),color-stop(100%,#87C442));
@@ -191,16 +109,4 @@ button.twitter {
     -o-box-shadow: inset 0 1px 0 0 #88c1ec;
     box-shadow: inset 0 1px 0 0 #88c1ec;
     text-shadow: #2578b4 0 1px 0;
-}
-
-#footer {
-    height: 50px;
-    position: fixed;
-    bottom: 0px;
-    left: 0px;
-    line-height: 50px;
-    color: #aaa;
-    text-align: center;
-    width: 100%;
-    
 }
