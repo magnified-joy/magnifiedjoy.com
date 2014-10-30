@@ -1,7 +1,9 @@
-
+#actions{
+	text-align:center;
+}
 
 #progress {
-    background-color: #fff;
+    background-color: #EEE;
     padding: 5px;
     margin-top: 0px;
     margin-bottom: 20px;
