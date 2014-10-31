@@ -19,8 +19,8 @@ This little illustration is a very simplified version of Magnified Joy's story t
 You can learn more about the airstream (nicknamed Runaround Sue) at the [New Prairie Construction's website.]:http://www.newprairieconstruction.com/airstream
 
 We also had the change to interview Julie, who is the president of New Prairie Construction:
-<div><iframe src="//player.vimeo.com/video/109392872?title=0&amp;byline=0&amp;portrait=0" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
-<div><iframe src="//player.vimeo.com/video/109392712?title=0&amp;byline=0&amp;portrait=0" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+<div><iframe src="//player.vimeo.com/video/109392872?title=0&amp;byline=0&amp;portrait=0" width="700" height="394" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+<div><iframe src="//player.vimeo.com/video/109392712?title=0&amp;byline=0&amp;portrait=0" width="700" height="394" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 
 We couldn't have pull together a project of this size without the help of the Kickstarter community. Thank you in advance! Special thanks to the individuals below who have played in big role in helping us put together our Kickstarter project.
