@@ -16,7 +16,7 @@ This little illustration is a very simplified version of Magnified Joy's story t
 
 ![About the airstream](https://googledrive.com/host/0B2YHeCssXjxzSG9aZUtxNjBUNXc/AbouttheAirstream.png)
 
-You can learn more about the airstream (nicknamed Runaround Sue) at the [New Prairie Construction's website.]:http://www.newprairieconstruction.com/airstream
+You can learn more about the airstream (nicknamed Runaround Sue) at the [New Prairie Construction's website.](http://www.newprairieconstruction.com/airstream)
 
 We also had the change to interview Julie, who is the president of New Prairie Construction:
 <div><iframe src="//player.vimeo.com/video/109392872?title=0&amp;byline=0&amp;portrait=0" width="700" height="394" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
