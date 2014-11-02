@@ -13,7 +13,7 @@ redirect_from:
 
 We are launching a Kickstarter project to *acquire a renovated vintage Airstream so that we can live and work more sustainably on the road as we continue to build relationships, serve our clients, and capture people’s unique love stories all across the U.S.*
 
-*We were planning on launching our Kickstarter on Nov 1, however we didn't realize that our project had to go through a review process first by Kickstarter before we can launch. Currently, our project is in a pending stage awaiting for aproval. We should be able to launch our project within a few days, so stay tuned!* 
+**We were planning on launching our Kickstarter on Nov 1, however we didn't realize that our project had to go through a review process first by Kickstarter before we can launch. Currently, our project is in a pending stage awaiting for aproval. We should be able to launch our project within a few days, so stay tuned!** 
 
 In the meantime, please **subscribe to our newsletter so that you can get updates and join our #travelingjoy adventure!**
 
