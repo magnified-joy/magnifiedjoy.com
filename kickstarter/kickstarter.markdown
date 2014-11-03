@@ -6,18 +6,13 @@ redirect_from:
   - Kickstarter/
   - kickstarter-launch/
 ---
-![En Tao + Maria in front of Airstream - Runaround Sue](https://googledrive.com/host/0B2YHeCssXjxzNGVKVjBockI3YXc/airstream_and_us.jpg)
-
-![Ready? Set? Hold up!](https://googledrive.com/host/0B2YHeCssXjxzNGVKVjBockI3YXc/hold-up2.jpg)
-![Kickstarter Logo](https://googledrive.com/host/0B2YHeCssXjxzNGVKVjBockI3YXc/kickstarter-logo.png)
+![En Tao + Maria in front of Airstream - Runaround Sue](https://googledrive.com/host/0B2YHeCssXjxzNGVKVjBockI3YXc/airstream_and_us1.jpg)
 
 We are launching a Kickstarter project to *acquire a renovated vintage Airstream so that we can live and work more sustainably on the road as we continue to build relationships, serve our clients, and capture people’s unique love stories all across the U.S.*
 
-**We were planning on launching our Kickstarter on Nov 1, however we didn't realize that our project had to go through a review process first by Kickstarter before we can launch. Currently, our project is in a pending stage awaiting for aproval. We should be able to launch our project within a few days, so stay tuned!** 
+We got our project approved by Kickstarter and have rescheduled our launch date! We are lauching on **November 5th** be sure to mark that on your calendar. 
 
-In the meantime, please **subscribe to our newsletter so that you can get updates and join our #travelingjoy adventure!**
-
-
+Also, please **subscribe to our newsletter so that you can get our Kickstarter updates and join our #travelingjoy adventure!**
 
 {% include subscribe.html %}
 
