@@ -6,11 +6,9 @@ redirect_from:
   - Kickstarter/
   - kickstarter-launch/
 ---
-![En Tao + Maria in front of Airstream - Runaround Sue](https://googledrive.com/host/0B2YHeCssXjxzNGVKVjBockI3YXc/airstream_and_us1.jpg)
+![Tomorrow is the launch date for Magnified Joy Photography Kickstarter](https://googledrive.com/host/0B2YHeCssXjxzNGVKVjBockI3YXc/tomorrow.jpg)
 
-We are launching a Kickstarter project to *acquire a renovated vintage Airstream so that we can live and work more sustainably on the road as we continue to build relationships, serve our clients, and capture people’s unique love stories all across the U.S.*
-
-We got our project approved by Kickstarter and have rescheduled our launch date! We are lauching on **November 5th** be sure to mark that on your calendar. 
+It's almost here! The moment we've all been waiting for. Magnified Joy's Kickstarter is launching tomorrow (Nov 5) at 11am CST. Be sure to sign up for our newsletter below to be the first to get the link when our Kickstarter launches!
 
 Also, please **subscribe to our newsletter so that you can get our Kickstarter updates and join our #travelingjoy adventure!**
 
