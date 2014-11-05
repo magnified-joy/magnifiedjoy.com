@@ -1,4 +1,6 @@
 <head>
+	{% if page.redirect %}<script type="text/javascript">window.location.replace( 
+"{{ page.redirect }}");</script>{% endif %}
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
