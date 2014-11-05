@@ -10,8 +10,6 @@ redirect_from:
 
 It's almost here! The moment we've all been waiting for. Magnified Joy's Kickstarter is launching tomorrow (Nov 5) at 11am CST. Be sure to sign up for our newsletter below to be the first to get the link when our Kickstarter launches!
 
-Also, please **subscribe to our newsletter so that you can get our Kickstarter updates and join our #travelingjoy adventure!**
-
 {% include subscribe.html %}
 
 
