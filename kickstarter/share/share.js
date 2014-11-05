@@ -15,14 +15,14 @@ $(function() {
             
             
             if ((screen.width < 480) || (screen.height < 480)) {
-                window.open ('http://www.facebook.com/share.php?u=http://www.magnifiedjoy.com/kickstarter', '', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width='+w+', height='+h+', top='+top+', left='+left);
+                window.open ('http://www.facebook.com/share.php?u=http://kck.st/1tIpwK8', '', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width='+w+', height='+h+', top='+top+', left='+left);
             } else {
-                window.open ('http://www.facebook.com/share.php?u=http://www.magnifiedjoy.com/kickstarter', '', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width='+w+', height='+h+', top='+top+', left='+left);   
+                window.open ('http://www.facebook.com/share.php?u=http://kck.st/1tIpwK8', '', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width='+w+', height='+h+', top='+top+', left='+left);   
             }
     });
     
     $('.twitter').on('click', function() {
-        var loc = encodeURIComponent('http://www.magnifiedjoy.com/kickstarter'),
+        var loc = encodeURIComponent('http://kck.st/1tIpwK8'),
                 title = "Magnified Joy Photography",
                 w = 580, h = 300,
                 left = (screen.width/2)-(w/2),
@@ -32,7 +32,7 @@ $(function() {
     });
     
     $('.play').on('click', function() {
-        window.location.href = "http://kck.st/TH0NAN";
+        window.location.href = "http://kck.st/1tIpwK8";
     });
     
 });
