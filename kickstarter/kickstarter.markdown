@@ -2,7 +2,7 @@
 title: Kickstarter
 permalink: kickstarter/
 layout: narrow
-#redirect: http://www.kickstarter.com
+redirect: http://www.kickstarter.com
 redirect_from:
   - Kickstarter/
   - kickstarter-launch/
