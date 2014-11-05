@@ -23,7 +23,7 @@ $(function() {
     
     $('.twitter').on('click', function() {
         var loc = encodeURIComponent('http://kck.st/1tIpwK8'),
-                title = "Check out this cool #Kickstarter project by our friends at @magnifiedjoy",
+                title = "Check out this cool &#35;Kickstarter project by our friends at @magnifiedjoy",
                 w = 580, h = 300,
                 left = (screen.width/2)-(w/2),
                 top = (screen.height/2)-(h/2);
