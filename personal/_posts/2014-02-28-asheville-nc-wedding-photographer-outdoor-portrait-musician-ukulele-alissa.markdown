@@ -3,6 +3,10 @@ title: Asheville, NC Wedding Photographer | Outdoor Portrait Musician Ukulele | 
 date: '2014-02-28 00:39:18 -0600'
 label: Alissa
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/02/Alissa-Feature-480x375.jpg
+keywords: North Carolina wedding photographers, Asheville wedding photographers, winter photo shoot, outdoor photo shoot, spontaneous photoshoot, ukelele
+latitude: 35.5950581
+longitude: -82.55148689999999
+
 ---
 
 During our roadtrip, we met up with our friend Alissa for a spontaneous photoshoot. Thanks for hosting us Alissa!

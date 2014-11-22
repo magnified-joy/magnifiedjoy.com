@@ -3,6 +3,10 @@ title: Shanghai China Adventures | China Trip Part 3 of 4 | SF Bay Area Wedding 
 label: Shanghai, China
 date: '2014-04-30 23:27:08 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/04/Shanghai-Feature-480x375.jpg
+keywords: Shanghai China, Astor House Hotel, destination weddings, Pearl Tower, Old City of Shanghai, pagodas, Chinese food porn, foodies, hairy crabs, Chinese noodles, Chinese dumplings, Shanghai Pudong International Airport
+latitude: 31.230416
+longitude: 121.473701
+
 ---
 <p>We've arrive in Shanghai via another sleeper train from Xian. Shanghai is a very modern city, it is the economic center of China. Transportation from the train station to our hotel was easy. </p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/04/MJP-Shanghai-Adventure-Wedding-Photographer-001.jpg" alt="MJP Shanghai Adventure Wedding Photographer 001" width="1500" height="1068" class="alignnone size-full wp-image-5325" /></p>

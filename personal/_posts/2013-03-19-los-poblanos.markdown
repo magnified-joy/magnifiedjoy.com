@@ -6,8 +6,9 @@ date: '2013-03-19 19:39:01 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/03/IMG_2763-480x375.jpg
 description: Travel - Our review on Los Poblanos in Los Ranchos de Albuquerque, NM!
   Amazing food, lovely staff, and awesome wedding venue!
-keywords: los, poblanos, los ranchos, albuquerque, nm, new mexico, wedding, venue,
-  amazing, food
+keywords: winter getaways, Albuquerque, New Mexico, Old Town Albuquerque, Los Poblanos Ranch, bed and breakfast inn, Edible magazine, kiva fireplace, lavender fields, homemade granola,  La Montanita food co-op, Grove Market & Cafe, Sandia Mountains, La Merienda restaurant, hot air balloon, La Quinta Cultural Center, John Gaw Meem architect, New Mexico North Valley, los ranchos, albuquerque, nm, new mexico, wedding, venue, amazing, food
+latitude: 35.110703
+longitude: -106.60999099999998
 ---
 <p><img class="alignnone size-full wp-image-2322" alt="Los Poblanos Albuquerque New Mexico Wedding Photographer 01" src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/03/Los-Poblanos-Albuquerque-New-Mexico-Wedding-Photographer-01.jpg" width="1500" height="1183" /></p>
 <p>This all started because I wanted to plan a surprise birthday trip for En Tao's birthday. I had a few goals in mind: I wanted to escape the Wisconsin winter for a few days; I wanted to use our United flight voucher to fly somewhere in the U.S.; I wanted to go somewhere fun that we've never been before; and I wanted to find a location that allowed both adventure and relaxation. </p>

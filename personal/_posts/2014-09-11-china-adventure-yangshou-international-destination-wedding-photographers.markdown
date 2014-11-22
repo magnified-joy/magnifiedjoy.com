@@ -3,6 +3,9 @@ title: China Adventure Yangshuo | International Destination Wedding Photographer
 label: Yangshuo, China
 date: '2014-09-11 22:22:56 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/09/YS-feature-480x375.jpg
+keywords: Chinese street food, Karst Mountains, bicycle tour, river rafting, bamboo rafts, water buffalo, cormorant fishing, kissing fish pedicure, rock climbing, kayaking, kumquat trees, tea plantation
+latitude: 24.778481
+longitude: 110.49659300000008
 ---
 <p>After a flight from Shanghai, we have finally arrived in Yangshuo, but not after landing in Guilin and a 2 hour taxi ride. We arrived tired and hungry. So we hit up some night street food! </p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/09/001-China-Adventure-Yangshou-International-Destination-Wedding-Photographer.jpg" alt="001 China Adventure Yangshou International Destination Wedding Photographer" width="1500" height="1068" class="alignnone size-full wp-image-6707" /></p>

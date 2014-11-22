@@ -4,6 +4,9 @@ title: 'Mercer, WI | Northwoods Minocqua Wedding Photographer | Annual Autumn Ar
 label: Mercer, WI Artists' Retreat
 date: '2013-10-13 15:17:47 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/10/IMG_9990-480x375.jpg
+keywords: Wisconsin Northwoods, autumn foliage, fall foliage, leaf peeping, Mercer, WI, Lake Trude, lakeside cabin, log cabin, canoes, fireplace, fireside, rustic retreat, weekend getaway
+latitude: 46.16687659999999
+longitude: -90.06326949999999
 ---
 <p>You know that smell? You know, the one of autumn. It’s as if the leaves were perspiring and giving off their unique adolescent scent. Their changing colors shows off their confidence, knowing that their peak beauty is vibrant yet fleeting. It’s that smell and the accompanying colors of the leaves that plucks a string in the chord of my heart. Oh yes, my heart melts with the autumn beauty.</p>
 <p><img class="alignnone size-full wp-image-3751" alt="Mercer 001" src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/10/Mercer-001.jpg" width="1500" height="1066" /></p>

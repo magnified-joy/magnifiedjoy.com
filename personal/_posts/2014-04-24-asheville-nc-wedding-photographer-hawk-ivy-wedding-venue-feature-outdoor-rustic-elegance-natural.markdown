@@ -4,6 +4,9 @@ title: Asheville, NC Wedding Photographer | Hawk + Ivy Wedding Venue Feature | O
 label: Hawk + Ivy, Asheville, NC
 date: '2014-04-24 22:50:08 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/04/2-7-14-Hawk-and-Ivy-060-480x375.jpg
+keywords: North Carolina wedding photographers, Asheville wedding photographers, North Carolina wedding venues, Asheville wedding venues, Hawk&Ivy, Barnardsville NC, holistic B&B, organic gardens, Appalachian Mountains
+latitude: 35.5950581
+longitude: -82.55148689999999
 ---
 <p>If you are looking for an outdoor venue for your upcoming wedding in Asheville surrounding area, be sure to check out <a href="http://www.hawkandivy.com">Hawk & Ivy</a>. Located just a quick twenty minutes drive from downtown Asheville on a 24 acre nature preserve in Barnardsville. When we visited Hawk & Ivy, we were greeted immediately by Garreth the dog (the official greeter of Hawk & Ivy), followed by the warm welcome of Eve & James, the hosts of Hawk & Ivy. Hawk & Ivy is the oldest organic, holistic B&B, renowned for their healthy, gourmet breakfasts, the beautiful organic gardens, and the simple elegance of our rooms.</p>
 <p>Garreth led us along on the property tour where we checked out the venue. We're blown away by the venue space! We love outdoor weddings! The ceremony site is perched on top of a hill with a jaw dropping backdrop of the Appalachian Mountains.</p>

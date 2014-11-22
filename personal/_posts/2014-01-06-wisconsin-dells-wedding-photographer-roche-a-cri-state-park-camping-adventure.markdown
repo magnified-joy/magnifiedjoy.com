@@ -3,6 +3,9 @@ title: Wisconsin Dells Wedding Photographer, Roche-A-Cri State Park Camping Adve
 label: Camping in Wisconsin
 date: '2014-01-06 18:54:38 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/Roche-A-Cri-State-Park-Feature1-480x375.jpg
+keywords: Wisconsin Dells camping, Roche-a-Cri State Park, foodie camping, foodies, Kinfolk magazine, foodie magazine, campfire salmon, grilled salmon, caprese salad, fresh roast corn, roadside stand, local ingredients, locavores
+latitude: 44.0030124
+longitude: -89.8196165
 ---
 <p>We absolutely love camping and the outdoors. We are also foodies. Although we don’t bring “everything but kitchen sink” with us camping (that’d be silly) we do know how to cook up a mad meal while camping. This is not to impress anyone. We just love food. We love good food. And camping just makes it all the more challenging and fun.</p>
 <p><img class="alignnone size-full wp-image-3633" alt="Roche-A-Cri State Park 001" src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/10/Roche-A-Cri-State-Park-001.jpg" width="1500" height="1183" /></p>

@@ -4,6 +4,9 @@ title: Madison, WI Wedding Photographer | Booyah | A Taste of Green Bay Culture 
 label: Booyah, Chicken Stew
 date: '2013-10-13 15:27:51 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/10/Booyah-6-480x375.jpg
+keywords: Madison, WI foodies, Madison Magazine, booyah chicken stew, Belgian pies, outdoor cooking, family dinner 
+latitude: 43.0730517
+longitude: -89.40123019999999
 ---
 <p>My brother was the one growing up who repeatedly ordered his burgers “just plain.”</p>
 <p>--“Ketchup, mustard, pickles, lettuce, onion, cheese?”</p>

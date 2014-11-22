@@ -4,6 +4,9 @@ title: San Francisco Wedding Photographer | Personal Travel | Mission District |
 label: Explore San Francisco
 date: '2013-11-29 03:22:30 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/11/SF-Cover-480x375.jpg
+keywords: San Francisco road trip, San Francisco mural art, San Francisco foodies, Pakwan Indian restaurant, Stanza coffee, Dandelion chocolate, fire juggling, San francisco at night,  Tartine Bakery & Cafe, Golden Gate Bridge, Golden Gate National Recreation Area., Crissy Field, Haight Strreet, Rosamunde Sausage Grill, Philz Coffee, Red Cafe, mariachi singer, City Lights bookstore, Chinatown, dim sum, Filbert Street, Coit Tower, Telegraph Hill, Lombard Street, Hyde Street, SF National Maritime Historic Park, aquatic park, beach sunset, Mission District, Ken Ken Ramen, roadside produce stand, organic local produce, Marin Community Farm Stands, Point Reyes National Lighthouse, ocean fog, Karl the Fog,  Drakes Bay Oyster Farm, Point Reyes Station, Coyuchi organic cotton, Point Reyes Cafe, wood-fired pizza, Marin headlands, Hawk Hill, farmer's market, Zipcar,  Wise Sons Jewish Delicatessen, skinnydipping, Baker's Beach, Clement Street, Cafe Bunn Mi, Precita Park Cafe, latte art, airbnb, Smitten Ice Cream 
+latitude: 37.7749295
+longitude: -122.41941550000001
 ---
 <p>Leaving the isthmus. Madison is beautiful, even at night.<br />
 <img class="alignnone size-full wp-image-3836" alt="San Francisco Adventure 001" src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/10/San-Francisco-Adventure-001.jpg" width="1500" height="1066" /></p>

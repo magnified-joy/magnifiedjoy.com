@@ -3,6 +3,9 @@ title: Xian China Adventure | International Destination Wedding Photographer
 label: Xian, China
 date: '2014-09-11 21:31:52 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/09/Xian-Feature-480x375.jpg
+keywords: Xian China, Xi'an Railway Station, Terracotta Warriors, Terracotta Army, Qin Shi Huang, Unesco World Heritage Site, Chinese Muslim cuisine, Mutton Paomo, Xi'an Bell Tower, Chinese street food, treet scene, Chinese food porn, Xi'an City Wall, Chengqiang, Xi'an Metro, Xi'an Subway
+latitude: 34.341568
+longitude: 108.94017499999995
 ---
 <p>After a sleeper train from Beijing, we woke up just in time for arrival to Xian, home of the Terracotta warriors.</p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/09/001-China-Adventure-Xian-International-Destination-Wedding-Photographer.jpg" alt="001 China Adventure Xian International Destination Wedding Photographer" width="1500" height="1068" class="alignnone size-full wp-image-6649" /></p>
