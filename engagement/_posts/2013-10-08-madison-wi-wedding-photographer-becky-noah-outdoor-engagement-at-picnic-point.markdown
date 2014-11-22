@@ -7,9 +7,9 @@ thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/10/9-27-13-B
 description: Becky and Noah were way too cute as they roasted marshmallows and shared
   their monster s'mores together at Picnic Point.  The romantic chemistry between
   the two of them was quite evident.
-keywords: Outdoor, engagement, picnic, point, madison, wisconsin, wi, UW, Madison,
-  UW-Madison, campfire, smore, adorable, cute, love, lifestyle, editorial, s'mores,
-  s'more, double, exposure, nature, woods, wedding, photographer
+keywords: Wisconsin wedding photographer, Madison WI wedding photographer, engagement photos, Lakeshore Nature Preserve, Lakeshore Path, University of Wisconsin Marching Band, Badger Band, autumn photo shoot, evening photo shoot, campfire, roasting marhmallows, s'mores, sparklers, Outdoor, engagement, picnic, point, madison, wisconsin, wi, UW, Madison, UW-Madison, campfire, smore, adorable, cute, love, lifestyle, editorial, s'mores, s'more, double, exposure, nature, woods, wedding, photographer
+latitude: 43.0730517
+longitude: -89.40123019999999
 ---
 <p>The warm glowing sun, the slight lake breeze, and the UW band's horns and drums resonating across the water set the tone for the beginning of a fun Friday night engagement session. <a href="http://lakeshorepreserve.wisc.edu/visit/picnicpoint.htm">Picnic Point</a> scored at the top of Becky + Noah's list for their favorite outdoor Madison hang-out location.</p>
 <p>As they enjoyed the stroll down <a href="http://lakeshorepreserve.wisc.edu/visit/lakeshorepath.htm">Lakeshore Path</a>, we got to know Noah's quirkiness and Becky's sweet smile. The romantic chemistry between the two of them was quite evident. As lovers of the outdoors, it wasn't too much to simply enjoy each other in their favorite setting--wading through the water, watching the sunset, and making s'mores at the lakeside campfire. Becky and Noah were way too cute as they roasted marshmallows and shared their monster s'mores together. Even the family of five raccoons came for a visit to see what all the fun was about at the campfire. Unfortunately they didn't get to share in the s'more action.</p>

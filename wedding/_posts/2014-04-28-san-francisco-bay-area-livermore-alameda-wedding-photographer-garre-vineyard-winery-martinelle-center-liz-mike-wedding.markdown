@@ -4,6 +4,9 @@ title: San Francisco Bay Area Livermore Alameda Wedding Photographer | Garre Vin
 label: Liz + Mike
 date: '2014-04-28 21:48:23 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/04/4-26-14-Liz-Mike-Wedding-128-480x375.jpg
+keywords: San Francisco, bay, California, Garre, Vineyard, Winery, Martinelle, American, Center, wine, outdoor wedding, cocktails, cork, california wedding photographer
+latitude: 37.6657331
+longitude: -121.69791429999998
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/04/Garre-Winery-Martinelle-Wedding-001.jpg" alt="Garre Winery Martinelle Wedding 001" width="1500" height="1068" class="alignnone size-full wp-image-5281" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/04/Garre-Winery-Martinelle-Wedding-002.jpg" alt="Garre Winery Martinelle Wedding 002" width="1500" height="1068" class="alignnone size-full wp-image-5282" /></p>

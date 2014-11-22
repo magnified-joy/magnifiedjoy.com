@@ -5,9 +5,9 @@ date: '2013-09-30 15:47:07 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/10/Feature-480x375.jpg
 description: 'Beautiful classy outdoor wedding at Stoughton Country Club in Stoughton,
   WI. Wedding color: Gray and Yellow. Sara + Jake had the hottest wedding of the year! '
-keywords: midwest, wedding photographer, engagement photographer, wisconsin, grey,
-  gray, yellow, color, wedding, stoughton, stoughton country club, country club, outdoor,
-  outdoor wedding
+keywords: midwest, wedding photographer, engagement photographer, wisconsin, grey, gray, yellow, color, wedding, stoughton, stoughton country club, country club, outdoor,outdoor wedding, Stoughton, Wisconsin, Wisconsin wedding photographer, country, club, American, interracial wedding, lake, golf, cart
+latitude: 43.0730517
+longitude: -89.40123019999999
 ---
 <p>We had the coldest day of the year when we shot their <a href="http://weddings.magnifiedjoy.com/engagements/sara-jakes-engagement-session-madison-wi-wedding-photographer/">engagement shoot</a> (12 °F with 16 mph wind speed), and the hottest day for their wedding (90 °F with 87% humidity)! That's quite a record! We had A LOT of fun photographing Sara + Jake on their <a href="http://weddings.magnifiedjoy.com/engagements/sara-jakes-engagement-session-madison-wi-wedding-photographer/">engagement</a>  and their <a href="http://weddings.magnifiedjoy.com/wedding/stoughton-wi-stoughton-country-club-wedding-sara-jake-outdoor-wedding/">wedding</a> despite the temperamental Wisconsin weather.<br/><br />
 Special thanks to the wonderful staff of <a href="http://www.stoughtoncountryclub.com/weddings-and-banquets/wedding-and-receptions">Stoughton Country Club</a>, <a href="http://www.discjockeymagic.com">D.J. Magic</a>, and <a href="http://www.timelessmemoriesphotobooth.com/">Timeless Memories Photobooth</a> who helped make this wedding a magical experience.<br/><br />

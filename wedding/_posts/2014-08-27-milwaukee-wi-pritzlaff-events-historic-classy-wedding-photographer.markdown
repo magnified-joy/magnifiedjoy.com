@@ -7,9 +7,10 @@ thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/08/KA-Weddin
 description: Kristen + Andy are adventure seekers! A big part of relationship was
   spent on traveling together across the country in their camper van. The classy rustic
   setting of the Pritzlaff was the perfect setting for their wedding.
-keywords: 'pritzlaff, historic, building, events, wedding, milwaukee, photographer,
-  milwaukee wedding photographer, engagement, classy, unique, creative, pier, adventure,
-  adventurous, camper, van, road trip, roadtrip, roadtrippers, '
+keywords: pritzlaff, historic, building, events, wedding, milwaukee, photographer, milwaukee wedding photographer, engagement, classy, unique, creative, pier, adventure, adventurous, camper, van, road trip, roadtrip, roadtrippers, theme wedding, lake, Wisconsin, Wisconsin wedding photographer
+latitude: 43.0389025
+longitude: -87.90647360000003
+
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/08/001-Pritzlaff-Events-Historic-Milwaukee-WI-Wedding-Classy-Ballroom.jpg" alt="001 Pritzlaff Events Historic Milwaukee, WI Wedding Classy Ballroom" width="1500" height="1050" class="alignnone size-full wp-image-6459" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/08/002-Pritzlaff-Events-Historic-Milwaukee-WI-Wedding-Classy-Ballroom.jpg" alt="002 Pritzlaff Events Historic Milwaukee, WI Wedding Classy Ballroom" width="1500" height="1050" class="alignnone size-full wp-image-6460" /></p>

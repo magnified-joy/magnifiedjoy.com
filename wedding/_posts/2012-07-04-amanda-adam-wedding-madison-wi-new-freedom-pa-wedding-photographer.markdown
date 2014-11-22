@@ -3,6 +3,10 @@ title: Amanda + Adam Wedding | Madison, WI | New Freedom, PA Wedding Photographe
 label: Amanda + Adam
 date: '2012-07-04 18:46:56 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/01/2013-01-23_0026-480x375.jpg
+keywords: Madison, Wisconsin, New Freedom, American Pennsylvania, Pennsylvania wedding photographer, birdcage veil, school bus, barn, farm, live band
+latitude: 39.7378811
+longitude: -76.7013609
+
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/03/New-Freedom-Pennsylvania-Wedding-Photographer-Rustic-Classic-Elegance-Amanda-Adam-01.jpg" alt="New Freedom Pennsylvania Wedding Photographer Rustic Classic Elegance Amanda Adam 01" width="1500" height="758" class="alignnone size-full wp-image-1838" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/03/New-Freedom-Pennsylvania-Wedding-Photographer-Rustic-Classic-Elegance-Amanda-Adam-02.jpg" alt="New Freedom Pennsylvania Wedding Photographer Rustic Classic Elegance Amanda Adam 02" width="1500" height="758" class="alignnone size-full wp-image-1839" /></p>

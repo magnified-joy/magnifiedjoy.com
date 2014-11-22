@@ -3,6 +3,9 @@ title: Middleton, WI Wedding Photographer | Pheasant Branch | Jane + Kyle Propos
 label: Jane + Kyle
 date: '2014-01-26 15:42:08 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/1-16-14-Jane-Kyle-Proposal-Engagement-HR-feature-480x375.jpg
+keywords: proposal photos, engagement photos, Wisconsin wedding photographer, Middleton WI wedding photographer, Pheasant Branch, winter photo shoot, outdoor photo shoot, snowy weather, down on one knee, old-fashioned proposal, romantic proposal, interracial couple, diamond ring, balloons
+latitude: 43.0730517
+longitude: -89.40123019999999
 ---
 <p>This was our first time we had the opportunity to document a proposal! Kyle contacted us about a week before and we coordinated a game plan so that he could propose to Jane on her birthday at Pheasant Branch. We told Jane that we needed to "test out a new technique" so we asked her if she + Kyle wouldn't mind being our subjects for a quick photo shoot at Pheasant Branch. Even though she knew she had birthday plans that day, she conceded to help us out for an hour. Little did she know that Kyle had prepared his proposal at the top of the hill at Pheasant Branch. So we started out at the trail head with some "test shots" and En Tao strategically led them up to the top of the hill, where he wanted to continue his "new technique" from a different vantage point. At the top, Kyle had prepared hand-drawn signs, hung from the branches of an old, beautiful tree, overlooking the open lands and tributaries of Pheasant Branch. We'll let the pictures tell the story, but as you can imagine, she said "Yes!" </p>
 <p>We were so blessed to be able to photograph this special, breathless moment of Kyle asking Jane to marry him, and the following moments of pure JOY! Need we say more? Many blessings to Jane + Kyle as they plan their wedding and the rest of their lives together! </p>

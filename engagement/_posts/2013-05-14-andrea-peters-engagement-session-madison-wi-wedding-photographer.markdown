@@ -5,8 +5,9 @@ date: '2013-05-14 21:03:12 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/05/5-4-13-Andrea-and-Peter-Engagement-Color-92-480x375.jpg
 description: Spring time engagement session of two coffee lovers. Photos around Madison's
   capital square. Magnified Joy Photography - Madison Wedding Photographers
-keywords: altera, coffee, spring, engagement, madison, capital, young, couple, square,
-  wedding, photography, photographer
+keywords: Wisconsin wedding photographer, Madison WI wedding photographer, engagement photos, springtime, artistic photos, black-and-white photos, Wisconsin State Capitol, rooftop garden, Madison WI skyline, urban photo shoot, latte art,  Alterra Coffee, Capitol Square, industrial photo shoot, parking garage, altera, coffee, spring, engagement, madison, capital, young, couple, square, wedding, photography, photographer
+latitude: 43.0730517
+longitude: -89.40123019999999
 ---
 <p>Words cannot describe now happy I am for Andrea and Peter on their engagement. I’ve known Peter for a few years when we used to live in the same house together. Peter is a dear friend of mine and a multi-talented man. He is a very talented musician, barista, and chef. Andrea is a beautiful woman, both inside and out. She is always full of joy and laughter when I see her. Congratulations to you both, and we can’t wait for you two to begin the lifelong journey of happiness (and hardship… but mostly happiness) together!</p>
 <p><img class="alignnone size-full wp-image-2507" alt="2013-05-14_0001" src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/05/2013-05-14_0001.jpg" width="1500" height="1066" /></p>

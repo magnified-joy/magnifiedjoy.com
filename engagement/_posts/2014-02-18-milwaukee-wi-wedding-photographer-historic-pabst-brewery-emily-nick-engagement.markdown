@@ -4,6 +4,9 @@ title: 'Milwaukee, WI Wedding Photographer | Historic Pabst Brewery | Emily + Ni
 label: Emily + Nick
 date: '2014-02-18 19:59:09 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/02/emily-nick-feature-480x375.jpg
+keywords:  childhood sweethearts, cold-weather photo shoot, winter photo shoot, Wisconsin wedding photographers, Milwaukee wedding photographers, Pabst Brewery, cloudy weather, industrial photo shoot, urban photo shoot
+latitude: 43.0389025
+longitude: -87.90647360000003
 ---
 <p>Emily + Nick are a rare and super special love case--they have known each other their entire lives! Literally. Emily + Nick grew up going to school together, even being "locker buddies" as their last names start with the same letter. Emily described to me so well about how Nick meant different things to her at different points of their lives growing up together. Although friends for TWENTY years (!) before more seriously dating each other, these two are such sweet friends AND lovers! Nick is a courageous leader and a strong, but gentle man. Emily is so sweet and approachable, her sincerity is evident. Together, these two childhood friends make an inspiring and faithful couple, and we're so excited to see them grow even stronger together in marriage! </p>
 <p>Thank you Emily + Nick for braving the freezing Milwaukee weather and exploring some sweet historic downtown settings, including the <a href="http://pabstbrewingco.com/agegate/?backto=/" title="Pabst Brewing Company">Pabst Brewery</a> with us!</p>

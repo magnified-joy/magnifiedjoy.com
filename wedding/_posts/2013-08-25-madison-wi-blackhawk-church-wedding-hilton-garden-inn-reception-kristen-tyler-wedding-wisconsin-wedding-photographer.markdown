@@ -8,8 +8,10 @@ description: "Beautiful wedding located in Middleton, WI at Blackhawk Church. Re
   at Hilton Garden Inn.  Congratulations Kristen + Tyler. We are really excited to
   walk along side you two during your engagement season of life and seeing everything
   leading up to the wedding day! We wish you the best in your marriage!\r\n"
-keywords: beautiful, young, couple, blackhawk, church, love, hilton, garden, inn,
-  madison, wi, middleton, wisconsin
+keywords: beautiful, young, couple, blackhawk, church, love, hilton, garden, inn, madison, wi, middleton, wisconsin, Wisconsin wedding photographer, American,christian ceremony
+latitude: 43.0730517
+longitude: -89.40123019999999
+
 ---
 <p>Congratulations Kristen + Tyler. We are really excited to walk along side you two during your engagement season of life and seeing everything leading up to the wedding day! We wish you the best in your marriage!</p>
 <p><a href="http://weddings.magnifiedjoy.com/engagements/madison-wi-engagement-photographer-kristen-tyler/">Click here</a> to see their engagement photos.<br />

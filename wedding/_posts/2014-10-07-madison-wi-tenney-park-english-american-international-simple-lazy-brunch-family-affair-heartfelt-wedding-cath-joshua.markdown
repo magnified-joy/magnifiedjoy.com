@@ -3,7 +3,9 @@ title: Madison, WI Tenney Park English American International Simple Lazy Brunch
 label: Catherine + Joshua
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/10/Cath-Josh-Feature-480x375.jpg
 description: This beautiful wedding day has been a long time in coming. Cath & Joshua met and began dating while in graduate school in Belfast, Northern Ireland. Joshua being British and Cath being American, there were multiple legal hoops to jump through, piles of visa paperwork, and months of waiting before they got the green light for their marriage from the U.S. government. Finally reunited, this couple wanted to celebrate and affirm their love and commitment in front of friends and family at a casual late summer brunch.
-keywords: British, English, American, International, Brunch, Tenney, Park, Madison, Wisconsin, DIY
+keywords: madison wedding photographer, wisconsin wedding photographer, simple wedding, brunch wedding, British, English, American, International, Brunch, Tenney, Park, Madison, Wisconsin, DIY, Belfast, Ireland
+latitude: 43.0730517
+longitude: -89.40123019999999
 ---
 For one human being to love another human being: that is perhaps the most difficult task that has been entrusted to us, the ultimate task, the final test and proof, the work for which all other work is merely preparation. Loving does not at first mean merging, surrendering, and uniting with another person – it is a high inducement for the individual to ripen, to become something in himself, to become world, to become world in himself for the sake of another person; it is a great, demanding claim on him, something that chose him and calls him to vast distances.
 

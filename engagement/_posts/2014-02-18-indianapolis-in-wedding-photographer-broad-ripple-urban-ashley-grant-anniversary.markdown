@@ -4,6 +4,10 @@ title: Indianapolis, IN Wedding Photographer | Broad Ripple | Urban | Ashley + G
 label: Ashley + Grant
 date: '2014-02-18 21:18:05 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/02/2-4-14-Ashley-Grant-Portrait-WEB-023-480x375.jpg
+keywords:  cold-weather photo shoot, winter photo shoot, anniversary photos, Indiana wedding photographer, Indianapolis wedding photographer, one-year anniversary, Broad Ripple neighborhood, Monon Trail, dancing in the street, bundled up, snowy weather
+latitude: 39.768403
+longitude: -86.15806800000001
+
 ---
 <p>Ashley + Grant have passed their honeymoon phase, celebrating over one year of marriage together, and going for many, many more! Grant and I met years ago at a summer church camp in WI and have kept in touch since, even sharing Madison as our shared home base for the past couple of years, until Ashley + Grant moved to Indianapolis to help plant a new church, <a href="http://radiate.cc/" title="Radiate Church">Radiate</a>. Their willingness to uproot to a new city and their passion to serve their community is inspiring and encouraging. </p>
 <p>Ashley + Grant enjoy going for walks together around their Broad Ripple neighborhood, where little homes have been turned into locally-managed boutique shops and restaurants, the old train depot has been turned into a fabulous ice cream shop, and the abandoned rail lines have been converted into a beautiful 17-mile long <a href="http://www.indianatrails.com/content/monon-trail-%E2%80%93-indianapolis" title="Monon Trail">Monon Trail</a> for running and biking. Ashley + Grant's photo shoot was in the heart of their neighborhood in Indianapolis, a place that they now call home and are devoted to. </p>

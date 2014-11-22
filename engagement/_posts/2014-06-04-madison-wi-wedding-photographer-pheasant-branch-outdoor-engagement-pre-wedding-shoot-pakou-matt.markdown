@@ -4,6 +4,9 @@ title: Madison, WI Wedding Photographer | Pheasant Branch Outdoor Engagement Pre
 label: Pakou + Matt
 date: '2014-06-04 18:39:37 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/06/Pakou-Matt-Engagement-Feature-480x375.jpg
+keywords: Wisconsin wedding photographer, Madison, Wisconsin, outdoor photo shoot, pre-wedding photo shoot, engagement pictures, Pheasant Branch Creek Conservancy, nature, interracial couple
+latitude: 43.0730517
+longitude: -89.40123019999999
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/06/Pheasant-Branch-Madison-Middleton-WI-Engagement-Wedding-Pakou-Matt-001.jpg" alt="Pheasant Branch Madison Middleton WI Engagement Wedding Pakou Matt 001" width="1500" height="1068" class="alignnone size-full wp-image-5499" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/06/Pheasant-Branch-Madison-Middleton-WI-Engagement-Wedding-Pakou-Matt-002.jpg" alt="Pheasant Branch Madison Middleton WI Engagement Wedding Pakou Matt 002" width="1500" height="1068" class="alignnone size-full wp-image-5500" /></p>

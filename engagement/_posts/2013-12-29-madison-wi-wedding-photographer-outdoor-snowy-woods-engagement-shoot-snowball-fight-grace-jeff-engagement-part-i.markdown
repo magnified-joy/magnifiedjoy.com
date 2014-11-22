@@ -9,9 +9,9 @@ description: 'Grace + Jeff are one of the most bubbly and joyful couples we know
   genuine care to build friendships is evident. Their dating relationship is quite
   the same. Constantly smiling, laughing, learning, and playing, Grace + Jeff''s love
   for each other is fresh and childlike. '
-keywords: 'snow, snowy, madison, wisconsin, winter, engagement, woods, snowball, fight,
-  cold, midwest, colorado, grace, jeff, lifestyle, editorial, fun, organic, photoshoot,
-  outdoor, adventurous, thrill, seekers, northwoods, lumberjack '
+keywords: Wisconsin wedding photographer, Madison WI wedding photographer, outdoor photo shoot, winter photo shoot, snowball fight, whispering secrets, hand-holding,snow, snowy, madison, wisconsin, winter, engagement, woods, snowball, fight, cold, midwest, colorado, grace, jeff, lifestyle, editorial, fun, organic, photoshoot, outdoor, adventurous, thrill, seekers, northwoods, lumberjack
+latitude: 43.0730517
+longitude: -89.40123019999999
 ---
 <p>Grace + Jeff are one of the most bubbly and joyful couples we know. When you are in their presence, their smiles and laughter are contagious and their genuine care to build friendships is evident. Their dating relationship is quite the same. Constantly smiling, laughing, learning, and playing, Grace + Jeff's love for each other is fresh and childlike. </p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/12/2013-12-29_0003.jpg" alt="2013-12-29_0003" width="1500" height="1068" class="alignnone size-full wp-image-4216" /></p>

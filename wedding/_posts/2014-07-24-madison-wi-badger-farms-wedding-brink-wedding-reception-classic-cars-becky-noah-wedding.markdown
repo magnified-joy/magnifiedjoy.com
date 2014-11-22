@@ -4,6 +4,9 @@ title: Madison, WI | Badger Farms Wedding | Brink Wedding Reception | Classic Ca
 label: Becky + Noah
 date: '2014-07-24 23:19:56 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/07/Badger-Farms-Brink-Wedding-Becky-Noah-Feature-480x375.jpg
+keywords: Badger, farms, brink, classic, cars, Madison, Wisconsin, Wisconsin wedding photographer, outdoor wedding, hay, retro
+latitude: 43.0730517
+longitude: -89.40123019999999
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/07/Badger-Farms-Brink-Wedding-Becky-Noah-001.jpg" alt="Badger Farms Brink Wedding Becky Noah 001" width="1500" height="1068" class="alignnone size-full wp-image-6123" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/07/Badger-Farms-Brink-Wedding-Becky-Noah-002.jpg" alt="Badger Farms Brink Wedding Becky Noah 002" width="1500" height="596" class="alignnone size-full wp-image-6124" /></p>

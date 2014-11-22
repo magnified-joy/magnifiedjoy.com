@@ -7,7 +7,9 @@ thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/08/8-3-13-Al
 description: Simple but beautiful backyard wedding. Allison and Brian did a great
   job planning their backyard wedding.  Everything was very well coordinated. Congratulations
   on starting this new phase of life together.
-keywords: backyard wedding, madison, wisconsin, wedding, engagement, star, trek, fans
+keywords: Madison wedding photographer, Wisconsin wedding photographer, simple wedding, backyard wedding, wedding canopy, DIY wedding, outdoor wedding, summer wedding, wedding, engagement, star, trek, fans
+latitude: 43.0730517
+longitude: -89.40123019999999
 ---
 <p>Simple but beautiful backyard wedding. Allison and Brian did a great job planning their backyard wedding! Everything was very well coordinated. Congratulations on starting this new phase of life together!</p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/08/AB-Wedding-Blog001.jpg" alt="AB Wedding Blog001" width="1500" height="1183" class="alignnone size-full wp-image-3343" /></p>

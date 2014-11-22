@@ -7,9 +7,9 @@ thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/09/9-5-14-Fr
 description: 'Cross-cultural wedding - American with Malaysian Indian - Frankie +
   Daniel. 26 years ago Daniel was born in Malaysia. God already has a plan for him
   to be marrying an American girl in Wisconsin 26 years later. '
-keywords: 'christian, malaysian indian, american, indian, malaysian, indian fusion,
-  cross-culcutral, interracial, frankie, daniel, madison, wisconsin, wedding, photographer,
-  engagement, biracial, documentary, photography, madison, milwaukee, creative, '
+keywords: christian, malaysian indian, american, indian, malaysian, indian fusion, cross-culcutral, interracial, frankie, daniel, madison, wisconsin, wedding, photographer,engagement, biracial, documentary, photography, madison, milwaukee, creative, Interracial wedding, cross-cultural wedding, Indian wedding, fusion wedding, Madison, Wisconsin, henna, traditional, large wedding, church ceremony, American, India
+latitude: 43.0730517
+longitude: -89.40123019999999
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/09/001-Indian-Fusion-Wedding-Goodman-Center-City-Church-Frankie-Daniel-Interracial-Cross-Cultural.jpg" alt="001 Indian Fusion Wedding Goodman Center City Church Frankie Daniel Interracial Cross Cultural" width="1500" height="1184" class="alignnone size-full wp-image-6530" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/09/002-Indian-Fusion-Wedding-Goodman-Center-City-Church-Frankie-Daniel-Interracial-Cross-Cultural.jpg" alt="002 Indian Fusion Wedding Goodman Center City Church Frankie Daniel Interracial Cross Cultural" width="1500" height="1067" class="alignnone size-full wp-image-6531" /></p>

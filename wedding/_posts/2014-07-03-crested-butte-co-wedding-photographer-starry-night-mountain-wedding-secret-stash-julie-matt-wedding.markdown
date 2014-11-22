@@ -9,9 +9,9 @@ description: Julie + Matt's small intimate mountain town wedding in Crested Butt
   with Julie + Matt with townie takeover where bride and groom and their guests ride
   their bicycles around town. At the end of the night, beautiful starry night where
   we can see the Milky Way. Perfect beginning to a lifetime of happiness.
-keywords: 'crested butte, colorado, denver, vail, gunnison, aspen, durango, telluride,
-  southwest, wedding photographer, mountain, starry night, milky way, intimate, secret
-  stash, woods walk, woodswalk,  '
+keywords: crested butte, colorado, denver, vail, gunnison, aspen, durango, telluride, southwest, wedding photographer, mountain, starry night, milky way, intimate, secret stash, woods walk, woodswalk, American, colarado wedding photographer, nighttime wedding, Rocky mountains, bicycles, bike, ride, secret, stash, stars
+latitude: 38.8697146
+longitude: -106.98782310000001
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/07/Crested-Butte-Colorado-Mountain-Wedding-Photographer-Secret-Stash-Julie-Matt-001.jpg" alt="Crested Butte Colorado Mountain Wedding Photographer Secret Stash Julie Matt 001" width="1500" height="1068" class="alignnone size-full wp-image-5819" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/07/Crested-Butte-Colorado-Mountain-Wedding-Photographer-Secret-Stash-Julie-Matt-002.jpg" alt="Crested Butte Colorado Mountain Wedding Photographer Secret Stash Julie Matt 002" width="1500" height="1068" class="alignnone size-full wp-image-5820" /></p>

@@ -11,8 +11,9 @@ description: We are happy to show off our first-ever stylized wedding photo shoo
   Thank you to our fabulous models, Junice and Nathan, who were so much fun to work
   with! Please like us on <a href="http://www.facebook.com/magnifiedjoy">Facebook</a>
   to continue to follow our collaborative stylized wedding shoots this summer!
-keywords: classy, vintage, outdoor, madison, wisconsin, wedding, engagement, awesome,
-  boutique, rustic, sunset, unique
+keywords: classy, vintage, outdoor, madison, wisconsin, wedding, engagement, awesome, boutique, rustic, sunset, unique, vintage ceremony, outdoor ceremony, wisconsin wedding photographer, American, birdcage, veil, barn
+latitude: 43.0730517
+longitude: -89.40123019999999
 ---
 <p>We are happy to show off our first-ever stylized wedding photo shoot, themed "Classy Vintage Outdoor" wedding. It was a joy to collaborate with all of our vendors--Brandi's Bridal for the gown and veil, The Flower Shop for the floral arrangements, Be Inspired Salon for hair and makeup, and Hyart Gallery for the rings. Thank you to our fabulous models, Junice and Nathan, who were so much fun to work with! Please like us on <a href="http://www.facebook.com/magnifiedjoy">Facebook</a> to continue to follow our collaborative stylized wedding shoots this summer!</p>
 <p>Photography: <a href="http://www.magnifiedjoy.com">Magnified Joy Photography</a><br />

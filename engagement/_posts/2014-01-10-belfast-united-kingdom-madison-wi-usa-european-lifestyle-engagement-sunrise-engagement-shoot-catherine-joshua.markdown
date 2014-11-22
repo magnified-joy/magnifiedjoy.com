@@ -7,10 +7,9 @@ thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/cath-josh
 description: Cross cultural international love story. Cath found her true love and
   life partner, Josh, in Belfast, United Kingdom. A love and passion to travel around
   the world and dive into other cultures and languages.
-keywords: san francisco, california, cross cultural, european, american, ireland,
-  english, america, usa, immigration, engagement, belfast, madison, wi, wisconsin,
-  cold, winter, sunrise, coffee, altera, colectivo, breakfast, earl gray, english
-  breakfast, tea, kinfolk, lifestyle
+keywords: Christian couple, long—distance relationship, Wisconsin wedding photographer, Madison WI wedding photographer, Belfast UK, engagement photos, sapphire ring, Christmas wedding proposal, Boxing Day, sunrise photo shoot,  Lake Monona, snow photo shoot, winter photo shoot, playful photos, dancing, building a snowman, latte art, coffee shop, hipsters, tea drinking, foodie, breakfast, cinnamon rolls, calico cat, cross cultural, european, american, ireland, english, america, usa, immigration, engagement, belfast, madison, wi, wisconsin, cold, winter, sunrise, coffee, altera, colectivo, breakfast, earl gray, english breakfast, tea, kinfolk, lifestyle
+latitude: 43.0730517
+longitude: -89.40123019999999
 ---
 <p>These two crazy lovebirds were reunited at last! My heart delighted for them as much as they were in delight with each other. You see, Cath, one of my best friends, and fellow UW-Madison Internationals Studies major, found her true love and life partner in Belfast, United Kingdom. Cath has something in her blood, like I do--a passion to travel around the world and dive into other cultures and languages. It is no surprise that she found her soon-to-be husband while living and studying peace + conflict resolution in Northern Ireland. </p>
 <p>Joshua is English and Cath is American. Both were in Belfast studying abroad and met at a small house church, a tight-knit loving community of Christ-followers, known as <a href="http://www.villagebelfast.com/">Village</a>. In Cath's words, "About 20-30 people from all backgrounds (read: Protestants, Catholics, atheists, agnostics, "typical" Christians, etc) came together for services at my pastor's home. We also met during the week for a family-style meal and discussion. We discussed real life issues, theology, the Gospel, and the aches and pains and hilarities of life in Belfast. It wasn't unusual to head down to the pub with these pals and continue the conversations, or to get a coffee during the week to follow up with someone who needed a little extra support."</p>

@@ -7,8 +7,9 @@ thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/11/10-28-13-
 description: 'I''ve always wanted to do a sunrise session but never had anyone take
   up my offer until now. We are so glad these two took up our offer and conquered
   the cold (28°F) Wisconsin fall morning for their sunrise engagement session. '
-keywords: mark, heather, sunrise, engagement, session, madison, wisconsin, wedding,
-  photographer, fall, morning, cold, adventurous
+keywords: Wisconsin wedding photographer, Madison WI wedding photographer, autumn photo shoot, engagement photos, sunrise photo shoot, watching sunrise, Pheasant Branch Conservancy, hand-holding, diamond ring, sunrise, engagement, session, madison, wisconsin, wedding, photographer, fall, morning, cold, adventurous
+latitude: 43.0730517
+longitude: -89.40123019999999
 ---
 <p>It is not very often that we meet people as decisive, spontaneous, and adventurous as Heather and Mark. They were engaged for only a week before they contacted us for their wedding next year. The same day that they contacted us, we scheduled their engagement session for two days later... for sunrise. I've always wanted to do a sunrise session but never had anyone take up my offer. We are so glad these two took up our offer and conquered the cold (28°F) Wisconsin fall morning for their sunrise engagement session. </p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/11/2013-11-13_0001.jpg" alt="2013-11-13_0001" width="1500" height="1066" class="alignnone size-full wp-image-3976" /></p>

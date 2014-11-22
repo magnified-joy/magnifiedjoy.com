@@ -3,6 +3,9 @@ title: Madison, WI | MMoCA Wedding | Karina + Joseph Casual Intimate Wedding
 label: Karina + Joseph
 date: '2014-06-17 20:47:01 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/06/Karina-Joseph-Cover-480x375.jpg
+keywords: casual wedding, intimate wedding, Museum, American, Contemporary, Art, downtown, Orpheum, American, art, downtown, Madison, Wisconsin,  wisconsin wedding photographer
+latitude: 43.0730517
+longitude: -89.40123019999999
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/06/MMoCA-Wedding-Madison-WI-Karina-Joseph-001.jpg" alt="MMoCA Wedding Madison WI Karina Joseph 001" width="1500" height="760" class="alignnone size-full wp-image-5697" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/06/MMoCA-Wedding-Madison-WI-Karina-Joseph-002.jpg" alt="MMoCA Wedding Madison WI Karina Joseph 002" width="1500" height="1184" class="alignnone size-full wp-image-5698" /></p>

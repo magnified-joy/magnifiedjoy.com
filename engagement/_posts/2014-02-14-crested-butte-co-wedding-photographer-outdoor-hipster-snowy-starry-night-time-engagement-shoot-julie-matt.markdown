@@ -4,6 +4,9 @@ title: Crested Butte, CO Wedding Photographer | Outdoor Hipster Snowy Starry Nig
 label: Julie + Matt
 date: '2014-02-14 16:44:18 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/02/1-26-14-Julie-Matt-Engagement-HR-059-480x375.jpg
+keywords: engagement photos, Colorado wedding photographer, Crested Butte CO wedding photographer, mountain photo shoot, cold-weather photo shoot, snow-covered mountains, Rocky Mountains, bike riding, star gazing, coffee shop, old saloon, down jacket, outdoorsy, hipster couple
+latitude: 38.8697146
+longitude: -106.98782310000001
 ---
 <p>Congratulations to Julie + Matt on their engagement! It was a BLAST to hang out with them in the beautiful place that they get to call home (Julie calls it "paradise"). With the backdrop of the mountains and the quaint little boutique shops down the historic main street, walking and biking around was such an adventure. AND it was even warmer in Colorado than in Wisconsin! I'm sure the love that Julie + Matt radiated had something to do with it. ;)</p>
 <p>We can't wait to visit Crested Butte again this summer and photograph their wedding in the mountains!</p>

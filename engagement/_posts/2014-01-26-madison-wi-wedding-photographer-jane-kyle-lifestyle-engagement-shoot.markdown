@@ -3,6 +3,9 @@ title: Madison, WI Wedding Photographer | Jane + Kyle Lifestyle Engagement Shoot
 label: Jane + Kyle
 date: '2014-01-26 16:26:03 -0600'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/1-16-14-Jane-Kyle-Proposal-Engagement-WEB-104-480x375.jpg
+keywords: cooking photo shoot, chocolate pudding, foodie photos, food porn, lifestyle photo shoot, engagement photos, Wisconsin wedding photographer, Madison WI wedding photographer, couples cooking, singing, guitar playing, kitchen photo shoot, tea drinking, interracial couple
+latitude: 43.0730517
+longitude: -89.40123019999999
 ---
 <p>Jane + Kyle met in California, where they worked together at a little farm. It was at the farm that Jane + Kyle learned the secret recipe for the chocolate pudding from farmer Lorri. It is for that reason why it's so special to them. They love being able to share it with family and friends! So simple and yet so DELICIOUS. It's such a joy to spend time with friends over a warm (or cold) bowl of chocolate pudding. So Jane + Kyle thought it would be fun to document their chocolate pudding making for their lifestyle engagement shoot. Kyle chopped the chocolate blocks and Jane took stove-top control. They worked side-by-side to create their delectable dessert. We don't know if they had more fun making it or eating it, but they sure were cute as they stole spoonfuls out of each others' bowls! To top off the sweetness, Jane shared a bit of her singing and playing guitar with Kyle. May you two never forget the sweetness and fun of your chocolate pudding dating tradition!</p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/2014-01-26_0025.jpg" alt="2014-01-26_0025" width="1500" height="1068" class="alignnone size-full wp-image-4550" /></p>

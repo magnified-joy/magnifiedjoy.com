@@ -4,6 +4,9 @@ title: Madison, WI Wedding Photographer | Northern Light Church Middleton | Kati
 label: Katie + Colin
 date: '2014-06-14 15:52:57 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/06/Katie-Colin-Wedding-Feature-Image-1-480x375.jpg
+keywords: American, Wisconsin wedding photographer, madison, Wisconsin, Northern, Light, Church, Middleton, outdoor wedding, DIY, Christian wedding, doves, tent, reception
+latitude: 43.0730517
+longitude: -89.40123019999999
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/06/Madison-Wedding-Photographer-Katie-Colin-001.jpg" alt="Madison Wedding Photographer Katie Colin 001" width="1500" height="1068" class="alignnone size-full wp-image-5604" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/06/Madison-Wedding-Photographer-Katie-Colin-002.jpg" alt="Madison Wedding Photographer Katie Colin 002" width="1500" height="1184" class="alignnone size-full wp-image-5605" /></p>

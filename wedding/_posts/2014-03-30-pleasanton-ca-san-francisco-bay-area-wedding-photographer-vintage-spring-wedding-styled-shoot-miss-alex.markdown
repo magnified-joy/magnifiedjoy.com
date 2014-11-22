@@ -7,11 +7,9 @@ thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Alex-Feat
 description: 'Vintage Spring Wedding Styled Shoot at Historic Old Pleasanton Hotel
   (Handles Gastropub). Event planner: Lindsay Lauren Events. Bridal Gown: J’aime Bridal
   International Wedding Photographer'
-keywords: vintage, spring, flowers, styled, stylized, san ramon, palo alto, pleasanton,
-  west coast, pacific coast, pacific northwest, north west, northern, southern, california,
-  norcal, socal, san francisco, sf, san fran, frisco, california, pacific coast, west
-  coast, CA, golden, gate, sunset, engagement, wedding, lifestyle, Sonoma, napa, Sacramento,
-  berkeley, east bay, oakland, san jose, international
+keywords: California wedding photographer, San Francisco Bay Area Wedding Photographer,vintage wedding, spring wedding, outdoor wedding, macarons, naked wedding cake, Old Pleasanton Hotel, vintage, spring, flowers, styled, stylized, san ramon, palo alto, pleasanton, west coast, pacific coast, pacific northwest, north west, northern, southern, california, norcal, socal, san francisco, sf, san fran, frisco, california, pacific coast, west coast, CA, golden, gate, sunset, engagement, wedding, lifestyle, Sonoma, napa, Sacramento, berkeley, east bay, oakland, san jose, international
+latitude: 37.6624312
+longitude: -121.87467889999999
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Alex-Bay-Area-Styled002.jpg" alt="Alex Bay Area Styled002" width="1500" height="2301" class="alignnone size-full wp-image-5069" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Alex-Bay-Area-Styled001.jpg" alt="Alex Bay Area Styled001" width="1500" height="1068" class="alignnone size-full wp-image-5068" /></p>

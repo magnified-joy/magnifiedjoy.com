@@ -7,9 +7,10 @@ thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Allison-J
 description: Sunset engagement shoot featuring New Mexico's unique desert landscape.
   Desert Harbor is a small, off the grid, retreat establishment. Perfect location
   for a small wedding or honeymoon getaway.
-keywords: ABQ, Albuquerque, wedding, engagement, santa fe, desert, new mexico, mexico,
-  honeymoon, retreat, landscape, sunny, sunset, hot, winter, Sandia mountain,  road
-  trip
+keywords: engagement photos, New Mexico wedding photographer, Albuquerque NM wedding photographer, Desert Harbor, off-the-grid, Sandia Mountains, desert photo shoot, hammock, ABQ, Albuquerque, wedding, engagement, santa fe, desert, new mexico, mexico, honeymoon, retreat, landscape, sunny, sunset, hot, winter, Sandia mountain,  road trip
+latitude: 35.110703
+longitude: -106.60999099999998
+
 ---
 <p>New Mexico has such unique and out of this world landscape. We're thrilled that we had the opportunity to highlight New Mexico's landscape on our <a href="http://weddings.magnifiedjoy.com/life/magnified-joy-photography-united-states-road-trip-tour-2014-part-i/">road trip</a> at Desert Harbor with Allison + Joe. Desert Harbor is an off-the-grid (metaphorically and literally-solar powered) retreat that is quietly nested in the Sandia mountain. Enjoy some epic adventure with Allison + Joe.</p>
 <p>Check out our feature of <a href="http://bit.ly/1f40gZl">Desert Harbor's property here</a>.</p>

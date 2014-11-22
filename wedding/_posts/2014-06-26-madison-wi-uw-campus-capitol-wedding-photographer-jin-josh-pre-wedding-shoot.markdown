@@ -4,6 +4,9 @@ title: Madison, WI UW Campus Capitol Wedding Photographer | Jin + Josh Pre Weddi
 label: Jin + Josh
 date: '2014-06-26 02:47:06 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/06/Jin-Josh-Feature-480x375.jpg
+keywords:  University, Wisconsin, campus, Capitol, Madison, Wisconsin wedding photographer, birdcage, veil
+latitude: 43.0730517
+longitude: -89.40123019999999
 ---
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/06/Madison-WI-UW-Campus-Outdoor-Nature-Capitol-Jin-Josh-Pre-Wedding-003.jpg" alt="Madison, WI UW Campus Outdoor Nature Capitol Jin Josh Pre Wedding 003" width="1500" height="1068" class="alignnone size-full wp-image-5800" /></p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/06/Madison-WI-UW-Campus-Outdoor-Nature-Capitol-Jin-Josh-Pre-Wedding-001.jpg" alt="Madison, WI UW Campus Outdoor Nature Capitol Jin Josh Pre Wedding 001" width="1500" height="2301" class="alignnone size-full wp-image-5798" /></p>

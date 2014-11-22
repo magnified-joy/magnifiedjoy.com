@@ -7,10 +7,9 @@ thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Olivia-Al
 description: Sunny, windy, engagement shoot at Golden Gate Bridge followed by Baker
   Beach for sunset. We love photographing in a lifestyle approach to really draw out
   couple's personality.
-keywords: 'west coast, pacific coast, pacific northwest, north west, northern, southern,
-  california, norcal, socal, san francisco, sf, san fran, frisco, california, pacific
-  coast, west coast, CA, golden, gate, baker, beach, sunset, engagement, wedding,
-  lifestyle, Sonoma, napa, Sacramento, berkeley, east bay, oakland, san jose, international,  '
+keywords: engagement photos, California wedding photographer, San Francisco Bay Area wedding photographer, couples photos, Golden Gate Bridge, Baker Beach sunset photo shoot, west coast, pacific coast, pacific northwest, north west, northern, southern, california, norcal, socal, san francisco, sf, san fran, frisco, california, pacific coast, west coast, CA, sunset, engagement, wedding, lifestyle, Sonoma, napa, Sacramento, berkeley, east bay, oakland, san jose, international
+latitude: 37.7749295
+longitude: -122.41941550000001
 ---
 <p>We had a lot of fun photographing Olivia + Alex at possibly the most beautiful, certainly the most photographed, bridge in the world -- the Golden Gate Bridge. We then ventured to Baker Beach to finish off the engagement shoot just in time for sunset. Congratulations Olivia + Alex! Your love and care for each other is very evident! </p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/03/Oliva-Alex001.jpg" alt="Oliva Alex001" width="1500" height="1068" class="alignnone size-full wp-image-4950" /></p>

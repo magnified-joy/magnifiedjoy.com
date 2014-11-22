@@ -7,9 +7,9 @@ thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/12/12-15-13-
 description: Grace + Jeff wanted to do a more lifestyle session for their engagement
   shoot. After a mini-snowball fight and romp in the snow around their neighborhood,
   they came back to their home to warm up over some hot drinks and good music.
-keywords: 'madison, fun, playful, adventurous, artists, indoor, winter, cold, lifestyle,
-  christmas, dancing, food, drinks, alcohol, mixed drinks, record player, engagement,
-  music, guitar, drawing, painting, '
+keywords: engagement photos, lifestyle photo shoot, Wisconsin wedding photographer, Madison WI wedding photographer, bartending tools, hot toddies, dancing, record player, musician, artist, guitar playing, love song, serenade, sketching, journaling, madison, fun, playful, adventurous, artists, indoor, winter, cold, lifestyle, christmas, dancing, food, drinks, alcohol, mixed drinks, engagement, music, guitar, drawing, painting
+latitude: 43.0730517
+longitude: -89.40123019999999
 ---
 <p>Grace + Jeff wanted to do a more "lifestyle" session for their engagement shoot. <a href="http://bit.ly/1eODVi8">After a mini-snowball fight and romp in the snow around their neighborhood</a>, they came back to their home to warm up over some hot drinks and good music.</p>
 <p>As Jeff turned on the stovetop for hot water, Grace found her hand-made painted ceramic mugs for them to share.<br />

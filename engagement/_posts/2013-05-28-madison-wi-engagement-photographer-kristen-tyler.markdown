@@ -3,6 +3,9 @@ title: Madison, WI Engagement Photographer | Kristen + Tyler
 label: Kristen + Tyler
 date: '2013-05-28 14:42:28 -0500'
 thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2013/05/2013-05-28_0018-480x375.jpg
+keywords: Wisconsin wedding photographer, Madison WI wedding photographer, engagement photos, rainy day, puddles, hide-and-seek, peek-a-boo, flowering trees, urban photo shoot
+latitude: 43.0730517
+longitude: -89.40123019999999
 ---
 <p>Congratulations to Kristen and Tyler on their engagement and upcoming wedding! We are super excited for your wedding day! Thank God that the rain held off during the entire engagement session, it was super-storming just 30 minutes prior to the session!</p>
 <p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2013/05/2013-05-28_0001.jpg" alt="2013-05-28_0001" width="1500" height="1183" class="alignnone size-full wp-image-2586" /></p>
