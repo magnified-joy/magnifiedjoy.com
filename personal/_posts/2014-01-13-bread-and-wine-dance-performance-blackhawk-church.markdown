@@ -2,7 +2,7 @@
 title: Bread + Wine Dance Performance Blackhawk Church
 label: Maria Dance Performance
 date: '2014-01-13 05:17:07 -0600'
-thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/bread-and-wine-feature1-480x375.jpg
+thumbnail: https://googledrive.com/host/0B2YHeCssXjxzakRkZUNBdnRHcm8/bread-and-wine-feature1-480x375.jpg
 keywords: spiritual dance, dance performance,  "Bread and Wine", Josh Garrels, communion, Blackhawk Church
 latitude: 43.0730517
 longitude: -89.40123019999999
@@ -12,16 +12,16 @@ longitude: -89.40123019999999
 <p>That's exactly what this featured dance is for me. "Bread and Wine" by <a href="http://joshgarrels.com/">Josh Garrels</a> is a story about communion. Communion with God, communion with others...and even (my own interpretation), communion of the body + spirit in creative, worshipful movement. I was SO thankful that Mariah LeFeber asked me to join a few other women (also post-college women who had previously danced too) from our church community to explore some intentional movement together. We first got together to listen to Josh's song, reflect, pray, and then move with our bodies. Together, we choreographed a dance and encouraged each other in seeking this Communion. We were privileged to be able to perform "Bread + Wine" live with Josh Garrels, when he came as a feature artist to the <a href="http://blackhawkpulse.com/">Pulse Arts Conference</a> in March 2013. This was the "spiritual-dance" that I longed for. The dance was so meaningful and powerful for us, the little community of dancers, and for the audience. </p>
 <p>Even though months passed and our busy lives kept us from dancing together, we made it a point to share "Bread and Wine" to the Blackhawk Church community again during a Sunday evening service. After almost a year apart, we got together to dance again, and we were still able to fluidly move together again. Another example of this Communion in action. Read Josh's lyrics and watch our dance. May you, too, experience a little but of my heart for dance, for God, for life that is meant to be shared together. "All I have I give to you if you will share your sorrows too, Then joy will be the crown upon our heads, My friend"</p>
 <p><iframe src="//player.vimeo.com/video/84009180" width="100%" height="600px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
-<p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/2014-01-12_0001.jpg" alt="2014-01-12_0001" width="1500" height="1068" class="alignnone size-full wp-image-4431" /></p>
-<p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/2014-01-12_0002.jpg" alt="2014-01-12_0002" width="1500" height="1068" class="alignnone size-full wp-image-4432" /></p>
-<p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/2014-01-12_0003.jpg" alt="2014-01-12_0003" width="1500" height="1068" class="alignnone size-full wp-image-4433" /></p>
-<p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/2014-01-12_0004.jpg" alt="2014-01-12_0004" width="1500" height="1068" class="alignnone size-full wp-image-4434" /></p>
-<p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/2014-01-12_0005.jpg" alt="2014-01-12_0005" width="1500" height="1068" class="alignnone size-full wp-image-4435" /></p>
-<p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/2014-01-12_0006.jpg" alt="2014-01-12_0006" width="1500" height="1068" class="alignnone size-full wp-image-4436" /></p>
-<p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/2014-01-12_0007.jpg" alt="2014-01-12_0007" width="1500" height="1068" class="alignnone size-full wp-image-4437" /></p>
-<p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/2014-01-12_0008.jpg" alt="2014-01-12_0008" width="1500" height="1068" class="alignnone size-full wp-image-4438" /></p>
-<p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/2014-01-12_0009.jpg" alt="2014-01-12_0009" width="1500" height="1068" class="alignnone size-full wp-image-4439" /></p>
-<p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/2014-01-12_0010.jpg" alt="2014-01-12_0010" width="1500" height="1068" class="alignnone size-full wp-image-4440" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzakRkZUNBdnRHcm8/2014-01-12_0001.jpg" alt="2014-01-12_0001" width="1500" height="1068" class="alignnone size-full wp-image-4431" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzakRkZUNBdnRHcm8/2014-01-12_0002.jpg" alt="2014-01-12_0002" width="1500" height="1068" class="alignnone size-full wp-image-4432" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzakRkZUNBdnRHcm8/2014-01-12_0003.jpg" alt="2014-01-12_0003" width="1500" height="1068" class="alignnone size-full wp-image-4433" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzakRkZUNBdnRHcm8/2014-01-12_0004.jpg" alt="2014-01-12_0004" width="1500" height="1068" class="alignnone size-full wp-image-4434" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzakRkZUNBdnRHcm8/2014-01-12_0005.jpg" alt="2014-01-12_0005" width="1500" height="1068" class="alignnone size-full wp-image-4435" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzakRkZUNBdnRHcm8/2014-01-12_0006.jpg" alt="2014-01-12_0006" width="1500" height="1068" class="alignnone size-full wp-image-4436" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzakRkZUNBdnRHcm8/2014-01-12_0007.jpg" alt="2014-01-12_0007" width="1500" height="1068" class="alignnone size-full wp-image-4437" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzakRkZUNBdnRHcm8/2014-01-12_0008.jpg" alt="2014-01-12_0008" width="1500" height="1068" class="alignnone size-full wp-image-4438" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzakRkZUNBdnRHcm8/2014-01-12_0009.jpg" alt="2014-01-12_0009" width="1500" height="1068" class="alignnone size-full wp-image-4439" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzakRkZUNBdnRHcm8/2014-01-12_0010.jpg" alt="2014-01-12_0010" width="1500" height="1068" class="alignnone size-full wp-image-4440" /></p>
 <p>"Bread and Wine" original song and lyrics by Josh Garrels</p>
 <p>I was wrong, everybody needs someone, to hold on<br />
 Take my hand, I’ve been a lonesome man, took a while to understand </p>

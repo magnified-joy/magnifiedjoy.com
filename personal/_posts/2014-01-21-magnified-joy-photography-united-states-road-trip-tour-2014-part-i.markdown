@@ -2,10 +2,10 @@
 title: Magnified Joy Photography United States Road Trip Tour 2014 - Part I
 label: Road Trip 2014 Part I
 date: '2014-01-21 23:14:34 -0600'
-thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/MJP-US-Tour-480x375.jpg
+thumbnail: https://googledrive.com/host/0B2YHeCssXjxzNFBXNWtDWmNaeW8/MJP-US-Tour-480x375.jpg
 keywords: road trip, traveling photographers, western states, Midwest, southern states, California, Arizona, New Mexico, Texas, Louisiana, Georgia, North Carolina, Indiana, Wisconsin
 ---
-<p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/01/MJP-US-Tour.jpg" alt="MJP US Tour" width="1500" height="1079" class="alignnone size-full wp-image-4517" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzNFBXNWtDWmNaeW8/MJP-US-Tour.jpg" alt="MJP US Tour" width="1500" height="1079" class="alignnone size-full wp-image-4517" /></p>
 <p>From February 2nd - 23rd, Maria and I will be embarking a cross country road trip from "winter-wonderland" Wisconsin to "sunny" California. </p>
 <p>Start dates in each city listed below:</p>
 <p>2/1 - Adventure begins in Madison,WI<br />
