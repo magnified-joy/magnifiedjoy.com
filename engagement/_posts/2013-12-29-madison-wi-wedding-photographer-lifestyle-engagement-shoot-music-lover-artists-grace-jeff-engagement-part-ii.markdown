@@ -39,4 +39,4 @@ longitude: -89.40123019999999
 <img src="https://googledrive.com/host/0B2YHeCssXjxzcHVyQVRPMDF5dDQ/2013-12-29_0033.jpg" alt="2013-12-29_0033" width="1500" height="760" class="alignnone size-full wp-image-4252" /></p>
 <p>This special moment culminated in sweet smiles and embraces, as they both lingered over their thoughts of their long future together.<br />
 <img src="https://googledrive.com/host/0B2YHeCssXjxzcHVyQVRPMDF5dDQ/2013-12-29_0034.jpg" alt="2013-12-29_0034" width="1500" height="1068" class="alignnone size-full wp-image-4253" /></p>
-<h2><a href="http://bit.ly/1eODVi8">Click here to see Part I of their engagement shoot</a></h2>
+<h2><a href="http://www.magnifiedjoy.com/engagement/madison-wi-wedding-photographer-lifestyle-engagement-shoot-music-lover-artists-grace-jeff-engagement-part-ii/">Click here to see Part I of their engagement shoot</a></h2>

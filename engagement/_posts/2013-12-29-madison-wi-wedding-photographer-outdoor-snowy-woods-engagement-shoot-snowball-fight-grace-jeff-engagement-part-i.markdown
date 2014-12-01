@@ -31,4 +31,4 @@ longitude: -89.40123019999999
 <p><img src="https://googledrive.com/host/0B2YHeCssXjxzcHVyQVRPMDF5dDQ/2013-12-29_0013.jpg" alt="2013-12-29_0013" width="1500" height="1068" class="alignnone size-full wp-image-4227" /></p>
 <p>After a successful snowball fight outside, <a href="http://bit.ly/1cfmItT">Grace + Jeff made their way back inside for hot toddies, record-playing, romantic moments, and making art together</a>. </p>
 <p><img src="https://googledrive.com/host/0B2YHeCssXjxzcHVyQVRPMDF5dDQ/2013-12-29_0014.jpg" alt="2013-12-29_0014" width="1500" height="1068" class="alignnone size-full wp-image-4228" /></p>
-<h2><a href="http://bit.ly/1cfmItT">Click here to see Part II of their engagement shoot</a></h2>
+<h2><a href="http://www.magnifiedjoy.com/engagement/madison-wi-wedding-photographer-outdoor-snowy-woods-engagement-shoot-snowball-fight-grace-jeff-engagement-part-i/">Click here to see Part II of their engagement shoot</a></h2>
