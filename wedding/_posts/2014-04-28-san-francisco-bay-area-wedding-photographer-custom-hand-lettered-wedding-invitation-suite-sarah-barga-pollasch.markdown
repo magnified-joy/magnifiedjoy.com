@@ -2,7 +2,7 @@
 title: San Francisco, Bay Area Wedding Photographer | Custom Hand Lettered Wedding Invitation Suite | Sarah Barga Pollasch
 label: Custom Hand Lettered Wedding Invitation Suite
 date: '2014-04-28 18:22:46 -0500'
-thumbnail: http://weddings.magnifiedjoy.com/wp-content/uploads/2014/04/IMG_0379-480x375.jpg
+thumbnail: https://googledrive.com/host/0B2YHeCssXjxzMDRFbGl4bVdsdlU/IMG_0379-480x375.jpg
 keywords: San Francisco, bay, California, California wedding photographer, custom wedding invitation, American, hand-lettered invitaition, wedding invitaiton suite, video
 latitude: 37.7749295
 longitude: -122.41941550000001
@@ -12,6 +12,6 @@ longitude: -122.41941550000001
 Support Sarah by giving <a href="https://www.facebook.com/sarahbargapollasch">her Facebook page a like</a>.</p>
 <p>Special thanks to Veronneau for providing the music! Check them out as well! - <a href="https://www.VeronneauMusic.com">www.VeronneauMusic.com</a></p>
 <p><iframe src="//player.vimeo.com/video/92790577" width="80%" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> </p>
-<p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/04/Sarah-Pollasch-Hand-Lettering001.jpg" alt="Sarah Pollasch Hand Lettering001" width="1500" height="1068" class="alignnone size-full wp-image-5193" /></p>
-<p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/04/Sarah-Pollasch-Hand-Lettering002.jpg" alt="Sarah Pollasch Hand Lettering002" width="1500" height="760" class="alignnone size-full wp-image-5194" /></p>
-<p><img src="http://weddings.magnifiedjoy.com/wp-content/uploads/2014/04/Sarah-Pollasch-Hand-Lettering003.jpg" alt="Sarah Pollasch Hand Lettering003" width="1500" height="1561" class="alignnone size-full wp-image-5195" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzMDRFbGl4bVdsdlU/Sarah-Pollasch-Hand-Lettering001.jpg" alt="Sarah Pollasch Hand Lettering001" width="1500" height="1068" class="alignnone size-full wp-image-5193" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzMDRFbGl4bVdsdlU/Sarah-Pollasch-Hand-Lettering002.jpg" alt="Sarah Pollasch Hand Lettering002" width="1500" height="760" class="alignnone size-full wp-image-5194" /></p>
+<p><img src="https://googledrive.com/host/0B2YHeCssXjxzMDRFbGl4bVdsdlU/Sarah-Pollasch-Hand-Lettering003.jpg" alt="Sarah Pollasch Hand Lettering003" width="1500" height="1561" class="alignnone size-full wp-image-5195" /></p>
