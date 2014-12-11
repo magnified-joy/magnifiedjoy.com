@@ -14,7 +14,7 @@ We love Colorado, a lot. We find ourselves back in Colorado a couple times a yea
 
 ![calendar art combined](https://googledrive.com/host/0B2YHeCssXjxzbno3R2FXdWNzbWc/calendar-art-combined.jpg)
 
-#A little about the calendar:
+**A little about the calendar:**
 
 ![scattered](https://googledrive.com/host/0B2YHeCssXjxzbno3R2FXdWNzbWc/scattered.jpg)
 
