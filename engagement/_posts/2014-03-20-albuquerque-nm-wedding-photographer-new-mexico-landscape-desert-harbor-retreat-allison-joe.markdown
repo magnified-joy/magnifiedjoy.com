@@ -12,8 +12,8 @@ latitude: 35.110703
 longitude: -106.60999099999998
 
 ---
-<p>New Mexico has such unique and out of this world landscape. We're thrilled that we had the opportunity to highlight New Mexico's landscape on our <a href="http://weddings.magnifiedjoy.com/life/magnified-joy-photography-united-states-road-trip-tour-2014-part-i/">road trip</a> at Desert Harbor with Allison + Joe. Desert Harbor is an off-the-grid (metaphorically and literally-solar powered) retreat that is quietly nested in the Sandia mountain. Enjoy some epic adventure with Allison + Joe.</p>
-<p>Check out our feature of <a href="http://bit.ly/1f40gZl">Desert Harbor's property here</a>.</p>
+<p>New Mexico has such unique and out of this world landscape. We're thrilled that we had the opportunity to highlight New Mexico's landscape on our <a href="https://www.magnifiedjoy.com/personal/magnified-joy-photography-united-states-road-trip-tour-2014-part-i/">road trip</a> at Desert Harbor with Allison + Joe. Desert Harbor is an off-the-grid (metaphorically and literally-solar powered) retreat that is quietly nested in the Sandia mountain. Enjoy some epic adventure with Allison + Joe.</p>
+<p>Check out our feature of <a href="https://www.magnifiedjoy.com/personal/santa-fe-albuquerque-nm-wedding-photographer-desert-harbor-premiere-honeymoon-elopement-destination-wedding-venue/">Desert Harbor's property here</a>.</p>
 <p><img src="https://googledrive.com/host/0B2YHeCssXjxzQlpyV0FjRVZZNG8/Allison-Joe001.jpg" alt="Allison Joe001" width="1500" height="1184" class="alignnone size-full wp-image-4858" /></p>
 <p><img src="https://googledrive.com/host/0B2YHeCssXjxzQlpyV0FjRVZZNG8/Allison-Joe002.jpg" alt="Allison Joe002" width="1500" height="1068" class="alignnone size-full wp-image-4859" /></p>
 <p><img src="https://googledrive.com/host/0B2YHeCssXjxzQlpyV0FjRVZZNG8/Allison-Joe003.jpg" alt="Allison Joe003" width="1500" height="1068" class="alignnone size-full wp-image-4860" /></p>
@@ -31,4 +31,4 @@ longitude: -106.60999099999998
 <p><img src="https://googledrive.com/host/0B2YHeCssXjxzQlpyV0FjRVZZNG8/Allison-Joe015.jpg" alt="Allison Joe015" width="1500" height="1184" class="alignnone size-full wp-image-4872" /></p>
 <p><img src="https://googledrive.com/host/0B2YHeCssXjxzQlpyV0FjRVZZNG8/Allison-Joe016.jpg" alt="Allison Joe016" width="1500" height="1068" class="alignnone size-full wp-image-4873" /></p>
 <p><img src="https://googledrive.com/host/0B2YHeCssXjxzQlpyV0FjRVZZNG8/Allison-Joe017.jpg" alt="Allison Joe017" width="1500" height="1068" class="alignnone size-full wp-image-4874" /></p>
-<h2>Check out our feature of <a href="http://bit.ly/1f40gZl">Desert Harbor's property here</a>.</h2>
+<h2>Check out our feature of <a href="https://www.magnifiedjoy.com/personal/santa-fe-albuquerque-nm-wedding-photographer-desert-harbor-premiere-honeymoon-elopement-destination-wedding-venue/">Desert Harbor's property here</a>.</h2>
