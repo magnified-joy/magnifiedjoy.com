@@ -1,0 +1,50 @@
+---
+title: Red Rocks, Denver Colorado, | Nikki + Chris Engagement
+label: Nikki + Chris
+thumbnail: https://googledrive.com/host/0B2YHeCssXjxzUFJjRy1uRzVtalU/Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_015.jpg
+description: It was a little cold at Red Rocks, but Nikki + Chris rocked their shoot! We love how adventurous they are!  We were lucky to have some deer visit us at the end of the shoot. Stay tuned for part 2 of their engagement photos!
+keywords: red rocks, denver, engagement, mountain engagement, adventurous, hiking, lifestyle engagement, deer spotting, wildlife engagement
+---
+It was a little cold at Red Rocks, but Nikki + Chris rocked their shoot! We love how adventurous they are!  We were lucky to have some deer visit during our shoot. Stay tuned for part 2 of their engagement photos!
+
+![Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_001](https://googledrive.com/host/0B2YHeCssXjxzUFJjRy1uRzVtalU/Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_001.jpg)
+
+![Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_002](https://googledrive.com/host/0B2YHeCssXjxzUFJjRy1uRzVtalU/Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_002.jpg)
+
+![Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_003](https://googledrive.com/host/0B2YHeCssXjxzUFJjRy1uRzVtalU/Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_003.jpg)
+
+![Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_004](https://googledrive.com/host/0B2YHeCssXjxzUFJjRy1uRzVtalU/Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_004.jpg)
+
+![Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_005](https://googledrive.com/host/0B2YHeCssXjxzUFJjRy1uRzVtalU/Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_005.jpg)
+
+![Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_006](https://googledrive.com/host/0B2YHeCssXjxzUFJjRy1uRzVtalU/Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_006.jpg)
+
+![Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_007](https://googledrive.com/host/0B2YHeCssXjxzUFJjRy1uRzVtalU/Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_007.jpg)
+
+![Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_008](https://googledrive.com/host/0B2YHeCssXjxzUFJjRy1uRzVtalU/Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_008.jpg)
+
+![Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_009](https://googledrive.com/host/0B2YHeCssXjxzUFJjRy1uRzVtalU/Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_009.jpg)
+
+![Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_010](https://googledrive.com/host/0B2YHeCssXjxzUFJjRy1uRzVtalU/Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_010.jpg)
+
+![Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_011](https://googledrive.com/host/0B2YHeCssXjxzUFJjRy1uRzVtalU/Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_011.jpg)
+
+![Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_012](https://googledrive.com/host/0B2YHeCssXjxzUFJjRy1uRzVtalU/Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_012.jpg)
+
+![Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_013](https://googledrive.com/host/0B2YHeCssXjxzUFJjRy1uRzVtalU/Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_013.jpg)
+
+![Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_014](https://googledrive.com/host/0B2YHeCssXjxzUFJjRy1uRzVtalU/Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_014.jpg)
+
+![Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_015](https://googledrive.com/host/0B2YHeCssXjxzUFJjRy1uRzVtalU/Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_015.jpg)
+
+![Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_016](https://googledrive.com/host/0B2YHeCssXjxzUFJjRy1uRzVtalU/Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_016.jpg)
+
+![Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_017](https://googledrive.com/host/0B2YHeCssXjxzUFJjRy1uRzVtalU/Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_017.jpg)
+
+![Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_018](https://googledrive.com/host/0B2YHeCssXjxzUFJjRy1uRzVtalU/Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_018.jpg)
+
+![Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_019](https://googledrive.com/host/0B2YHeCssXjxzUFJjRy1uRzVtalU/Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_019.jpg)
+
+![Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_020](https://googledrive.com/host/0B2YHeCssXjxzUFJjRy1uRzVtalU/Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_020.jpg)
+
+![Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_021](https://googledrive.com/host/0B2YHeCssXjxzUFJjRy1uRzVtalU/Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_021.jpg)
