@@ -5,7 +5,7 @@ thumbnail: https://googledrive.com/host/0B2YHeCssXjxzUFJjRy1uRzVtalU/Red_Rocks_E
 description: It was a little cold at Red Rocks, but Nikki + Chris rocked their shoot! We love how adventurous they are!  We were lucky to have some deer visit us at the end of the shoot. Stay tuned for part 2 of their engagement photos!
 keywords: red rocks, denver, engagement, mountain engagement, adventurous, hiking, lifestyle engagement, deer spotting, wildlife engagement
 ---
-It was a little cold at Red Rocks, but Nikki + Chris rocked their shoot! We love how adventurous they are!  We were lucky to have some deer visit during our shoot. Stay tuned for part 2 of their engagement photos!
+It was a little cold at Red Rocks, but Nikki + Chris rocked their shoot! We love how adventureous the two of them are!  At the end of the shoot, we were lucky to have some friends (deers) visit during our shoot. Stay tuned for part 2 of their engagement photos!
 
 ![Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_001](https://googledrive.com/host/0B2YHeCssXjxzUFJjRy1uRzVtalU/Red_Rocks_Engagement_Adventureous_Hiking_Denver_Colorado_Nikki_Chris_001.jpg)
 
