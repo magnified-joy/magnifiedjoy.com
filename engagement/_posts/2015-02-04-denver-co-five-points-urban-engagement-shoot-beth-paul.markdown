@@ -2,10 +2,10 @@
 title: Denver, CO Five Points Urban Engagement Shoot | Beth + Paul
 label: Beth + Paul
 thumbnail: https://googledrive.com/host/0B2YHeCssXjxzcHoyX3BXMk1UQnc/Denver_Five_Points_Engagement_Urban_Artist_Beth_Paul_007.jpg
-description: Beth + Paul are both artists in their own ways. Beth is an awesome yoga instructor, and Paul draws and make witty cards that are sold all around Denver. They chose to have their engagement session at Five Points because that was the neighborhood that they first met. Beth + Paul are real troopers, we took them to alleyways and shot by dumpsters and they always have full smiles and emotions! 
+description: Beth + Paul are both artists in their own ways. Beth is an awesome yoga instructor, and Paul draws and make witty cards that are sold all around Denver. He also painted the mural that we photograph them in front of. They chose to have their engagement session at Five Points because that was the neighborhood that they first met. Beth + Paul are real troopers, we took them to alleyways and shot by dumpsters and they always have full smiles and emotions! 
 keywords: denver, colorado, urban, engagement, artist, yoga instructor, five points, city, dumpster, alleyways, bricks, creative portraits
 ---
-Beth + Paul are both artists in their own ways. Beth is an awesome yoga instructor, and Paul draws and make <a href="http://mountainvsplains.com/">witty cards that are sold all around Denver</a>. They chose to have their engagement session at Five Points because that was the neighborhood that they first met. Beth + Paul are real troopers, we took them to alleyways and shot by dumpsters and they always have full smiles and emotions! 
+Beth + Paul are both artists in their own ways. Beth is an awesome yoga instructor, and Paul draws and make <a href="http://mountainvsplains.com/">witty cards that are sold all around Denver</a>. He also painted the mural that we photograph them in front of. They chose to have their engagement session at Five Points because that was the neighborhood that they first met. Beth + Paul are real troopers, we took them to alleyways and shot by dumpsters and they always have full smiles and emotions! 
 
 ![Denver_Five_Points_Engagement_Urban_Artist_Beth_Paul_001](https://googledrive.com/host/0B2YHeCssXjxzcHoyX3BXMk1UQnc/Denver_Five_Points_Engagement_Urban_Artist_Beth_Paul_001.jpg)
 
