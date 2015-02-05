@@ -5,7 +5,7 @@ thumbnail: https://googledrive.com/host/0B2YHeCssXjxzX2I2elVSOUhQV0E/Denver_CO_W
 description: Nikki and Chris were awesome enough to come out spontaneously to City Park with only hours of notice before the Superbowl! Overnight, Denver was transformed into a winter wonderland, and we could not pass up the opportunity to make some sweet magical photos. 
 keywords: snowy engagement, winter wonderland, denver, colorado, city park engagement, city park, magical winter, lifestyle, snowball fight
 ---
-Nikki and Chris were awesome enough to come out spontaneously to City Park with only hours of notice before the Superbowl! Overnight, Denver was transformed into a winter wonderland, and we could not pass up the opportunity to make some sweet magical photos. 
+Nikki + Chris were awesome enough to come out spontaneously to City Park with only hours of notice before the Superbowl! Overnight, Denver was transformed into a winter wonderland, and we could not pass up the opportunity to make some sweet magical photos. 
 
 ![Denver_CO_Winter_Engagement_Snow_Nikki_Chris_City_Park_001](https://googledrive.com/host/0B2YHeCssXjxzX2I2elVSOUhQV0E/Denver_CO_Winter_Engagement_Snow_Nikki_Chris_City_Park_001.jpg)
 
