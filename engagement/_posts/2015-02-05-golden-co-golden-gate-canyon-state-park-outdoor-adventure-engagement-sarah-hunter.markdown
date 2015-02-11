@@ -2,10 +2,10 @@
 title: Golden, CO | Golden Gate Canyon State Park | Outdoor Adventure Engagement | Sarah + Hunter
 label: Sarah + Hunter
 thumbnail: https://googledrive.com/host/0B2YHeCssXjxzYjFLMTM3Wmhndmc/Golden_CO_Golden_Gate_Canyon_State_Park_Engagement_Outdoor_Adventure_Hiking_Snow_Sarah_Hunter_001.jpg
-description: We arrived at Golden Gate Canyon State Park before it was officially open. Thankfully the park ranger let us in early and we got the whole park to ourselves to photograph! We hiked around the park with Sarah + Hunter for their shoot! Turns out, both of them are very talented rock climbers as they scaled a rock face during their engagement shoot with no problem what so ever! You guys rock! 
+description: We arrived at Golden Gate Canyon State Park before it was officially open. Thankfully the park ranger let us in early and we got the whole park to ourselves to photograph! We hiked around the park with Sarah + Hunter for their shoot. Turns out, both of them are very talented rock climbers as they scaled a rock face during their engagement shoot wearing their cowboy boots and it was no problem whatsoever! You guys rock!
 keywords: golden, colorado, engagement, denver, outdoor, adventure, golden gate canyon, hiking engagement
 ---
-We arrived at Golden Gate Canyon State Park before it was officially open. Thankfully the park ranger let us in early and we got the whole park to ourselves to photograph! We hiked around the park with Sarah + Hunter for their shoot! Turns out, both of them are very talented rock climbers as they scaled a rock face during their engagement shoot with no problem what so ever! You guys rock! 
+We arrived at Golden Gate Canyon State Park before it was officially open. Thankfully the park ranger let us in early and we got the whole park to ourselves to photograph! We hiked around the park with Sarah + Hunter for their shoot. Turns out, both of them are very talented rock climbers as they scaled a rock face during their engagement shoot wearing their cowboy boots and it was no problem whatsoever! You guys rock! 
 
 ![Golden_CO_Golden_Gate_Canyon_State_Park_Engagement_Outdoor_Adventure_Hiking_Snow_Sarah_Hunter_001](https://googledrive.com/host/0B2YHeCssXjxzYjFLMTM3Wmhndmc/Golden_CO_Golden_Gate_Canyon_State_Park_Engagement_Outdoor_Adventure_Hiking_Snow_Sarah_Hunter_001.jpg)
 
