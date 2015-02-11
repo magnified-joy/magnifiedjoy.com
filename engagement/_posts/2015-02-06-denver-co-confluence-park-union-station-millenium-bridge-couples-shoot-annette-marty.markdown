@@ -2,10 +2,10 @@
 title: Denver, CO | Confluence Park | Union Station | Millenium Bridge | Couple's Shoot | Annette + Marty
 label: Annette + Marty
 thumbnail: https://googledrive.com/host/0B2YHeCssXjxzV0duWVo0M1RTU2c/Denver_CO_Confluence_Park_Union_Station_Millenium_Bridge_Urban_Anniversary_Engagement_Couples_Shoot_Annette_Marty_011.jpg
-description: Annette + Marty claimed they are not professional models, I am still not sure if its true.  We started their shoot around Confluence Park and walked down to Union Station. We shared many jokes and laughters during this shoot! 
+description: Annette + Marty claimed they are not professional models, I am still not sure if its true.  We started their shoot around Confluence Park and walked down to Union Station. Thanks for sharing many jokes and laughters during this shoot, you guys are awesome! 
 keywords: denver, millenium bridge, confluence park, union station, engagement session, urban, anniversary, creative, natural light, natural poses, natural wedding photographers
 ---
-Annette + Marty claimed they are not professional models, I am still not sure if its true. *wink* We started their shoot around Confluence Park and walked down to Union Station. We shared many jokes and laughters during this shoot! 
+Annette + Marty claimed they are not professional models, I am still not sure if its true. *wink* We started their shoot around Confluence Park and walked down to Union Station. Thanks for sharing many jokes and laughters during this shoot, you guys are awesome! 
 
 ![Denver_CO_Confluence_Park_Union_Station_Millenium_Bridge_Urban_Anniversary_Engagement_Couples_Shoot_Annette_Marty_001](https://googledrive.com/host/0B2YHeCssXjxzV0duWVo0M1RTU2c/Denver_CO_Confluence_Park_Union_Station_Millenium_Bridge_Urban_Anniversary_Engagement_Couples_Shoot_Annette_Marty_001.jpg)
 
