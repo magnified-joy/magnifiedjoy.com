@@ -1,0 +1,46 @@
+---
+title: Denver, CO Urban Engagement | Interracial Couple | Larimer St | Graffiti | Sexy Cool | Gigi + Greg
+label: Gigi + Greg
+thumbnail: https://googledrive.com/host/0B2YHeCssXjxzMmZJVFRUZXhQZTQ/Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_005.jpg
+description: We like to ask our couples before we photograph them what 3 words they each would use to describe their relationship or personalities. They chose the words fun, edgy, sincere, and sexy cool. We think these photos totally reflects those words. We just walked around Larimer Street, and had a great time hanging out and cracking jokes! Gigi + Greg are both super funny people. If you ever meet them, ask them to tell you the joke about the donut hole. 
+keywords: denver, urban, engagement, interracial, multi, ethnic, sexy, cool, fun, creative, edgy, larimer, colorado, wedding photographer, engagement photographer, golden, boulder, colorado springs
+---
+We like to ask our couples before we photograph them what 3 words they each would use to describe their relationship or personalities. They chose the words fun, edgy, sincere, and sexy cool. We think these photos totally reflects those words. We just walked around Larimer Street, and had a great time hanging out and cracking jokes! Gigi + Greg are both super funny people. If you ever meet them, ask them to tell you the joke about the donut hole. 
+
+![Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_001](https://googledrive.com/host/0B2YHeCssXjxzMmZJVFRUZXhQZTQ/Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_001.jpg)
+
+![Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_002](https://googledrive.com/host/0B2YHeCssXjxzMmZJVFRUZXhQZTQ/Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_002.jpg)
+
+![Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_003](https://googledrive.com/host/0B2YHeCssXjxzMmZJVFRUZXhQZTQ/Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_003.jpg)
+
+![Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_004](https://googledrive.com/host/0B2YHeCssXjxzMmZJVFRUZXhQZTQ/Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_004.jpg)
+
+![Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_005](https://googledrive.com/host/0B2YHeCssXjxzMmZJVFRUZXhQZTQ/Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_005.jpg)
+
+![Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_006](https://googledrive.com/host/0B2YHeCssXjxzMmZJVFRUZXhQZTQ/Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_006.jpg)
+
+![Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_007](https://googledrive.com/host/0B2YHeCssXjxzMmZJVFRUZXhQZTQ/Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_007.jpg)
+
+![Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_008](https://googledrive.com/host/0B2YHeCssXjxzMmZJVFRUZXhQZTQ/Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_008.jpg)
+
+![Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_009](https://googledrive.com/host/0B2YHeCssXjxzMmZJVFRUZXhQZTQ/Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_009.jpg)
+
+![Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_010](https://googledrive.com/host/0B2YHeCssXjxzMmZJVFRUZXhQZTQ/Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_010.jpg)
+
+![Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_011](https://googledrive.com/host/0B2YHeCssXjxzMmZJVFRUZXhQZTQ/Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_011.jpg)
+
+![Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_012](https://googledrive.com/host/0B2YHeCssXjxzMmZJVFRUZXhQZTQ/Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_012.jpg)
+
+![Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_013](https://googledrive.com/host/0B2YHeCssXjxzMmZJVFRUZXhQZTQ/Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_013.jpg)
+
+![Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_014](https://googledrive.com/host/0B2YHeCssXjxzMmZJVFRUZXhQZTQ/Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_014.jpg)
+
+![Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_015](https://googledrive.com/host/0B2YHeCssXjxzMmZJVFRUZXhQZTQ/Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_015.jpg)
+
+![Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_016](https://googledrive.com/host/0B2YHeCssXjxzMmZJVFRUZXhQZTQ/Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_016.jpg)
+
+![Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_017](https://googledrive.com/host/0B2YHeCssXjxzMmZJVFRUZXhQZTQ/Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_017.jpg)
+
+![Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_018](https://googledrive.com/host/0B2YHeCssXjxzMmZJVFRUZXhQZTQ/Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_018.jpg)
+
+![Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_019](https://googledrive.com/host/0B2YHeCssXjxzMmZJVFRUZXhQZTQ/Denver_CO_Engagement_Urban_Larimer_Graffiti_Interracial_Sexy_Cool_Gigi_Greg_019.jpg)
