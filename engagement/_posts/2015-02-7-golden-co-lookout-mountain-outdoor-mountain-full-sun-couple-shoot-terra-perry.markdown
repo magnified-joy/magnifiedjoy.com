@@ -2,12 +2,12 @@
 title: Golden, CO | Lookout Mountain | Outdoor Mountain Full Sun Couple Shoot | Terra + Perry
 label: Terra + Perry
 thumbnail: https://googledrive.com/host/0B2YHeCssXjxzeXVwLXY0MXdFNDA/Golden_CO_Lookout_Mountain_Engagement_Photographer_Outdoor_Full_Sun_Harsh_Light_Mountain_Landscape_Terra_Perry_Couple_Shoot_018.jpg
-description: The mountains are calling and I must go. - John Muir  We originally wanted to shoot at Windy Saddle, however it was too windy. So we drove up the mountain a bit and shot at Lookout Mountain instead! The view from Lookout Mountain overlooking Golden was breath taking! Although the sun was pretty harsh by the second half of the shoot, it didn't stop us from photographing awesome images! Terra + Perry did awesome while conquering the early start time, cold temperature and the wind!
+description: The mountains are calling and I must go. - John Muir  We originally wanted to shoot at Windy Saddle Park, but it was just too windy! So we drove up the mountain a bit and shot at Lookout Mountain instead. The view from Lookout mountain overlooking Golden was breathtaking! Although the sun was pretty harsh by the second half of the shoot, it didn’t stop us from photographing awesome images! Terra + Perry conquered the cold temperature and the wind and did awesome!
 keywords: golden, colorado, engagement, wedding, photographer, lookout mountain, harsh light, full sun, outdoor, landscape, mountain
 ---
 *The mountains are calling and I must go.* - John Muir  
 
-We originally wanted to shoot at Windy Saddle, however it was too windy. So we drove up the mountain a bit and shot at Lookout Mountain instead! The view from Lookout mountain overlooking golden was breath taking! Although the sun was pretty harsh by the second half of the shoot, it didn't stop us from photographing awesome images! Terra + Perry conquered the cold temperature and the wind and did awesome!
+We originally wanted to shoot at Windy Saddle Park, but it was just too windy! So we drove up the mountain a bit and shot at Lookout Mountain instead. The view from Lookout mountain overlooking Golden was breathtaking! Although the sun was pretty harsh by the second half of the shoot, it didn’t stop us from photographing awesome images! Terra + Perry conquered the cold temperature and the wind and did awesome!
 
 ![Golden_CO_Lookout_Mountain_Engagement_Photographer_Outdoor_Full_Sun_Harsh_Light_Mountain_Landscape_Terra_Perry_Couple_Shoot_001](https://googledrive.com/host/0B2YHeCssXjxzeXVwLXY0MXdFNDA/Golden_CO_Lookout_Mountain_Engagement_Photographer_Outdoor_Full_Sun_Harsh_Light_Mountain_Landscape_Terra_Perry_Couple_Shoot_001.jpg)
 
