@@ -2,10 +2,10 @@
 title: Estes Park Rocky Mountain National Park Engagement | Frozen Lake | Mountain Outdoor | Kayla + Jeremy
 label: Kayla + Jeremy
 thumbnail: https://googledrive.com/host/0B2YHeCssXjxzVG9DNUg2M1EwaUU/Estes_Park_Rocky_Mountain_National_Park_Engagement_Snow_Hiking_Frozen_Lake_Kayla_Jeremy_016.jpg
-description: Kayla + Jeremy met us out in Estes Park, and we spent some time adventuring Rocky Mountain National Park. We originally wanted to hike Bear Lake all the way to Emerald Lake, however we couldn't find a single parking spot. So we decided to just let our creativity lead us around the park. Jeremy claimed he was shy in front of camera, but it didn't take him long he warmed up to our cameras with the help of En Tao's corny jokes. 
+description: Kayla + Jeremy met us in Estes Park and we spent some time exploring Rocky Mountain National Park together. We originally wanted to hike from Bear Lake trail head all the way to Emerald Lake, however, we couldn’t find a single parking spot with a packed park that weekend. So we decided to just let our creativity lead us around the park instead. Jeremy claimed he was shy in front of camera, but it didn’t take him long before he warmed up to our cameras with the help of En Tao’s corny jokes.
 keywords: rocky mountain national park, national park, outdoor, engagement, denver wedding photographer, estes park wedding photographer, frozen lake, epic engagement shoot, creative engagement photos
 ---
-Kayla + Jeremy met us out in Estes Park, and we spent some time adventuring Rocky Mountain National Park. We originally wanted to hike Bear Lake all the way to Emerald Lake, however we couldn't find a single parking spot. So we decided to just let our creativity lead us around the park. Jeremy claimed he was shy in front of camera, but it didn't take him long he warmed up to our cameras with the help of En Tao's corny jokes. 
+Kayla + Jeremy met us in Estes Park and we spent some time exploring Rocky Mountain National Park together. We originally wanted to hike from Bear Lake trail head all the way to Emerald Lake, however, we couldn’t find a single parking spot with a packed park that weekend. So we decided to just let our creativity lead us around the park instead. Jeremy claimed he was shy in front of camera, but it didn’t take him long before he warmed up to our cameras with the help of En Tao’s corny jokes.
 
 ![Estes_Park_Rocky_Mountain_National_Park_Engagement_Snow_Hiking_Frozen_Lake_Kayla_Jeremy_001](https://googledrive.com/host/0B2YHeCssXjxzVG9DNUg2M1EwaUU/Estes_Park_Rocky_Mountain_National_Park_Engagement_Snow_Hiking_Frozen_Lake_Kayla_Jeremy_001.jpg)
 
@@ -14,8 +14,6 @@ Kayla + Jeremy met us out in Estes Park, and we spent some time adventuring Rock
 ![Estes_Park_Rocky_Mountain_National_Park_Engagement_Snow_Hiking_Frozen_Lake_Kayla_Jeremy_003](https://googledrive.com/host/0B2YHeCssXjxzVG9DNUg2M1EwaUU/Estes_Park_Rocky_Mountain_National_Park_Engagement_Snow_Hiking_Frozen_Lake_Kayla_Jeremy_003.jpg)
 
 ![Estes_Park_Rocky_Mountain_National_Park_Engagement_Snow_Hiking_Frozen_Lake_Kayla_Jeremy_004](https://googledrive.com/host/0B2YHeCssXjxzVG9DNUg2M1EwaUU/Estes_Park_Rocky_Mountain_National_Park_Engagement_Snow_Hiking_Frozen_Lake_Kayla_Jeremy_004.jpg)
-
-![Estes_Park_Rocky_Mountain_National_Park_Engagement_Snow_Hiking_Frozen_Lake_Kayla_Jeremy_005](https://googledrive.com/host/0B2YHeCssXjxzVG9DNUg2M1EwaUU/Estes_Park_Rocky_Mountain_National_Park_Engagement_Snow_Hiking_Frozen_Lake_Kayla_Jeremy_005.jpg)
 
 ![Estes_Park_Rocky_Mountain_National_Park_Engagement_Snow_Hiking_Frozen_Lake_Kayla_Jeremy_006](https://googledrive.com/host/0B2YHeCssXjxzVG9DNUg2M1EwaUU/Estes_Park_Rocky_Mountain_National_Park_Engagement_Snow_Hiking_Frozen_Lake_Kayla_Jeremy_006.jpg)
 
