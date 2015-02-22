@@ -2,10 +2,10 @@
 title: Estes Park Rocky Mountain National Park Adventure Shoot | Elk | Wildlife | Landscape | Couple Shoot | Katie + Nick
 label: Katie + Nick
 thumbnail: https://googledrive.com/host/0B2YHeCssXjxzQ0c4bHYtZVpLOTg/Estes_Park_Rocky_Mountain_National_Park_Engagement_Snow_Hiking_Frozen_Lake_Elk_Wildlife_Katie_Nick_Couple_Shoot_012.jpg
-description: Katie + Nick had a similar story to ours which was that they did not have a positive experience with their wedding photos. We are glad that they came all they way out to Rocky Mountain National Park to do an adventure love session with us! We even saw an elk during out shoot! We've seen elks before, but never one this majestic! 
+description: Katie + Nick had a similar story to ours, in that they also did not have a positive experience with their wedding photos. We are glad that they came all they way out to Rocky Mountain National Park to do an adventure love session with us! We even saw an elk during out shoot! We’ve seen elk before, but never so close and so majestic!
 keywords: estes park wedding photographer, rocky mountain wedding photographer, rocky mountain engagement photos, mountain engagement, elk photobomb, wildlife in engagement shoot, adventure, hiking, open field with mountains
 ---
-Katie + Nick had a similar story to ours which was that they did not have a positive experience with their wedding photos. We are glad that they came all they way out to Rocky Mountain National Park to do an adventure love session with us! We even saw an elk during out shoot! We've seen elks before, but never one this majestic! 
+Katie + Nick had a similar story to ours, in that they also did not have a positive experience with their wedding photos. We are glad that they came all they way out to Rocky Mountain National Park to do an adventure love session with us! We even saw an elk during out shoot! We’ve seen elk before, but never so close and so majestic!
 
 ![Estes_Park_Rocky_Mountain_National_Park_Engagement_Snow_Hiking_Frozen_Lake_Elk_Wildlife_Katie_Nick_Couple_Shoot_001](https://googledrive.com/host/0B2YHeCssXjxzQ0c4bHYtZVpLOTg/Estes_Park_Rocky_Mountain_National_Park_Engagement_Snow_Hiking_Frozen_Lake_Elk_Wildlife_Katie_Nick_Couple_Shoot_001.jpg)
 
@@ -48,3 +48,5 @@ Katie + Nick had a similar story to ours which was that they did not have a posi
 ![Estes_Park_Rocky_Mountain_National_Park_Engagement_Snow_Hiking_Frozen_Lake_Elk_Wildlife_Katie_Nick_Couple_Shoot_020](https://googledrive.com/host/0B2YHeCssXjxzQ0c4bHYtZVpLOTg/Estes_Park_Rocky_Mountain_National_Park_Engagement_Snow_Hiking_Frozen_Lake_Elk_Wildlife_Katie_Nick_Couple_Shoot_020.jpg)
 
 ![Estes_Park_Rocky_Mountain_National_Park_Engagement_Snow_Hiking_Frozen_Lake_Elk_Wildlife_Katie_Nick_Couple_Shoot_021](https://googledrive.com/host/0B2YHeCssXjxzQ0c4bHYtZVpLOTg/Estes_Park_Rocky_Mountain_National_Park_Engagement_Snow_Hiking_Frozen_Lake_Elk_Wildlife_Katie_Nick_Couple_Shoot_021.jpg)
+
+![Estes_Park_Rocky_Mountain_National_Park_Engagement_Snow_Hiking_Frozen_Lake_Elk_Wildlife_Katie_Nick_Couple_Shoot_022](https://googledrive.com/host/0B2YHeCssXjxzQ0c4bHYtZVpLOTg/Estes_Park_Rocky_Mountain_National_Park_Engagement_Snow_Hiking_Frozen_Lake_Elk_Wildlife_Katie_Nick_Couple_Shoot_022.jpg)
