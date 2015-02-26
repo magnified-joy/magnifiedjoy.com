@@ -36,7 +36,7 @@ RULES :
 
 ![Jane + Kyle Rustic Wedding Outdoor Field during Sunset](https://googledrive.com/host/0B2YHeCssXjxzaHd1SHRidG1JdDQ/076-Madison-WI-Outdoor-Barn-Rustic-Elegant-Jane-Kyle-Wedding.jpg)
 
-TO ENTER —> CLICK HERE!
+TO ENTER —> <a href="http://www.jotform.us/form/50565537918162">CLICK HERE!</a>
 
 ![Cath + Josh wedding sitting on the grass](https://googledrive.com/host/0B2YHeCssXjxzSWZyUlNNZ0hxUWc/112-Tenny-Park-Madison-WI-Casual-Laid-Back-Wedding-Cath-Josh.jpg)
 
