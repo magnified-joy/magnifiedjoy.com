@@ -1,7 +1,7 @@
 ---
 title: The Magnified Joy Wedding Photography Giveaway | Destination Wedding Photographer
 label: 2015 Wedding Giveaway
-thumbnail: https://googledrive.com/host/0B2YHeCssXjxzLTVhME14UlJDSWs/021-Indian-Fusion-Wedding-Goodman-Center-City-Church-Frankie-Daniel-Interracial-Cross-Cultural.jpg
+thumbnail: https://googledrive.com/host/0B2YHeCssXjxzcjRLeEdyVzg5Y0k/Crested-Butte-Colorado-Mountain-Wedding-Photographer-Secret-Stash-Julie-Matt-032.jpg
 description: 
 keywords: free wedding photography, wedding giveaway, birthday present, free destination wedding photographer
 ---
