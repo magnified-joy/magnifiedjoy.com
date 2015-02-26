@@ -7,14 +7,14 @@ keywords: free wedding photography, wedding giveaway, birthday present, free des
 ---
 The 2015 Magnified Joy Wedding Photography Giveaway!
 
-Today is my (En Tao) birthday and I am giving away wedding photography + some awesome discounts to some awesome adventurous madly in love couples.
+Today is my (En Tao) birthday and I am giving away wedding photography + some awesome discounts to some awesome, adventurous, madly-in-love couples.
 
 
 ![Julie + Matt at Woodswalk Crested Butte Colorado Wedding](https://googledrive.com/host/0B2YHeCssXjxzcjRLeEdyVzg5Y0k/Crested-Butte-Colorado-Mountain-Wedding-Photographer-Secret-Stash-Julie-Matt-032.jpg)
 
 DETAILS :
 
-This year, there will be three winners!
+There will be three winners!
 
 First Place: One couple will win their full day Magnified Joy wedding at no cost [Valued at $6050]
 
