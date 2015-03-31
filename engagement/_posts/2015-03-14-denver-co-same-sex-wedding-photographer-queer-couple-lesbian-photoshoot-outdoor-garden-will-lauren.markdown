@@ -1,5 +1,5 @@
 ---
-title: Denver, CO | Same Sex Wedding Photographer |Queer Lesbian Couple Photoshoot | Outdoor Garden | Will + Lauren
+title: Denver, CO | Same Sex Wedding Photographer | Queer Lesbian Couple Photoshoot | Outdoor Garden | Will + Lauren
 label: Lauren + Will
 thumbnail: https://googledrive.com/host/0B2YHeCssXjxzV2lFM3FBWktQSkU/010_Denver_Same_Sex_Wedding_Photographer_LGBT_Lesbian_couple_shoot_engagement_outdoor_garden_Will_Lauren.jpg
 description: 
