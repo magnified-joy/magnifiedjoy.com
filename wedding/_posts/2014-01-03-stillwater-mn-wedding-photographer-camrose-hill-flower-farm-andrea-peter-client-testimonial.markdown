@@ -3,7 +3,7 @@ title: Stillwater, MN Wedding Photographer | Camrose Hill Flower Farm | Andrea +
   Client Testimonial
 label: Andrea + Peter
 date: '2014-01-03 02:12:19 -0600'
-thumbnail: https://googledrive.com/host/0B2YHeCssXjxzUFJBMVpyS0FyZ28/why-we-love-our-wedding-photographers5-480x375.jpg
+thumbnail: http://images.magnifiedjoy.com/Blog/Weddings/2013/Andrea_Peter/why-we-love-our-wedding-photographers5-480x375.jpg
 description: Andrea + Peter got married at Camrose Hill Flower Farm in Stillwater,
   MN. Hear what Andrea has to say about the importance in choosing the right wedding
   photographer and her wedding photography experience with Magnified Joy Photography.
