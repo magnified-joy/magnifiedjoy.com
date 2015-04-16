@@ -1,12 +1,12 @@
 ---
 title: 2015 Artisan Photo Calendar Sale
 label: 2015 Artisan Calendar Sale
-thumbnail: https://googledrive.com/host/0B2YHeCssXjxzbno3R2FXdWNzbWc/scattered.jpg
+thumbnail: http://images.magnifiedjoy.com/Blog/Personal/2014/2015_Artisan_Photo_Calendar/scattered.jpg
 description: 
 keywords: artisan, photo calendar, 2015, new year, christmas, gift, stocking stuffers, holiday gift, ideas, minimalist, contemporary, unique gift, small business, local, organic, colorado, wisconsin, mountains, landscape, colorful colorado, crested butte
 ---
 
-![on stand](https://googledrive.com/host/0B2YHeCssXjxzbno3R2FXdWNzbWc/on-stand.jpg)
+![on stand](http://images.magnifiedjoy.com/Blog/Personal/2014/2015_Artisan_Photo_Calendar/on-stand.jpg)
 <dd><div class="center"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="F3SHXJLNFRBVU">
@@ -28,11 +28,11 @@ We are excited to announce our 2015 Artisan Photo Calendar. We've traveled quite
 
 We love Colorado, a lot. We find ourselves back in Colorado a couple times a year! All of the photos featured in this calendar were taken this year. Many of which are around the Crested Butte, CO area during June of 2014.
 
-![calendar art combined](https://googledrive.com/host/0B2YHeCssXjxzbno3R2FXdWNzbWc/calendar-art-combined.jpg)
+![calendar art combined](http://images.magnifiedjoy.com/Blog/Personal/2014/2015_Artisan_Photo_Calendar/calendar-art-combined.jpg)
 
 **A little about the calendar:**
 
-![scattered](https://googledrive.com/host/0B2YHeCssXjxzbno3R2FXdWNzbWc/scattered.jpg)
+![scattered](http://images.magnifiedjoy.com/Blog/Personal/2014/2015_Artisan_Photo_Calendar/scattered.jpg)
 
 The calendar is 5" x 7" in size. Designed to be simple and minimalistic. It's an ideal size for your desk at your office, living room end table, and more! 
 
@@ -40,9 +40,9 @@ After each month is done, you can cut off the bottom and have a 5"x5" landscape 
 
 Besides the 20 limited edition pre-production calendars ($29 level), the calendars are printed on smooth eco-friendly recycled paper stock. We switched paper stock after the initial pre-production run because the textured paper was not as vibrant as we wanted our photos to look!
 
-![KS Calendar GIF 700px.gif](https://googledrive.com/host/0B2YHeCssXjxzbno3R2FXdWNzbWc/KS-Calendar-GIF-700px.gif)
+![KS Calendar GIF 700px.gif](http://images.magnifiedjoy.com/Blog/Personal/2014/2015_Artisan_Photo_Calendar/KS-Calendar-GIF-700px.gif)
 
-![13](https://googledrive.com/host/0B2YHeCssXjxzbno3R2FXdWNzbWc/13.jpg)
+![13](http://images.magnifiedjoy.com/Blog/Personal/2014/2015_Artisan_Photo_Calendar/13.jpg)
 
 <dd><div class="center"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">

@@ -1,13 +1,13 @@
 ---
 title: Magnified Joy site launch &#35;travelingjoy giveaway | kickstarter calendar | adventure | airstream 
 label: Site Launch &#35;travelingjoy giveaway
-thumbnail: https://googledrive.com/host/0B2YHeCssXjxzRzFfcHlPcFVoUlE/travelingjoy-feature.jpg
+thumbnail: http://images.magnifiedjoy.com/Blog/Personal/2014/travelingjoy/travelingjoy-feature.jpg
 description: Magnified Joy New Site Launch #travelingjoy calendar giveaway featuring limited edition Kickstarter calendar
 keywords: kickstarter, airstream, calendar, #travelingjoy, traveling, joy, landscape, colorado, crested butte, adventure, road trip, USA, trailer, mobile wedding photography fundraiser, vintage Airstream restoration, mobile photography studio, road trip, cross-country, Airstream Safari
 ---
 
 
-![travelingjoy](https://googledrive.com/host/0B2YHeCssXjxzRzFfcHlPcFVoUlE/travelingjoy.jpg)
+![travelingjoy](http://images.magnifiedjoy.com/Blog/Personal/2014/travelingjoy/travelingjoy.jpg)
 
 Magnified Joy Photography is proud to debut our new website! It's been several months of hard work and it's finally here! *To kick off our new website and branding, we are giving away 5 copies of our limited edition calendar*, which will also be one of the reward levels for our upcoming Kickstarter Project to fund a renovated airstream. (More details on the Kickstarter Project to come.)
 
@@ -15,11 +15,11 @@ Here's a peek at the calendar featuring one of my favorite images from Crested B
 
 *Special thanks* to [Sarah Barga Pollasch](http://www.sarahbargapollasch.com/) for the new branding, Matt Cook for beautiful new website, and [Julep Design Co.](http://www.julepdesignco.com/) for helping out with supporting branding graphics.
 
-![travelingjoy calendar](https://googledrive.com/host/0B2YHeCssXjxzRzFfcHlPcFVoUlE/travelingjoy-calendar.jpg)
+![travelingjoy calendar](http://images.magnifiedjoy.com/Blog/Personal/2014/travelingjoy/travelingjoy-calendar.jpg)
 
 Here's a look at the entire calendar.
 
-![travelingjoy-full-calendar.jpg](https://googledrive.com/host/0B2YHeCssXjxzRzFfcHlPcFVoUlE/travelingjoy-full-calendar.jpg)
+![travelingjoy-full-calendar.jpg](http://images.magnifiedjoy.com/Blog/Personal/2014/travelingjoy/travelingjoy-full-calendar.jpg)
 
 ## Want a copy of this awesome limited edition calendar? Here's how you enter! #
 
