@@ -1,7 +1,7 @@
 ---
 title: Denver, CO | Space Gallery | Photojournalistic Winter Wedding | Christian | Creative Traditional | Jasper + Wes
 label: Jasper + Wes
-thumbnail: http://images.magnifiedjoy.com/Blog/Weddings/2015/Jasper_Wes_Wedding/Denver_CO_Space_Gallery_Wedding_Christian_Winter_Feburary_Snowing_Photojournalistic_Jasper_Wes_042.jpg
+thumbnail: http://images.magnifiedjoy.com/Blog/Weddings/2015/Jasper_Wes_Wedding/Denver_CO_Space_Gallery_Wedding_Christian_Winter_Feburary_Snowing_Photojournalistic_Jasper_Wes_068.jpg
 description: I got to second shoot with my buddy AD for Jasper + Wes' wedding at the Space Gallery in Denver. Even though the day was cold, Jasper + Wes, and the entire wedding turned up the heat on the dance floor! It's been a while since I shot a wedding with this much grooving energy from the beginning to the end! 
 keywords: denver, colorado, denver wedding photographer, creative wedding photographer in Denver, wedding photos in black and white photos, christian wedding in denver, photojournalistic wedding photographer, wedding at space gallery, space gallery wedding, space gallery denver 
 ---
