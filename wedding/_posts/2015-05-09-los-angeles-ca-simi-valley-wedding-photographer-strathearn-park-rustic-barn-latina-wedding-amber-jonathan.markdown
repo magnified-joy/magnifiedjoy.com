@@ -2,7 +2,7 @@
 title: Los Angeles, CA | Simi Valley Wedding Photographer | Strathearn Park Rustic Barn Latina Wedding | Amber + Jonathan
 label: Amber + Jonathan
 thumbnail: http://images.magnifiedjoy.com/Blog/Weddings/2015/Amber_Jonathan_Wedding/018_Los_Angeles_Simi_Valley_Wedding_Photographer_Rustic_Barn_Country_Latina_Wedding_Amber_Jonathan.jpg
-description: Such an awesome time at Amber + Jonathan's rustic barn wedding at Strathearn Park in Simi Valley! The atmosphere was laid back and was full of love, joy, laughter! We felt so honored to be document this day! 
+description: Such an awesome time at Amber + Jonathan's rustic barn wedding at Strathearn Park in Simi Valley! The atmosphere was laid back and was full of love, joy, laughter! We felt so honored to document this day! Congrats you guys! Have fun in Maui!
 keywords: los angeles, simi valley wedding photographer, latina wedding, rustic barn wedding, Strathearn Park wedding, photojournalistic photographer in LA,
 ---
 Such an awesome time at Amber + Jonathan's rustic barn wedding at Strathearn Park in Simi Valley! The atmosphere was laid back and was full of love, joy, laughter! We felt so honored to be document this day! 
