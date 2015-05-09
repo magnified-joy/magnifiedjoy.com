@@ -2,10 +2,10 @@
 title: Laguna Beach, CA Wedding Photographer | Korean | Epic Beach Rocks | Engagement Session | Grace + Larry
 label: Grace + Larry
 thumbnail: http://images.magnifiedjoy.com/Blog/Engagement/2015/Grace_Larry/010_Laguna_Beach_Engagement_Epic_Beach_Rocks_Romantic_Korean_Grace_Larry.jpg
-description: Grace + Larry had an epic engagement session at Laguna Beach. We drove from Los Angeles to Laguna Beach just in time for magic hour, but we had to work fast as the tide was already pretty high and there were large waves that day. Thanks Grace + Larry for trusting our photographic instinct and go on this adventure with us on the rocks!
+description: Grace + Larry had an epic engagement session at Laguna Beach. We drove from Los Angeles to Laguna Beach just in time for magic hour, but we had to work fast as the tide was already pretty high and there were larger-than-normal waves that day. Thanks Grace + Larry for trusting our photographic instinct and coming on this adventure with us! Cheers to many more crazy adventures in your coming marriage together!
 keywords: laguna beach, engagement, california, destination wedding, epic engagement photos, laguna beach engagement, laguna beach wedding, korean, korean engagement, korean wedding
 ---
-Grace + Larry had an epic engagement session at Laguna Beach. We drove from Los Angeles to Laguna Beach just in time for magic hour, but we had to work fast as the tide was already pretty high and there were large waves that day. Thanks Grace + Larry for trusting our photographic instinct and go on this adventure with us on the rocks!
+Grace + Larry had an epic engagement session at Laguna Beach. We drove from Los Angeles to Laguna Beach just in time for magic hour, but we had to work fast as the tide was already pretty high and there were larger-than-normal waves that day. Thanks Grace + Larry for trusting our photographic instinct and coming on this adventure with us! Cheers to many more crazy adventures in your coming marriage together!
 
 ![001_Laguna_Beach_Engagement_Epic_Beach_Rocks_Romantic_Korean_Grace_Larry](http://images.magnifiedjoy.com/Blog/Engagement/2015/Grace_Larry/001_Laguna_Beach_Engagement_Epic_Beach_Rocks_Romantic_Korean_Grace_Larry.jpg)
 
