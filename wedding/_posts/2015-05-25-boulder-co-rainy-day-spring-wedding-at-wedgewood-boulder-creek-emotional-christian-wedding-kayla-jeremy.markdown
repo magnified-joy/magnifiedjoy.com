@@ -2,10 +2,10 @@
 title: Boulder, CO | Rainy Day Spring Wedding at Wedgewood, Boulder Creek | Emotional Christian Wedding | Kayla + Jeremy
 label: Kayla + Jeremy
 thumbnail: http://images.magnifiedjoy.com/Blog/Weddings/2015/Kayla_Jeremy_Wedding/082_Boulder_CO_Wedgewood_Wedding_Rainy_Ceremony_Spring_Shower_Wedding_Classic_Fun_Emotional_Kayla_Jeremy.jpg
-description: What a beautiful wedding that's filled with laugher, tears, joy, and rain! Despite the rain during the ceremony, everyone embraced the rain and had a great time! Congratulations to Kayla + Jeremy!
+description: Kayla + Jeremy's wedding was our first one in the rain! The rain made it vibrantly moody and saturated with color. Even though the rain and umbrellas will mark their wedding memories, their day was also marked by so much more--a relationship founded on Christ, sincere friendships, and of course, fun and dancing! Kayla + Jeremy, we are so blessed to know you guys as friends and pray that your marriage remains centered on Christ, transparency, authenticity, service, and lots of laughter!
 keywords: boulder wedding photographer, rainy day wedding, spring shower wedding, umbrellas during wedding, wedgewood wedding, denver seminary wedding, christ centered wedding colorado, christian wedding denver, kayla and jeremy
 ---
-What a beautiful wedding that's filled with laugher, tears, joy, and rain! Despite the rain during the ceremony, everyone embraced the rain and had a great time! Congratulations to Kayla + Jeremy!
+Kayla + Jeremy's wedding was our first one in the rain! The rain made it vibrantly moody and saturated with color. Even though the rain and umbrellas will mark their wedding memories, their day was also marked by so much more--a relationship founded on Christ, sincere friendships, and of course, fun and dancing! Kayla + Jeremy, we are so blessed to know you guys as friends and pray that your marriage remains centered on Christ, transparency, authenticity, service, and lots of laughter!
 
 ![001_Boulder_CO_Wedgewood_Wedding_Rainy_Ceremony_Spring_Shower_Wedding_Classic_Fun_Emotional_Kayla_Jeremy](http://images.magnifiedjoy.com/Blog/Weddings/2015/Kayla_Jeremy_Wedding/001_Boulder_CO_Wedgewood_Wedding_Rainy_Ceremony_Spring_Shower_Wedding_Classic_Fun_Emotional_Kayla_Jeremy.jpg)
 
@@ -314,7 +314,3 @@ What a beautiful wedding that's filled with laugher, tears, joy, and rain! Despi
 ![153_Boulder_CO_Wedgewood_Wedding_Rainy_Ceremony_Spring_Shower_Wedding_Classic_Fun_Emotional_Kayla_Jeremy](http://images.magnifiedjoy.com/Blog/Weddings/2015/Kayla_Jeremy_Wedding/153_Boulder_CO_Wedgewood_Wedding_Rainy_Ceremony_Spring_Shower_Wedding_Classic_Fun_Emotional_Kayla_Jeremy.jpg)
 
 ![154_Boulder_CO_Wedgewood_Wedding_Rainy_Ceremony_Spring_Shower_Wedding_Classic_Fun_Emotional_Kayla_Jeremy](http://images.magnifiedjoy.com/Blog/Weddings/2015/Kayla_Jeremy_Wedding/154_Boulder_CO_Wedgewood_Wedding_Rainy_Ceremony_Spring_Shower_Wedding_Classic_Fun_Emotional_Kayla_Jeremy.jpg)
-
-![155_Boulder_CO_Wedgewood_Wedding_Rainy_Ceremony_Spring_Shower_Wedding_Classic_Fun_Emotional_Kayla_Jeremy](http://images.magnifiedjoy.com/Blog/Weddings/2015/Kayla_Jeremy_Wedding/155_Boulder_CO_Wedgewood_Wedding_Rainy_Ceremony_Spring_Shower_Wedding_Classic_Fun_Emotional_Kayla_Jeremy.jpg)
-
-![156_Boulder_CO_Wedgewood_Wedding_Rainy_Ceremony_Spring_Shower_Wedding_Classic_Fun_Emotional_Kayla_Jeremy](http://images.magnifiedjoy.com/Blog/Weddings/2015/Kayla_Jeremy_Wedding/156_Boulder_CO_Wedgewood_Wedding_Rainy_Ceremony_Spring_Shower_Wedding_Classic_Fun_Emotional_Kayla_Jeremy.jpg)
