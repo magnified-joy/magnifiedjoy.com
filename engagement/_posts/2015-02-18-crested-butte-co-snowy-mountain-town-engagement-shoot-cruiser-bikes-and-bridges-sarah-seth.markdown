@@ -1,0 +1,54 @@
+---
+title: Crested Butte, CO | Snowy Mountain Town Engagement Shoot | Cruiser Bikes and Bridges | Sarah + Seth
+label: Sarah + Seth
+thumbnail: http://images.magnifiedjoy.com/Blog/Engagement/2015/Sarah_Seth_Engagement/010_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth.jpg
+description: We absolutely love photographing in Crested Butte, CO. It's a bit like paradise there! When we asked Sarah + Seth what they would like to do for their engagement session, it was without hesitation that they wanted to include bikes and their favorite bike route through 6 different bridges that they like to ride on as their routine to unwind from work! Enjoy this quaint snowy mountain town engagement shoot. 
+keywords: crested butte engagement, crested butte wedding, cb engagement, cb photographer, photojournalistic photographer in crested butte, snowy engagement session, biking engagement, mountain engagement
+---
+We absolutely love photographing in Crested Butte, CO. It's a bit like paradise there! When we asked Sarah + Seth what they would like to do for their engagement session, it was without hesitation that they wanted to include bikes and their favorite bike route through 6 different bridges that they like to ride on as their routine to unwind from work! Enjoy this quaint snowy mountain town engagement shoot. 
+
+![001_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth](http://images.magnifiedjoy.com/Blog/Engagement/2015/Sarah_Seth_Engagement/001_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth.jpg)
+
+![002_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth](http://images.magnifiedjoy.com/Blog/Engagement/2015/Sarah_Seth_Engagement/002_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth.jpg)
+
+![003_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth](http://images.magnifiedjoy.com/Blog/Engagement/2015/Sarah_Seth_Engagement/003_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth.jpg)
+
+![004_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth](http://images.magnifiedjoy.com/Blog/Engagement/2015/Sarah_Seth_Engagement/004_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth.jpg)
+
+![005_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth](http://images.magnifiedjoy.com/Blog/Engagement/2015/Sarah_Seth_Engagement/005_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth.jpg)
+
+![006_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth](http://images.magnifiedjoy.com/Blog/Engagement/2015/Sarah_Seth_Engagement/006_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth.jpg)
+
+![007_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth](http://images.magnifiedjoy.com/Blog/Engagement/2015/Sarah_Seth_Engagement/007_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth.jpg)
+
+![008_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth](http://images.magnifiedjoy.com/Blog/Engagement/2015/Sarah_Seth_Engagement/008_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth.jpg)
+
+![009_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth](http://images.magnifiedjoy.com/Blog/Engagement/2015/Sarah_Seth_Engagement/009_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth.jpg)
+
+![010_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth](http://images.magnifiedjoy.com/Blog/Engagement/2015/Sarah_Seth_Engagement/010_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth.jpg)
+
+![011_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth](http://images.magnifiedjoy.com/Blog/Engagement/2015/Sarah_Seth_Engagement/011_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth.jpg)
+
+![012_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth](http://images.magnifiedjoy.com/Blog/Engagement/2015/Sarah_Seth_Engagement/012_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth.jpg)
+
+![013_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth](http://images.magnifiedjoy.com/Blog/Engagement/2015/Sarah_Seth_Engagement/013_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth.jpg)
+
+![014_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth](http://images.magnifiedjoy.com/Blog/Engagement/2015/Sarah_Seth_Engagement/014_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth.jpg)
+
+![015_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth](http://images.magnifiedjoy.com/Blog/Engagement/2015/Sarah_Seth_Engagement/015_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth.jpg)
+
+![016_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth](http://images.magnifiedjoy.com/Blog/Engagement/2015/Sarah_Seth_Engagement/016_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth.jpg)
+
+![017_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth](http://images.magnifiedjoy.com/Blog/Engagement/2015/Sarah_Seth_Engagement/017_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth.jpg)
+
+![018_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth](http://images.magnifiedjoy.com/Blog/Engagement/2015/Sarah_Seth_Engagement/018_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth.jpg)
+
+![019_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth](http://images.magnifiedjoy.com/Blog/Engagement/2015/Sarah_Seth_Engagement/019_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth.jpg)
+
+![020_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth](http://images.magnifiedjoy.com/Blog/Engagement/2015/Sarah_Seth_Engagement/020_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth.jpg)
+
+![021_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth](http://images.magnifiedjoy.com/Blog/Engagement/2015/Sarah_Seth_Engagement/021_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth.jpg)
+
+![022_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth](http://images.magnifiedjoy.com/Blog/Engagement/2015/Sarah_Seth_Engagement/022_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth.jpg)
+
+![023_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth](http://images.magnifiedjoy.com/Blog/Engagement/2015/Sarah_Seth_Engagement/023_Crested_Butte_CO_Snowy_Mountain_Town_Engagement_Bikes_and_Bridges_Sarah_Seth.jpg)
