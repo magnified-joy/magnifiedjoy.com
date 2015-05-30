@@ -53,4 +53,4 @@ longitude: -89.40123019999999
 <p><img src="http://images.magnifiedjoy.com/Blog/Weddings/2013/Alli_Davis/MMoCa-Fresco-Alli-Davis-Madison-Wedding-036.jpg" alt="MMoCa Fresco Alli Davis Madison Wedding 036" width="1500" height="1066" class="alignnone size-full wp-image-3732" /></p>
 <p>A shared dinner over wine, roses, laughter, and the glow of the Capitol, made Alli + Davis’ first evening together as a married couple as simple, classy, and special, just as they wanted. </p>
 <p><img src="http://images.magnifiedjoy.com/Blog/Weddings/2013/Alli_Davis/MMoCa-Fresco-Alli-Davis-Madison-Wedding-037.jpg" alt="MMoCa Fresco Alli Davis Madison Wedding 037" width="1500" height="1066" class="alignnone size-full wp-image-3733" /></p>
-<p>To see more photos and to order prints from Alli + Davis' wedding, click <a href="http://magnifiedjoy.smugmug.com/">here</a>. The password to the gallery is Alli's maiden name in all lower case.</p>
+
