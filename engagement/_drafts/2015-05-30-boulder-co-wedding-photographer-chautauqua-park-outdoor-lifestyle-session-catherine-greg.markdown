@@ -2,10 +2,10 @@
 title: Boulder, CO Wedding Photographer | Chautauqua Park Outdoor Lifestyle Session | Catherine + Greg
 label: Cat + Greg
 thumbnail: http://images.magnifiedjoy.com/Blog/Engagement/2015/Cat_Greg/009_Boulder_CO_Engagement_Photographer_Chautauqua_Park_Golden_Retriever_Dog_Catherine_Greg.jpg
-description: Boulder lifestyle wedding photographer, Chautauqua Park, Cat + Greg with their golden retriever Finn at Chautauqua Park.
+description: Boulder lifestyle wedding photographer, Chautauqua Park, Cat + Greg with their golden retriever Fin at Chautauqua Park.
 keywords: boulder wedding photographer, golden wedding photographer, chautauqua park engagement, boulder engagement, outdoor engagement shoot with dog, golden retriever, catherine, greg 
 ---
-Cat + Greg and their adorable golden retriever Finn!
+Cat + Greg and their adorable golden retriever Fin!
 
 ![001_Boulder_CO_Engagement_Photographer_Chautauqua_Park_Golden_Retriever_Dog_Catherine_Greg](http://images.magnifiedjoy.com/Blog/Engagement/2015/Cat_Greg/001_Boulder_CO_Engagement_Photographer_Chautauqua_Park_Golden_Retriever_Dog_Catherine_Greg.jpg)
 
