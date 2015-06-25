@@ -1,7 +1,7 @@
 ---
 title: Off Road Camping Adventure Weekend Near Brekenridge, Colorado 
 label: Off Road Camping Adventure Weekend Near Breckenridge, Colorado 
-thumbnail: http://images.magnifiedjoy.com/Blog/Personal/2015/Off_Road_Camping_Alma_Colorado/
+thumbnail: http://images.magnifiedjoy.com/Blog/Personal/2015/Off_Road_Camping_Alma_Colorado/008_Denver_Colorado_Adventure_Wedding_Photographer_Alma_Hoosier_Pass_Tunnel_Off_Road_Camping_Hiking_Wilderness_Survival_Trip_with_Gourmet_Pizza_Abandon_Mountain_Side_Cabin_Mining_Ruins_Old_Mill_Tripple_Stacked_Hammock.jpg
 description: Off road camping excursion out in the wilderness of Colorado exploring abandon buildings and old mining ruins.
 keywords: brekenridge, alma, colorado, adventure wedding photographer, mining ruins, old mining mill, off road, fj cruiser off road, explore, adventure, camping excursion,  Hoosier Pass Tunnel,  abandoned mountain cabin, wilderness survival, gourmet camping food
 ---
