@@ -5,7 +5,7 @@ thumbnail: http://images.magnifiedjoy.com/Blog/Weddings/2015/Grace_Larry_Wedding
 description: Classy elegant Korean American wedding at the Loft on Pine in Long Beach, CA. Western wedding with traditional Korean ceremony Paebaek
 keywords: Paebaek ceremony, long beach wedding photographer, los angeles wedding photographer, loft on pine wedding, loft on pine preferred vendor,  korean wedding, korean american wedding, california wedding photographer, asian wedding in california, asian wedding photographer,  ethnic wedding 
 ---
-Grace + Larry's wedding is our first Korean American wedding. What an amazing experience! We absolutely love celebrating different cultures! Grace + Larry's wedding ceremony was filled with heartfelt moments, there was so much happy tears, and sincere gratitudes. 
+Grace + Larry's wedding is our first Korean American wedding. What an amazing experience! We absolutely love celebrating different cultures! Grace + Larry's wedding ceremony was filled with heartfelt moments, many happy tears, a strong focus on Christ, and sincere gratitude for their family and friends. Not to mention, the stunning venue, dress, and flowers added to the beauty of the day! 
 
 Venue: [The Loft On Pine](https://www.facebook.com/TheLoftOnPine)
 
