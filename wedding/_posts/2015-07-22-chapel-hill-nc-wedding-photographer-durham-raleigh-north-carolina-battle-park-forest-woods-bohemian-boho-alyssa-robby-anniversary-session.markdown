@@ -1,7 +1,7 @@
 ---
 title: Chapel Hill, NC Wedding Photographer Durham Raleigh North Carolina | Battle Park Forest Woods Bohemian BOHO | Alyssa + Robby Anniversary Session
 label: Alyssa + Robby
-thumbnail: http://images.magnifiedjoy.com/Blog/Weddings/2015/Alyssa_Robby_Anniversary_Shoot/008_Chapel_Hill_Wedding_Photographer_Forest_Woods_Battle_Park_Anniversary_Alyssa_Robby.jpg
+thumbnail: http://images.magnifiedjoy.com/Blog/Weddings/2015/Alyssa_Robby_Anniversary_Shoot/001_Chapel_Hill_Wedding_Photographer_Forest_Woods_Battle_Park_Anniversary_Alyssa_Robby.jpg
 description: Alyssa + Robby just celebrated their first wedding anniversary! What better way to celebrate an anniversary than by having a dreamy romantic photo session! Alyssa is super talented and hand-made the beautiful backdrop! If you are interested in getting your hands on one of these backdrops for your home or wedding, you can find it at her etsy shop. 
 keywords: chapel hill wedding photographer, chapel hill anniversary, chapel hill, engagement photographer, battle park, durham, raleigh, best wedding photographer in durham, forest themed engagement shoot, elopement in the woods, Macramé Backdrop, Macrame wedding decor, Boho wedding decor
 ---
