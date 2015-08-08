@@ -2,10 +2,10 @@
 title: Chapel Hill, NC Wedding Photographer Durham Raleigh North Carolina | Battle Park Forest Woods Bohemian BOHO | Alyssa + Robby Anniversary Session
 label: Alyssa + Robby
 thumbnail: http://images.magnifiedjoy.com/Blog/Weddings/2015/Alyssa_Robby_Anniversary_Shoot/008_Chapel_Hill_Wedding_Photographer_Forest_Woods_Battle_Park_Anniversary_Alyssa_Robby.jpg
-description: Alyssa + Robby celebrated their one year anniversary not too long ago. What better way is it to celebrate by having romantic dreamy photos taken of them. Alyssa hand made the wedding backdrop, if you are interested, you can find it at her etsy shop.
+description: Alyssa + Robby just celebrated their first wedding anniversary! What better way to celebrate an anniversary than by having a dreamy romantic photo session! Alyssa is super talented and hand-made the beautiful backdrop! If you are interested in getting your hands on one of these backdrops for your home or wedding, you can find it at her etsy shop. 
 keywords: chapel hill wedding photographer, chapel hill anniversary, chapel hill, engagement photographer, battle park, durham, raleigh, best wedding photographer in durham, forest themed engagement shoot, elopement in the woods, Macramé Backdrop, Macrame wedding decor, Boho wedding decor
 ---
-Alyssa + Robby celebrated their one year anniversary not too long ago. What better way is it to celebrate by having romantic dreamy photos taken of them. Alyssa hand made the wedding backdrop, if you are interested, you can find it at her etsy shop [here](https://www.etsy.com/shop/eastknits).
+Alyssa + Robby just celebrated their first wedding anniversary! What better way to celebrate an anniversary than by having a dreamy romantic photo session! Alyssa is super talented and hand-made the beautiful backdrop! If you are interested in getting your hands on one of these backdrops for your home or wedding, you can find it at her [etsy shop](https://www.etsy.com/shop/eastknits).
 
 ![001_Chapel_Hill_Wedding_Photographer_Forest_Woods_Battle_Park_Anniversary_Alyssa_Robby](http://images.magnifiedjoy.com/Blog/Weddings/2015/Alyssa_Robby_Anniversary_Shoot/001_Chapel_Hill_Wedding_Photographer_Forest_Woods_Battle_Park_Anniversary_Alyssa_Robby.jpg)
 
