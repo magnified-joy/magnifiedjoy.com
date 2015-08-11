@@ -4,7 +4,7 @@ description:
 baseurl: 
 permalink: /:categories/:title/
 url: "http://www.magnifiedjoy.com"
-image: "https://googledrive.com/host/0B2YHeCssXjxzN0UzdVZtNmFINTQ/magnifiedjoy-opengraph.jpg"
+image: "http://images.magnifiedjoy.com/MJP_Open_Graph.jpg"
 include: ['_css','_js','_img']
 defaults:
   -
