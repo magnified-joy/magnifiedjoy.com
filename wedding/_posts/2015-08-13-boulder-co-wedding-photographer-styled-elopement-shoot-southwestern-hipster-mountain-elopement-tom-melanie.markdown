@@ -9,14 +9,14 @@ We had the pleasure of working with Abbey from Purple Summer Events who have put
 
 Special thanks to our creative team, we could not have pulled this shoot together without them!
 
-Photographers: Magnified Joy Photography
-Event Planning: Purple Summer Events
+Photographers: [Magnified Joy Photography](https://www.magnifiedjoy.com)
+Event Planning: [Purple Summer Events](http://purplesummerevents.com/)
 Hair: Channelle Redmon
-Makeup: Pretty Bride Shop
-Floral: MJM Designs
-Rental: Acorn & Oakleaf Vintage Rentals
-Pastries: Sugar Bakeshop
-Chocolates: Victoria’s Chocolates
+Makeup: [Pretty Bride Shop](http://www.prettybrideshop.com/)
+Floral: [MJM Designs](http://www.mjmdesignsllc.com/)
+Rental: [Acorn & Oakleaf Vintage Rentals](https://www.facebook.com/acornoakleafvintage?fref=ts)
+Pastries: [Sugar Bakeshop](http://sugar-bakeshop.com/)
+Chocolates: [Victoria’s Chocolates](https://squareup.com/market/victorias-chocolates)
 
 ![001_Groom_Kissing_Bride_In_The_Woods](http://images.magnifiedjoy.com/Blog/Weddings/2015/Tom_Melanie_Styled_Shoot/001_Groom_Kissing_Bride_In_The_Woods.jpg)
 
