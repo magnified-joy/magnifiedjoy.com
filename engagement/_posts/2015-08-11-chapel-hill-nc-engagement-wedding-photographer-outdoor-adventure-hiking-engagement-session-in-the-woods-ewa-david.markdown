@@ -5,7 +5,7 @@ thumbnail: http://images.magnifiedjoy.com/Blog/Engagement/2015/Ewa_David_Engagem
 description: Ewa + David hiking in the woods of Johnston Mill Nature Preserve in Chapel Hill, North Carolina for their outdoor adventure engagement session. 
 keywords: chapel hill wedding photographer, north carolina, durham wedding photographer, raleigh creative wedding photographer, engagement session, woods, nature, organic photos, artistic engagement photos in the woods, adventure session, hiking engagement, outdoor engagement shoot idea
 ---
-Ewa + David hiking in the woods of Johnston Mill Nature Preserve in Chapel Hill, North Carolina for their outdoor adventure engagement session. 
+You wouldn’t know it by their sweetness, but these two met through their shared interest in Krav Maga (contact combat, if you’re unfamiliar)! Hard-core, disciplined, and...as kind as can be! Ewa + David were truly a joy to work with. Together we hiked the woods of Johnston Mill Nature Preserve in Chapel Hill, North Carolina for their outdoor adventure engagement session. Green, lush, and as beautiful as the photos indicate. We’ll definitely go back there to hike the trails again!
 
 ![001_Ewa_David_Engagement_Chapel_Hill](http://images.magnifiedjoy.com/Blog/Engagement/2015/Ewa_David_Engagement/001_Ewa_David_Engagement_Chapel_Hill.jpg)
 

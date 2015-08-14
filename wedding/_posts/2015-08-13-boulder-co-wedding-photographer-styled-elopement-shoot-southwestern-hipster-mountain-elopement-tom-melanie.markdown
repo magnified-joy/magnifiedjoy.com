@@ -11,7 +11,7 @@ Special thanks to our creative team, we could not have pulled this shoot togethe
 
 Photographers: [Magnified Joy Photography](https://www.magnifiedjoy.com) //
 Event Planning: [Purple Summer Events](http://purplesummerevents.com/) //
-Hair: Channelle Redmon //
+Hair: [Channelle Redmon](https://www.facebook.com/ChanelleandBeauty) //
 Makeup: [Pretty Bride Shop](http://www.prettybrideshop.com/) //
 Floral: [MJM Designs](http://www.mjmdesignsllc.com/) //
 Rental: [Acorn & Oakleaf Vintage Rentals](https://www.facebook.com/acornoakleafvintage?fref=ts) //
