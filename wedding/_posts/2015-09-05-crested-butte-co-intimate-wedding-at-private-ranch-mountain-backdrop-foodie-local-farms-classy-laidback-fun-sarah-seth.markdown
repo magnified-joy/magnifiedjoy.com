@@ -234,9 +234,9 @@ Sarah + Seth's wedding was nothing but spectacular! Their vision of an intimate 
 ![116_Crested_Butte_CO_Private_Ranch_Initimate_Wedding_Local_Seasonal_Food_Foodie_Stormy_Weather_Rain_Fall_Unique_Special_Initimate_Burning_of_Sage_Ceremony_Fun_Barn_Reception_Live_Band_Dancing_Marquee_Lights_Lets_Dance_Stars_Night_Sky_New_York_Sarah_Se](http://images.magnifiedjoy.com/Blog/Weddings/2015/Sarah_Seth_Wedding/116_Crested_Butte_CO_Private_Ranch_Initimate_Wedding_Local_Seasonal_Food_Foodie_Stormy_Weather_Rain_Fall_Unique_Special_Initimate_Burning_of_Sage_Ceremony_Fun_Barn_Reception_Live_Band_Dancing_Marquee_Lights_Lets_Dance_Stars_Night_Sky_New_York_Sarah_Se.jpg)
 
 Vendors:
-Planner - [Jamie Booth of Blue Bird Events](http://www.blue-bird-events.com/)
-Catering - [Chef Dana Zobs, Chef Stacee VanAernem and their team at Crested Butte Personal Chefs](http://crestedbuttespersonalchefs.com/)
-Bakery/Pies - [Chris Sullivan of Mountain Oven Organic Bakery](http://mountainoven.com/)
-Flowers - [Sarah of From the Ground Up](http://www.fromthegroundupflowers.com)
+Planner - [Blue Bird Events](http://www.blue-bird-events.com/)
+Catering - [Crested Butte Personal Chefs](http://crestedbuttespersonalchefs.com/)
+Bakery/Pies - [Mountain Oven Organic Bakery](http://mountainoven.com/)
+Flowers - [From the Ground Up](http://www.fromthegroundupflowers.com)
 Band - [Ryan Herr Music](https://www.facebook.com/RyanHerrMusic)
 Hair + Makeup - [Leta Maunz](https://www.styleseat.com/oletamaunz)
