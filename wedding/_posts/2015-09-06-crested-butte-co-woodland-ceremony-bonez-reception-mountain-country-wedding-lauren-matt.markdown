@@ -2,7 +2,7 @@
 title: Crested Butte, CO | Woodland Ceremony | Bonez Reception | Mountain Country Wedding | Lauren + Matt
 label: Lauren + Matt
 thumbnail: http://images.magnifiedjoy.com/Blog/Weddings/2015/Lauren_Matt_Wedding/001_Crested_Butte_CO_Harmel_Country_Dude_Ranch_Bonez_Fun_Laid-back_Live_Music_Reception_Mt_Crested_Butte_Beautiful_Ceremony_In_Woods_Lauren_Matt.jpg
-description: We got to photograph Lauren + Matt for the first time just two days before their wedding for their engagement shoot. We absolutely love Lauren + Matt's adventurous laid-back spirit. Their beautiful personalities are just contagious to be around. It was such a fun day celebrating with their friends and families and party into the night. 
+description: We got to photograph Lauren + Matt for the first time just two days before their wedding for their engagement shoot. We absolutely love Lauren + Matt's adventurous laid-back spirit. Their beautiful personalities are just contagious to be around. It was such a fun day celebrating with their friends and families and party into the night at [Bonez](http://www.bonez.co/). 
 keywords: crested butte wedding, best crested butte wedding photographer, unique wedding photographer in colorado, mountain country wedding, bonez reception, crested butte bonez, woodland clearing ceremony, texas, denver wedding photographer, midland texas wedding photographer
 ---
 We got to photograph Lauren + Matt for the first time just two days before their wedding for their engagement shoot. We absolutely love Lauren + Matt's adventurous laid-back spirit. Their beautiful personalities are just contagious to be around. It was such a fun day celebrating with their friends and families and party into the night. 
@@ -214,11 +214,3 @@ We got to photograph Lauren + Matt for the first time just two days before their
 ![103_Crested_Butte_CO_Harmel_Country_Dude_Ranch_Bonez_Fun_Laid back_Live_Music_Reception_Mt_Crested_Butte_Beautiful_Ceremony_In_Woods_Lauren_Matt](http://images.magnifiedjoy.com/Blog/Weddings/2015/Lauren_Matt_Wedding/103_Crested_Butte_CO_Harmel_Country_Dude_Ranch_Bonez_Fun_Laid-back_Live_Music_Reception_Mt_Crested_Butte_Beautiful_Ceremony_In_Woods_Lauren_Matt.jpg)
 
 ![104_Crested_Butte_CO_Harmel_Country_Dude_Ranch_Bonez_Fun_Laid back_Live_Music_Reception_Mt_Crested_Butte_Beautiful_Ceremony_In_Woods_Lauren_Matt](http://images.magnifiedjoy.com/Blog/Weddings/2015/Lauren_Matt_Wedding/104_Crested_Butte_CO_Harmel_Country_Dude_Ranch_Bonez_Fun_Laid-back_Live_Music_Reception_Mt_Crested_Butte_Beautiful_Ceremony_In_Woods_Lauren_Matt.jpg)
-
-![105_Crested_Butte_CO_Harmel_Country_Dude_Ranch_Bonez_Fun_Laid back_Live_Music_Reception_Mt_Crested_Butte_Beautiful_Ceremony_In_Woods_Lauren_Matt](http://images.magnifiedjoy.com/Blog/Weddings/2015/Lauren_Matt_Wedding/105_Crested_Butte_CO_Harmel_Country_Dude_Ranch_Bonez_Fun_Laid-back_Live_Music_Reception_Mt_Crested_Butte_Beautiful_Ceremony_In_Woods_Lauren_Matt.jpg)
-
-![106_Crested_Butte_CO_Harmel_Country_Dude_Ranch_Bonez_Fun_Laid back_Live_Music_Reception_Mt_Crested_Butte_Beautiful_Ceremony_In_Woods_Lauren_Matt](http://images.magnifiedjoy.com/Blog/Weddings/2015/Lauren_Matt_Wedding/106_Crested_Butte_CO_Harmel_Country_Dude_Ranch_Bonez_Fun_Laid-back_Live_Music_Reception_Mt_Crested_Butte_Beautiful_Ceremony_In_Woods_Lauren_Matt.jpg)
-
-![107_Crested_Butte_CO_Harmel_Country_Dude_Ranch_Bonez_Fun_Laid back_Live_Music_Reception_Mt_Crested_Butte_Beautiful_Ceremony_In_Woods_Lauren_Matt](http://images.magnifiedjoy.com/Blog/Weddings/2015/Lauren_Matt_Wedding/107_Crested_Butte_CO_Harmel_Country_Dude_Ranch_Bonez_Fun_Laid-back_Live_Music_Reception_Mt_Crested_Butte_Beautiful_Ceremony_In_Woods_Lauren_Matt.jpg)
-
-![108_Crested_Butte_CO_Harmel_Country_Dude_Ranch_Bonez_Fun_Laid back_Live_Music_Reception_Mt_Crested_Butte_Beautiful_Ceremony_In_Woods_Lauren_Matt](http://images.magnifiedjoy.com/Blog/Weddings/2015/Lauren_Matt_Wedding/108_Crested_Butte_CO_Harmel_Country_Dude_Ranch_Bonez_Fun_Laid-back_Live_Music_Reception_Mt_Crested_Butte_Beautiful_Ceremony_In_Woods_Lauren_Matt.jpg)
