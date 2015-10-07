@@ -2,10 +2,10 @@
 title: Milwaukee, WI Wedding Photographer | Organic Outdoor Nature Urban Ecology Center Engagement | Kat + Jared
 label: Kat + Jared
 thumbnail: http://images.magnifiedjoy.com/Blog/Engagement/2015/Kat_Jared_Engagement/002_Milwaukee_Wedding_Engagement_Photographer_Urban_Ecology_Center_Woods_Trees_Forest_Willows_Sunset_Kat_Jared.jpg
-description: What a great time we had with Kat + Jared at the Urban Ecology Center in Milwaukee for their engagement shoot! Their individually fun laid-back bubbly personalities amplified each other during the shoot and they could not stop laughing and goofing off during the entire session! We cannot wait to celebrate their wedding next year, we just know it will be a blast!
+description: What a great time we had with Kat + Jared at the Urban Ecology Center in Milwaukee for their engagement shoot! They each have such fun laid-back, bubbly personalities that are just amplified when they are together, so their shoot was just laughter upon laughter the entire session. We cannot wait to celebrate their wedding next year in Minocqua, WI; we just know it will be a blast!
 keywords: best milwaukee wedding photographer, creative wedding photographer in milwaukee, unique engagement photos, couples portrait, Wisconsin, Urban Ecology Center, Engagement ideas near milwaukee, willow trees, forest, woods, sunset engagement photos
 ---
-What a great time we had with Kat + Jared at the [Urban Ecology Center](http://urbanecologycenter.org/) in Milwaukee for their engagement shoot! Their individually fun laid-back bubbly personalities amplified each other during the shoot and they could not stop laughing and goofing off during the entire session! We cannot wait to celebrate their wedding next year, we just know it will be a blast!
+What a great time we had with Kat + Jared at the [Urban Ecology Center](http://urbanecologycenter.org/) in Milwaukee for their engagement shoot! They each have such fun laid-back, bubbly personalities that are just amplified when they are together, so their shoot was just laughter upon laughter the entire session. We cannot wait to celebrate their wedding next year in Minocqua, WI; we just know it will be a blast!
 
 ![001_Milwaukee_Wedding_Engagement_Photographer_Urban_Ecology_Center_Woods_Trees_Forest_Willows_Sunset_Kat_Jared](http://images.magnifiedjoy.com/Blog/Engagement/2015/Kat_Jared_Engagement/001_Milwaukee_Wedding_Engagement_Photographer_Urban_Ecology_Center_Woods_Trees_Forest_Willows_Sunset_Kat_Jared.jpg)
 
