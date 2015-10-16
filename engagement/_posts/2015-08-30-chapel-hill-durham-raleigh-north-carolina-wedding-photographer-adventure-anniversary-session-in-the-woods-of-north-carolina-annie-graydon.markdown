@@ -2,10 +2,10 @@
 title: Chapel Hill Durham Raleigh Wedding Photographer | Anniversary Adventure Session in the woods of North Carolina | Annie + Graydon
 label: Annie + Graydon
 thumbnail: http://images.magnifiedjoy.com/Blog/Engagement/2015/Annie_Graydon_Couples/001_Anniversary_Adventure_Session_Durham_Chapel_Hill_Raleigh_North_Carolina_Woods_Annie_Graydon.jpg
-description: It brings us much joy to be able photograph Annie + Graydon and know that they will cherish their photos for years to come! They have not had photos taken of them since their disappointing wedding photography experience many years ago! 
+description: It brings us much joy to have been able to photograph Annie + Graydon, knowing that they will cherish their photos for years to come! They have not had photos taken of them since their disappointing wedding photography experience many years ago! 
 keywords: chapel hill wedding photographer, raleigh wedding photographer, durham wedding photographer, creative engagement photos, unique engagement photos, north carolina, adventurous wedding photographers, anniversary session
 ---
-It brings us much joy to be able photograph Annie + Graydon and know that they will cherish their photos for years to come! They have not had photos taken of them since their disappointing wedding photography experience many years ago! 
+It brings us much joy to have been able to photograph Annie + Graydon, knowing that they will cherish their photos for years to come! They have not had photos taken of them since their disappointing wedding photography experience many years ago! 
 
 ![001_Anniversary_Adventure_Session_Durham_Chapel_Hill_Raleigh_North_Carolina_Woods_Annie_Graydon](http://images.magnifiedjoy.com/Blog/Engagement/2015/Annie_Graydon_Couples/001_Anniversary_Adventure_Session_Durham_Chapel_Hill_Raleigh_North_Carolina_Woods_Annie_Graydon.jpg)
 
