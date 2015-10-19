@@ -3,7 +3,7 @@ title: Chapel Hill, NC Wedding Photographer | Fun Anniversary Adventure Couple P
 label: Boots + Stephen
 thumbnail: http://images.magnifiedjoy.com/Blog/Engagement/2015/Boots_Stephen_Couples/004_Chapel_Hill_NC_Morgan_Creek_Trail_Merritts_Pasture_adventure_hiking_anniversary_engagement_session_woods_open_field_wedding_photographer_boots_stephen.jpg
 description: It's been a blast getting to know Boots + Stephen through our small group at Summit Church. They are some of the sweetest people we got to know since being in Chapel Hill. They also make a pretty rad frolicking team. 
-keywords: chapel hill wedding photographer, merritts pasture engagement, chapel hill engagement photos, raleigh durham wedding photographer, fun organic photoshoot, photos in the woods, open field engagement
+keywords: chapel hill wedding photographer, merritts pasture engagement, chapel hill engagement photos, raleigh durham wedding photographer, fun organic photoshoot, photos in the woods, open field engagement, fall engagement photos, autumn engagement photos
 ---
 It's been a blast getting to know Boots + Stephen through our small group at Summit Church. They are some of the sweetest people we got to know since being in Chapel Hill. They also make a pretty rad frolicking team. 
 
