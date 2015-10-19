@@ -2,10 +2,10 @@
 title: Chapel Hill, NC Wedding Photographer | Fun Anniversary Adventure Couple Photoshoot | Merritt's Pasture | Morgan Creek Trail | Boots + Stephen 
 label: Boots + Stephen
 thumbnail: http://images.magnifiedjoy.com/Blog/Engagement/2015/Boots_Stephen_Couples/004_Chapel_Hill_NC_Morgan_Creek_Trail_Merritts_Pasture_adventure_hiking_anniversary_engagement_session_woods_open_field_wedding_photographer_boots_stephen.jpg
-description: It's been a blast getting to know Boots + Stephen through our small group at Summit Church. They are some of the sweetest people we got to know since being in Chapel Hill. They also make a pretty rad frolicking team. 
+description: It's been a blast getting to know Boots + Stephen through our small group at Summit Church here in Chapel Hill, NC. Boots is a super talented photographer and despite her stunning serious looks, she really has the sweetest childlike spirit on the inside. And Stephen, well, his mustache, fun laugh, and hipster vibe says it all. Together they also make a pretty rad frolicking team.
 keywords: chapel hill wedding photographer, merritts pasture engagement, chapel hill engagement photos, raleigh durham wedding photographer, fun organic photoshoot, photos in the woods, open field engagement, fall engagement photos, autumn engagement photos
 ---
-It's been a blast getting to know Boots + Stephen through our small group at Summit Church. They are some of the sweetest people we got to know since being in Chapel Hill. They also make a pretty rad frolicking team. 
+It's been a blast getting to know Boots + Stephen through our small group at Summit Church here in Chapel Hill, NC. Boots is a super talented photographer and despite her stunning serious looks, she really has the sweetest childlike spirit on the inside. And Stephen, well, his mustache, fun laugh, and hipster vibe says it all. Together they also make a pretty rad frolicking team. 
 
 ![001_Chapel_Hill_NC_Morgan_Creek_Trail_Merritts_Pasture_adventure_hiking_anniversary_engagement_session_woods_open_field_wedding_photographer_boots_stephen](http://images.magnifiedjoy.com/Blog/Engagement/2015/Boots_Stephen_Couples/001_Chapel_Hill_NC_Morgan_Creek_Trail_Merritts_Pasture_adventure_hiking_anniversary_engagement_session_woods_open_field_wedding_photographer_boots_stephen.jpg)
 
