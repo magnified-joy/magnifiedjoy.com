@@ -148,4 +148,4 @@ Tiffany + Tom have planned the most breathtaking wedding in Aspen, Colorado. Sho
 ![070_Aspen_CO_Mountain_Wedding_Reception_Little_Nell_Dance_Unique_Fun](http://images.magnifiedjoy.com/Blog/Weddings/2015/Tiffany_Tom_Wedding/070_Aspen_CO_Mountain_Wedding_Reception_Little_Nell_Dance_Unique_Fun.jpg)
 
 
-Dress: [Inbal Dror](http://www.inbaldror.co.il/en) //  Planner:  [Gold leaf Events](http://goldleafevent.com/)  //  Florist: [Carolyn Flowers](http://carolynsaspen.com/)  //  Venue: [The Little Nell](https://www.thelittlenell.com/)  //  Hair: [Blow out](http://www.theblowoutsalon.com/)  //  Quartet: [Silver City Strings](http://www.weddingmusicaspen.com/services.html)
+Dress: [Inbal Dror](http://www.inbaldror.co.il/en) //  Planner:  [Gold Leaf Events](http://goldleafevent.com/)  //  Florist: [Carolyn Flowers](http://carolynsaspen.com/)  //  Venue: [The Little Nell](https://www.thelittlenell.com/)  //  Hair: [Blow out](http://www.theblowoutsalon.com/)  //  Quartet: [Silver City Strings](http://www.weddingmusicaspen.com/services.html)
