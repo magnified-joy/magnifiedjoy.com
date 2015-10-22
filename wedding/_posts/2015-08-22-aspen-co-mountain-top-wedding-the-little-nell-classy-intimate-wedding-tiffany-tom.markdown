@@ -5,16 +5,6 @@ thumbnail: http://images.magnifiedjoy.com/Blog/Weddings/2015/Tiffany_Tom_Wedding
 description: 
 keywords: aspen wedding photographer, little nell wedding, little nell reception, intimate classy wedding, luxury wedding in aspen, colorado aspen wedding photographer, high end wedding, inbal dror wedding dress
 ---
-Dress: Inbal Dror
-Shoes: Louboutin
-Planner:  Gold leaf Events
-Florist: Carolyn Flowers 
-Venue: The Little Nell 
-Make up: Bride
-Hair: Blow out
-Quartet: Silver City Strings
-DJ: DJ Chris
-
 ![001_Aspen_CO_Mountain_Top_Wedding_Epic_Landscape_Summit_Bride_Groom_Portrait_Tiffany_Tom](http://images.magnifiedjoy.com/Blog/Weddings/2015/Tiffany_Tom_Wedding/001_Aspen_CO_Mountain_Top_Wedding_Epic_Landscape_Summit_Bride_Groom_Portrait_Tiffany_Tom.jpg)
 
 ![002_Aspen_CO_Wedding_Photographer_Mountain_Landscape](http://images.magnifiedjoy.com/Blog/Weddings/2015/Tiffany_Tom_Wedding/002_Aspen_CO_Wedding_Photographer_Mountain_Landscape.jpg)
@@ -158,3 +148,5 @@ DJ: DJ Chris
 ![071_Aspen_CO_Mountain_Wedding_Reception_Little_Nell_Dance_Unique_Fun](http://images.magnifiedjoy.com/Blog/Weddings/2015/Tiffany_Tom_Wedding/071_Aspen_CO_Mountain_Wedding_Reception_Little_Nell_Dance_Unique_Fun.jpg)
 
 ![072_Aspen_CO_Mountain_Wedding_Reception_Little_Nell_Dance_Unique_Fun](http://images.magnifiedjoy.com/Blog/Weddings/2015/Tiffany_Tom_Wedding/072_Aspen_CO_Mountain_Wedding_Reception_Little_Nell_Dance_Unique_Fun.jpg)
+
+Dress: [Inbal Dror](http://www.inbaldror.co.il/en) //  Planner:  [Gold leaf Events](http://goldleafevent.com/)  //  Florist: [Carolyn Flowers](http://carolynsaspen.com/)  //  Venue: [The Little Nell](https://www.thelittlenell.com/)  //  Hair: [Blow out](http://www.theblowoutsalon.com/)  //  Quartet: [Silver City Strings](http://www.weddingmusicaspen.com/services.html)
