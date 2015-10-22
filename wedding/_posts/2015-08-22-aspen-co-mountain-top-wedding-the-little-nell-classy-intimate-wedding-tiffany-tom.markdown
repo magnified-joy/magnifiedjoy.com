@@ -5,6 +5,8 @@ thumbnail: http://images.magnifiedjoy.com/Blog/Weddings/2015/Tiffany_Tom_Wedding
 description: 
 keywords: aspen wedding photographer, little nell wedding, little nell reception, intimate classy wedding, luxury wedding in aspen, colorado aspen wedding photographer, high end wedding, inbal dror wedding dress
 ---
+Tiffany + Tom have planned the most breathtaking wedding in Aspen, Colorado. Shout out to the wonderful wedding planning team at [Gold Leaf](http://goldleafevent.com/) who helped made Tiffany + Tom's wedding day perfect. Thank you to my buddy [AD](http://www.adonyejaja.com/) for having me join in on this wedding! 
+
 ![001_Aspen_CO_Mountain_Top_Wedding_Epic_Landscape_Summit_Bride_Groom_Portrait_Tiffany_Tom](http://images.magnifiedjoy.com/Blog/Weddings/2015/Tiffany_Tom_Wedding/001_Aspen_CO_Mountain_Top_Wedding_Epic_Landscape_Summit_Bride_Groom_Portrait_Tiffany_Tom.jpg)
 
 ![002_Aspen_CO_Wedding_Photographer_Mountain_Landscape](http://images.magnifiedjoy.com/Blog/Weddings/2015/Tiffany_Tom_Wedding/002_Aspen_CO_Wedding_Photographer_Mountain_Landscape.jpg)
