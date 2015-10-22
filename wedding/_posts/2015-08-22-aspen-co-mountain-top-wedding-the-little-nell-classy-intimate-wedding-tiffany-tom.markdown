@@ -51,9 +51,9 @@ Tiffany + Tom have planned the most breathtaking wedding in Aspen, Colorado. Sho
 
 ![022_Aspen_CO_Mountain_Wedding_Fox_On_Site](http://images.magnifiedjoy.com/Blog/Weddings/2015/Tiffany_Tom_Wedding/022_Aspen_CO_Mountain_Wedding_Fox_On_Site.jpg)
 
-![023_Aspen_CO_Mountain_Top_Luxury_Wedding_Ceremony_Site_Little_Nell_Classical_Quartet](http://images.magnifiedjoy.com/Blog/Weddings/2015/Tiffany_Tom_Wedding/023_Aspen_CO_Mountain_Top_Luxury_Wedding_Ceremony_Site_Little_Nell_Classical_Quartet.jpg)
-
 ![024_Aspen_CO_Mountain_Wedding_Fox_On_Site](http://images.magnifiedjoy.com/Blog/Weddings/2015/Tiffany_Tom_Wedding/024_Aspen_CO_Mountain_Wedding_Fox_On_Site.jpg)
+
+![023_Aspen_CO_Mountain_Top_Luxury_Wedding_Ceremony_Site_Little_Nell_Classical_Quartet](http://images.magnifiedjoy.com/Blog/Weddings/2015/Tiffany_Tom_Wedding/023_Aspen_CO_Mountain_Top_Luxury_Wedding_Ceremony_Site_Little_Nell_Classical_Quartet.jpg)
 
 ![025_Aspen_CO_Mountain_Wedding_Photographer_Dad_Walk_Down_Asile_with_Bride](http://images.magnifiedjoy.com/Blog/Weddings/2015/Tiffany_Tom_Wedding/025_Aspen_CO_Mountain_Wedding_Photographer_Dad_Walk_Down_Asile_with_Bride.jpg)
 
