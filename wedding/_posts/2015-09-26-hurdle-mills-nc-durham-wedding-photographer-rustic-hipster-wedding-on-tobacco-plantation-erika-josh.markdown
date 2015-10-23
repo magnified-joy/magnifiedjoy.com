@@ -2,10 +2,10 @@
 title: Hurdle Mills, NC | Durham Wedding Photographer | Rustic Hipster Wedding on Tobacco Plantation | Erika + Josh
 label: Erika + Josh
 thumbnail: http://images.magnifiedjoy.com/Blog/Weddings/2015/Erika_Josh_Wedding/052_Hurdle_Mills_Durham_Wedding_Photographer_Country_Tobacco_Farm_Plantation_Vintage_Hipster_Rustic_Fun_Rainy_Erika_Josh.jpg
-description: Erika + Josh are two creatives living in Brooklyn. Erika is a fashion photographer from LA. Josh is a graphic designer.  How rad is it that they got married on Josh's family tobacco plantation? Erika planned the most laid back wedding where everyone just had fun! It was awesome to celebrate with y'all.
+description: Erika + Josh are two creatives living in Brooklyn. Erika is a fashion photographer from LA and Josh is a graphic designer. Erika planned the most laid back wedding and their creativity really came through in many DIY elements of their celebration. How rad is it that they got married on Josh’s family tobacco plantation? It was awesome to celebrate with y’all. Thanks Brett + Jessica for having me join in on the fun!.
 keywords: best durham wedding photographer, raleigh wedding photographer, tobacco farm wedding, tobacco plantation wedding, modern hipster wedding, rustic hipster wedding, rainy day wedding, raining during wedding, unique weddings 2015
 ---
-Erika + Josh are two creatives living in Brooklyn. Erika is a fashion photographer from LA. Josh is a graphic designer.  How rad is it that they got married on Josh's family tobacco plantation? Erika planned the most laid back wedding where everyone just had fun! It was awesome to celebrate with y'all. Thanks [Brett + Jessica](http://brettjessica.com) for having me join in on the fun!
+Erika + Josh are two creatives living in Brooklyn. Erika is a fashion photographer from LA and Josh is a graphic designer. Erika planned the most laid back wedding and their creativity really came through in many DIY elements of their celebration. How rad is it that they got married on Josh’s family tobacco plantation? It was awesome to celebrate with y’all. Thanks [Brett + Jessica](http://brettjessica.com) for having me join in on the fun!
 
 ![001_Hurdle_Mills_Durham_Wedding_Photographer_Country_Tobacco_Farm_Plantation_Vintage_Hipster_Rustic_Fun_Rainy_Erika_Josh](http://images.magnifiedjoy.com/Blog/Weddings/2015/Erika_Josh_Wedding/001_Hurdle_Mills_Durham_Wedding_Photographer_Country_Tobacco_Farm_Plantation_Vintage_Hipster_Rustic_Fun_Rainy_Erika_Josh.jpg)
 
