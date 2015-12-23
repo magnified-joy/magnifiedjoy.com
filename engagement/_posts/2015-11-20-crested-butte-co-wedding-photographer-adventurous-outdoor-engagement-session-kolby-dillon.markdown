@@ -2,13 +2,12 @@
 title: Crested Butte, CO Wedding Photographer | Adventurous Outdoor Engagement Session | Kolby + Dillon
 label: Kolby + Dillon
 thumbnail: http://images.magnifiedjoy.com/Blog/Engagement/2015/Kolby_Dillon_Engagement/007_Crested_Butte_CO_Adventure_Engagement_Wedding_Photographer_Outdoor_Mountain_Aspen_River_Kolby_Dillon.jpg
-description: Kolby + Dillon came all the way from Texas to Crested Butte. Kolby's family had been to Crested Butte a few times for skiing, while it was Dillon's first time. We were able to show them some of our favorite areas of Crested Butte that are new to them on their adventure engagement session.
+description: Kolby + Dillon came all the way from Texas to Crested Butte for their December adventure session. Kolby’s family had been to Crested Butte a few times before for skiing, while it was Dillon’s first time. We were able to show them some of our favorite areas of Crested Butte that are new to them during their adventure engagement session.
 keywords: crested butte wedding photographer, crested butte engagement session, adventure engagement, winter engagement shoot, mountain engagement photos, crested butte in the winter
 ---
-Kolby + Dillon came all the way from Texas to Crested Butte. Kolby's family had been to Crested Butte a few times for skiing, while it was Dillon's first time. We were able to show them some of our favorite areas of Crested Butte that are new to them on their adventure engagement session. 
+Kolby + Dillon came all the way from Texas to Crested Butte for their December adventure session. Kolby’s family had been to Crested Butte a few times before for skiing, while it was Dillon’s first time. We were able to show them some of our favorite areas of Crested Butte that are new to them during their adventure engagement session.
 
-As a bonus, Kolby wanted to do something special for their families as an early Christmas gift and organized family session for their two immediate families followed their engagement session. 
-
+As a bonus, Kolby wanted to do something special for their families as an early Christmas gift and organized family photo sessions for their two immediate families followed their engagement session. What a fun way to mark not only their engagement but also their first joint family vacation together!
 ![001_Crested_Butte_CO_Adventure_Engagement_Wedding_Photographer_Outdoor_Mountain_Aspen_River_Kolby_Dillon](http://images.magnifiedjoy.com/Blog/Engagement/2015/Kolby_Dillon_Engagement/001_Crested_Butte_CO_Adventure_Engagement_Wedding_Photographer_Outdoor_Mountain_Aspen_River_Kolby_Dillon.jpg)
 
 ![002_Crested_Butte_CO_Adventure_Engagement_Wedding_Photographer_Outdoor_Mountain_Aspen_River_Kolby_Dillon](http://images.magnifiedjoy.com/Blog/Engagement/2015/Kolby_Dillon_Engagement/002_Crested_Butte_CO_Adventure_Engagement_Wedding_Photographer_Outdoor_Mountain_Aspen_River_Kolby_Dillon.jpg)
