@@ -7,7 +7,7 @@ keywords: crested butte wedding photographer , alternative wedding ideas, woods 
 ---
 Julie + Matt planned an incredibly fun wedding in Crested Butte, CO. Even the stars celebrated with them in the night. 
 
-Special thanks to Jamie at Blue Bird Events 
+High five to Jamie at [Blue Bird Events](http://www.blue-bird-events.com/) for her magic in wedding planning! 
 
 ![001_Crested_Butte_Wedding_Photographer_Secret_Stash_Woods_Walk_Ceremony_Jamie_Blue_Bird_Events_Boho_Epic_Stars](http://images.magnifiedjoy.com/Blog/Weddings/2016/Julie_Matt_Wedding/001_Crested_Butte_Wedding_Photographer_Secret_Stash_Woods_Walk_Ceremony_Jamie_Blue_Bird_Events_Boho_Epic_Stars.jpg)
 
